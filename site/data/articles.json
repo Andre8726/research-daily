@@ -6981,6 +6981,22 @@
     "reason": "；期刊论文"
   },
   {
+    "id": "10.1016/j.mlwa.2026.100934",
+    "doi": "10.1016/j.mlwa.2026.100934",
+    "title": "Risk-adjusted policy learning and the social cost of uncertainty: Theory and evidence from CAP evaluation",
+    "summary": "",
+    "date": "2026-09-01",
+    "url": "https://doi.org/10.1016/j.mlwa.2026.100934",
+    "journal": "Machine Learning with Applications",
+    "source": "Machine Learning with Applications",
+    "tags": [],
+    "authors": [],
+    "relevance": 0,
+    "score": 12.1,
+    "journal_priority": false,
+    "reason": "；期刊论文"
+  },
+  {
     "id": "10.4283/jkms.2026.36.4.347",
     "doi": "10.4283/jkms.2026.36.4.347",
     "title": "Electrical Manipulation of Magnetic Octupole Moments in Non-Collinear Antiferromagnet Mn₃Sn: A Review",
@@ -7281,6 +7297,22 @@
     "authors": [],
     "relevance": 0,
     "score": 10.6,
+    "journal_priority": false,
+    "reason": "；期刊论文"
+  },
+  {
+    "id": "10.1103/gktr-c1sv",
+    "doi": "10.1103/gktr-c1sv",
+    "title": "Random geometry of maximum-density dimer packings of the site-diluted kagome lattice",
+    "summary": "",
+    "date": "2026-08-17",
+    "url": "https://doi.org/10.1103/gktr-c1sv",
+    "journal": "Physical Review B",
+    "source": "Physical Review B",
+    "tags": [],
+    "authors": [],
+    "relevance": 0,
+    "score": 10.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
