@@ -1,8 +1,18 @@
 # 科研日报 · Research Daily
 
-一个独立运行的科研论文阅读网站，聚焦 **Kagome 型反铁磁、自旋存储和 AI for spintronics**，帮助研究者在有限精力下优先发现值得阅读的相关论文。
+聚焦 **Kagome 型反铁磁、自旋存储和 AI for spintronics** 的独立科研日报网站。每天自动汇集期刊论文与预印本，按相关性、期刊优先级和时效性筛选最多 5 篇近期精选，并通过 GitHub 登录与 Supabase 保存个人阅读记录，支持跨电脑、跨浏览器同步。
 
 **访问网站：https://andre8726.github.io/research-daily/**
+
+## 开始使用
+
+1. 打开 [科研日报](https://andre8726.github.io/research-daily/)，浏览近期精选，或按方向、关键词寻找论文。
+2. 如需跨设备保存记录，点击顶部 **GitHub 登录同步**，完成登录和授权。
+3. 新论文默认为 **未读**；主动选择 **待读** 后加入待读库，选择 **已读** 后加入已读库并退出精选。
+4. 若此前在当前浏览器中保存过记录，登录后点击 **合并本机记录**；已有云端记录优先。
+5. 在另一台电脑使用同一 GitHub 账号登录，即可加载个人阅读记录。以页面“阅读记录已同步”提示确认同步结果。
+
+无需登录也能浏览论文和使用本机阅读状态。登录只用于个人阅读记录同步，不要求授予 GitHub 仓库读写权限。
 
 ## 关注的研究方向
 
@@ -68,6 +78,8 @@ scripts/update.py           # Crossref / arXiv 检索与数据保存
 scripts/ranking.py          # 相关性规则、期刊偏好与排序
 scripts/images.py           # 出版商文章预览图元数据
 site/index.html             # 网站页面、筛选、搜索与阅读库
+site/cloud.js               # GitHub 登录、云端同步与本机记录合并
+site/vendor/                # 固定版本的 Supabase 客户端
 site/data/articles.json     # 论文元数据与推荐信息
 site/data/status.json       # 最近成功更新时间
 ```
@@ -95,3 +107,11 @@ python3 -m http.server 8765 --bind 127.0.0.1 --directory site
 
 公有仓库的定时工作流可能因长期无活动而被 GitHub 停用，请留意 Actions 状态。网站显示最近成功更新时间，可据此确认数据是否更新。
 
+## 登录与同步排查
+
+- GitHub 提示 `redirect_uri is not associated with this application`：检查 GitHub OAuth App 的 Redirect URI，应与 Supabase 控制台提供的 Auth callback 完全一致；修改后保存并重新从网站发起登录。
+- 登录后未返回网站：检查 Supabase 的 Site URL 与 Redirect URLs，需包含完整网站地址（含 `/research-daily/`）。
+- 记录未同步：确认两台设备使用同一 GitHub 账号；检查页面同步状态，联网后点击“重新同步”。未成功同步前避免清理浏览器存储。
+- 本地预览与线上地址是不同来源，访客记录不共享；GitHub OAuth 默认返回线上网站。
+
+维护或复用本项目时，需自行配置 Supabase 项目、阅读记录表的 RLS、GitHub OAuth App 和前端公开配置。不要把 Client Secret、数据库密码或 Supabase Secret Key 写入仓库。
