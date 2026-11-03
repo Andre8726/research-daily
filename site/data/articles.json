@@ -1,5 +1,39 @@
 [
   {
+    "id": "10.1126/science.adv3196",
+    "doi": "10.1126/science.adv3196",
+    "title": "Chiral altermagnon in MnTe",
+    "summary": "Altermagnetism has been recognized as a magnetic phase that bridges the properties of ferro- and antiferromagnetism. The momentum-dependent spin splitting observed in these materials reflects their distinctive symmetry characteristics, which also establish the conditions for chiral magnons to emerge. Here we provide direct experimental evidence for a chiral magnon in the altermagnetic candidate manganese telluride (MnTe) revealed by circular-dichroism resonant inelastic x-ray scattering. This mode, which we term chiral altermagnon, exhibits a distinct momentum dependence of its spin polarization consistent with the altermagnetic g -wave symmetry of MnTe. Our polarization-resolved data corroborate the existence of a discrete class of magnetic excitations, demonstrating how altermagnetic order shapes spin dynamics and paving the way for advances in spintronic and quantum technologies.",
+    "date": "2026-10-29",
+    "journal": "Science",
+    "source": "Science",
+    "url": "https://doi.org/10.1126/science.adv3196",
+    "authors": [
+      "Daniel Jost",
+      "Resham Babu Regmi",
+      "Eder G. Lomeli",
+      "Samuel Sahel-Schackis",
+      "Monika Scheufele",
+      "Marcel Neuhaus",
+      "Rachel Nickel",
+      "Flora Yakhou",
+      "Kurt Kummer",
+      "Nicholas B. Brookes",
+      "Lingjia Shen",
+      "Georgi L. Dakovski",
+      "Nirmal J. Ghimire",
+      "Stephan Geprägs",
+      "Matthias F. Kling"
+    ],
+    "tags": [
+      "交替磁性与自旋动力学"
+    ],
+    "relevance": 95,
+    "score": 95.9,
+    "journal_priority": true,
+    "reason": "交替磁性与自旋动力学；重点关注期刊"
+  },
+  {
     "id": "10.1021/acsnano.6c10331",
     "doi": "10.1021/acsnano.6c10331",
     "title": "Unfolding\nof Field-Free Spin–Orbit Torque Magnetization\nSwitching in a van der Waals Heterostructure",
@@ -13,7 +47,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 94.9,
+    "score": 94.8,
     "journal_priority": true,
     "reason": "自旋存储；重点关注期刊"
   },
@@ -31,7 +65,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 94.3,
+    "score": 94.2,
     "journal_priority": true,
     "reason": "自旋存储；重点关注期刊",
     "image": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-026-02290-2/MediaObjects/41565_2026_2290_Fig1_HTML.png",
@@ -52,7 +86,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 91.8,
+    "score": 91.7,
     "journal_priority": true,
     "reason": "Kagome 反铁磁；重点关注期刊"
   },
@@ -70,7 +104,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 90.4,
+    "score": 90.3,
     "journal_priority": true,
     "reason": "自旋存储；重点关注期刊",
     "image": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-026-01699-w/MediaObjects/41928_2026_1699_Fig1_HTML.png",
@@ -91,7 +125,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 89.1,
+    "score": 88.9,
     "journal_priority": true,
     "reason": "自旋存储；重点关注期刊"
   },
@@ -109,7 +143,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 89.1,
+    "score": 88.9,
     "journal_priority": true,
     "reason": "自旋存储；重点关注期刊"
   },
@@ -127,7 +161,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 87.2,
+    "score": 87.1,
     "journal_priority": true,
     "reason": "Kagome 反铁磁；重点关注期刊"
   },
@@ -145,7 +179,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 85.5,
+    "score": 85.4,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -163,7 +197,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 85.4,
+    "score": 85.3,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -181,7 +215,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 85.4,
+    "score": 85.3,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -199,7 +233,7 @@
     ],
     "authors": [],
     "relevance": 80,
-    "score": 83.8,
+    "score": 83.7,
     "journal_priority": true,
     "reason": "自旋存储；重点关注期刊",
     "image": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44306-026-00162-y/MediaObjects/44306_2026_162_Fig1_HTML.png",
@@ -220,7 +254,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 83.5,
+    "score": 83.4,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -238,7 +272,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 82.8,
+    "score": 82.7,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -256,7 +290,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 82.7,
+    "score": 82.6,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -274,7 +308,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 82.7,
+    "score": 82.6,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -292,9 +326,27 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 82.5,
+    "score": 82.4,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
+  },
+  {
+    "id": "10.1103/9my8-21z2",
+    "doi": "10.1103/9my8-21z2",
+    "title": "Unconventional spin-valve effect in altermagnets induced by Rashba spin-orbit coupling and triplet superconductivity",
+    "summary": "",
+    "date": "2026-10-02",
+    "url": "https://doi.org/10.1103/9my8-21z2",
+    "journal": "Physical Review B",
+    "source": "Physical Review B",
+    "tags": [
+      "交替磁性与自旋动力学"
+    ],
+    "authors": [],
+    "relevance": 95,
+    "score": 81.9,
+    "journal_priority": false,
+    "reason": "交替磁性与自旋动力学；期刊论文"
   },
   {
     "id": "10.1016/j.jmmm.2026.174367",
@@ -310,7 +362,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 81.9,
+    "score": 81.8,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -328,7 +380,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 81.9,
+    "score": 81.8,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -347,7 +399,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 81.8,
+    "score": 81.7,
     "journal_priority": false,
     "reason": "自旋存储；AI for spintronics；期刊论文"
   },
@@ -365,7 +417,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 81.6,
+    "score": 81.5,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -383,7 +435,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 81.2,
+    "score": 81.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -401,7 +453,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 81.1,
+    "score": 80.9,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -419,7 +471,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 81.1,
+    "score": 80.9,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -437,7 +489,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 80.9,
+    "score": 80.8,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -455,7 +507,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 80.8,
+    "score": 80.7,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -474,7 +526,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 80.8,
+    "score": 80.7,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；自旋存储；期刊论文"
   },
@@ -492,9 +544,27 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 80.3,
+    "score": 80.2,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
+  },
+  {
+    "id": "10.1002/adfm.77835",
+    "doi": "10.1002/adfm.77835",
+    "title": "Crystallographic Spin‐Orbit Torque From Epitaxial CrSb",
+    "summary": "ABSTRACT \n                   \n                    Altermagnets (AMs) represent an emerging magnetic phase that combines compensated antiferromagnetic order with ferromagnet‐like spin‐splitting, offering a new route for efficient spin‐current generation. Here, we experimentally demonstrate spin‐torque generation in epitaxial CrSb and reveal a pronounced crystallographic dependence of the resulting spin‐orbit torques (SOTs) across the () and () orientations. Using spin‐torque ferromagnetic resonance, we identify unconventional SOT behavior, including a finite\n                     x \n                    ‐polarized damping‐like torque and reversal of the\n                     y \n                    ‐polarized damping‐like torque between the two crystal planes, features that cannot be explained by conventional spin Hall or Rashba–Edelstein mechanisms. The damping‐like torque efficiencies are comparable to those of heavy metals and exhibit strong in‐plane anisotropy directly linked to crystal symmetry. Symmetry analysis shows that the observed angular dependence originates from a crystallographic torque permitted by the\n                     C \n                     \n                      2\n                       v \n                     \n                    point group, whereas AM‐specific contributions from the magnetic spin Hall and spin‐splitter effects remain negligible due to the multi‐domain state and weak strain‐induced\n                     g \n                    ‐to‐\n                     d \n                    spin symmetry deformation in CrSb. These findings show that epitaxial CrSb can host strongly anisotropic spin‐torques governed primarily by crystallographic and interfacial symmetry, providing a route toward crystallographically engineered spintronic devices.",
+    "date": "2026-09-10",
+    "url": "https://doi.org/10.1002/adfm.77835",
+    "journal": "Advanced Functional Materials",
+    "source": "Advanced Functional Materials",
+    "tags": [
+      "交替磁性与自旋动力学"
+    ],
+    "authors": [],
+    "relevance": 80,
+    "score": 80.0,
+    "journal_priority": true,
+    "reason": "交替磁性与自旋动力学；重点关注期刊"
   },
   {
     "id": "10.1038/s43246-026-01343-2",
@@ -510,7 +580,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 79.8,
+    "score": 79.7,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -528,7 +598,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 78.9,
+    "score": 78.8,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -546,7 +616,7 @@
     ],
     "authors": [],
     "relevance": 80,
-    "score": 78.9,
+    "score": 78.8,
     "journal_priority": true,
     "reason": "自旋存储；重点关注期刊"
   },
@@ -564,7 +634,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 78.8,
+    "score": 78.7,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -582,7 +652,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 78.6,
+    "score": 78.5,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -601,7 +671,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 78.6,
+    "score": 78.5,
     "journal_priority": false,
     "reason": "自旋存储；AI for spintronics；期刊论文"
   },
@@ -619,7 +689,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 78.6,
+    "score": 78.5,
     "journal_priority": false,
     "reason": "AI for spintronics；期刊论文"
   },
@@ -637,7 +707,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 77.3,
+    "score": 77.2,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -651,13 +721,14 @@
     "journal": "Chinese Physics B",
     "source": "Chinese Physics B",
     "tags": [
-      "自旋存储"
+      "自旋存储",
+      "交替磁性与自旋动力学"
     ],
     "authors": [],
     "relevance": 95,
-    "score": 77.2,
+    "score": 77.1,
     "journal_priority": false,
-    "reason": "自旋存储；期刊论文"
+    "reason": "自旋存储；交替磁性与自旋动力学；期刊论文"
   },
   {
     "id": "10.1063/5.0326907",
@@ -673,7 +744,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 76.3,
+    "score": 76.2,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -691,7 +762,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 76.2,
+    "score": 76.1,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -711,7 +782,7 @@
       "Guang-Ming Zhang"
     ],
     "relevance": 95,
-    "score": 76.2,
+    "score": 76.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -732,7 +803,7 @@
       "Jie-Xiang Yu"
     ],
     "relevance": 95,
-    "score": 76.1,
+    "score": 75.9,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -753,7 +824,7 @@
       "Fabio Pasqualetti"
     ],
     "relevance": 95,
-    "score": 76.1,
+    "score": 75.9,
     "journal_priority": false,
     "reason": "自旋存储；AI for spintronics；预印本补充"
   },
@@ -773,7 +844,7 @@
       "Debasis Das"
     ],
     "relevance": 95,
-    "score": 76.1,
+    "score": 75.9,
     "journal_priority": false,
     "reason": "自旋存储；AI for spintronics；预印本补充"
   },
@@ -791,7 +862,7 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 75.8,
+    "score": 75.7,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -823,7 +894,7 @@
       "B J Hickey"
     ],
     "relevance": 95,
-    "score": 75.7,
+    "score": 75.6,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -843,7 +914,7 @@
       "Frédéric Mila"
     ],
     "relevance": 95,
-    "score": 75.6,
+    "score": 75.5,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -875,7 +946,7 @@
       "S. Suetsugu"
     ],
     "relevance": 95,
-    "score": 75.6,
+    "score": 75.5,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -907,7 +978,7 @@
       "Huiqian Luo"
     ],
     "relevance": 95,
-    "score": 75.2,
+    "score": 75.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -933,7 +1004,7 @@
       "Mingquan He"
     ],
     "relevance": 95,
-    "score": 75.2,
+    "score": 75.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -959,7 +1030,7 @@
       "Young S. Lee"
     ],
     "relevance": 95,
-    "score": 74.6,
+    "score": 74.5,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -979,7 +1050,7 @@
       "Chanchal Sow"
     ],
     "relevance": 95,
-    "score": 74.2,
+    "score": 74.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -1011,7 +1082,7 @@
       "Ronghua Liu"
     ],
     "relevance": 95,
-    "score": 73.7,
+    "score": 73.6,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -1034,7 +1105,7 @@
       "Jianhua Zhao"
     ],
     "relevance": 95,
-    "score": 73.6,
+    "score": 73.5,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -1059,9 +1130,31 @@
       "Kaustuv Manna"
     ],
     "relevance": 95,
-    "score": 73.4,
+    "score": 73.3,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
+  },
+  {
+    "id": "2610.04684",
+    "title": "Electron-phonon control of obstructed and quantum spin Hall topology in an altermagnet",
+    "summary": "We theoretically demonstrate control over the interplay between obstructed atomic insulating and first-order topological phases via electron-phonon coupling (EPC) in a $d$-wave altermagnet (AM) that hosts nonrelativistic spin-split bands with zero net magnetization. By embedding a $d_{x^{2}-y^{2}}$-wave AM in a quantum spin Hall (QSH) insulator, we show that an altermagnetic order beyond a critical strength reconstructs the parent QSH state of a Bernevig-Hughes-Zhang (BHZ)-type topological insulator (TI) into an obstructed atomic insulator (OAI), characterized by nontrivial bulk polarization with quantized fractional corner charges, accompanied by characteristic in-gap boundary states, while the spin Chern number vanishes. Upon incorporating sufficiently strong EPC, the polaronic dressing reorganizes the Wannier centers and the associated effective edge topology, thereby weakening the altermagnetism-induced OAI phase and restoring the helical QSH edge modes. Further, EPC eventually drives the system into a trivial insulator. By uncovering a controllable switching mechanism between topologically distinct insulating phases in AMs, our study establishes a direct route toward phonon-tuned spintronic functionalities in unconventional magnetic platforms.",
+    "date": "2026-10-03",
+    "updated": "2026-10-03T17:55:22Z",
+    "url": "https://arxiv.org/abs/2610.04684v1",
+    "tags": [
+      "自旋存储",
+      "交替磁性与自旋动力学"
+    ],
+    "source": "arXiv · 预印本",
+    "authors": [
+      "Kuntal Bhattacharyya",
+      "Bilal Tanatar",
+      "Saurabh Basu"
+    ],
+    "relevance": 95,
+    "score": 73.1,
+    "journal_priority": false,
+    "reason": "自旋存储；交替磁性与自旋动力学；预印本补充"
   },
   {
     "id": "2610.01568",
@@ -1085,7 +1178,7 @@
       "Mathias Kläui"
     ],
     "relevance": 95,
-    "score": 72.9,
+    "score": 72.8,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -1108,7 +1201,7 @@
       "S. Manni"
     ],
     "relevance": 95,
-    "score": 72.8,
+    "score": 72.7,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -1129,7 +1222,7 @@
       "Lijun Zhu"
     ],
     "relevance": 95,
-    "score": 72.7,
+    "score": 72.6,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -1150,7 +1243,7 @@
       "Himanshu Thapliyal"
     ],
     "relevance": 95,
-    "score": 72.5,
+    "score": 72.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -1172,7 +1265,7 @@
       "Alexandru B. Georgescu"
     ],
     "relevance": 95,
-    "score": 72.2,
+    "score": 72.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -1210,7 +1303,7 @@
       "Seung-Hun Lee"
     ],
     "relevance": 95,
-    "score": 71.4,
+    "score": 71.3,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -1238,7 +1331,7 @@
       "Martin Dressel"
     ],
     "relevance": 95,
-    "score": 71.3,
+    "score": 71.2,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -1283,9 +1376,30 @@
       "Shikun He"
     ],
     "relevance": 95,
-    "score": 71.3,
+    "score": 71.2,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
+  },
+  {
+    "id": "2609.16749",
+    "title": "Electric-Field-Switchable Altermagnetism via Ligand Rotation in a d0 Metal-Organic Framework",
+    "summary": "Altermagnetism combines vanishing net magnetization with momentum-dependent spin splitting. While altermagnetic signatures have been identified in metal-organic frameworks (MOFs), non-invasive reversible control remains challenging. Here we report a route to electric-field-switchable altermagnetism in a flexible d0-MOF, in which polar substituents couple the external field to ligand rotation. In the planar ground state, pz orbitals mediate 180-degree ligand-metal-ligand superexchange (J2), stabilizing antiferromagnetic order. Rotating ligands out of plane activates px/py orbitals, enhances 90-degree pathways (J1), and reverses J1/J2 competition. The antiferromagnetic-to-altermagnetic crossover occurs at approx. 34 degrees, with spin splitting of 84 meV at 90 degrees. The 90-degree altermagnetic state is switched on by the electric field and switched off upon field removal, as the constrained-rotation landscape decreases monotonically back toward 0 degrees, enabling barrierless relaxation to the antiferromagnetic state and reversible on/off operation. Ab initio molecular dynamics at 300 K shows thermal fluctuations alone cannot synchronize ligand rotation. Polar substituents provide the required coupling for electric-field control; for fluorinated substituents, the critical field is approx. 0.22 V/Angstrom, comparable to field-effect devices. This work establishes ligand p orbitals, rather than transition-metal d orbitals, as the origin of altermagnetic order and shows that polar substituents enable electric-field control for organic spintronics.",
+    "date": "2026-09-15",
+    "updated": "2026-10-12T09:22:12Z",
+    "url": "https://arxiv.org/abs/2609.16749v2",
+    "tags": [
+      "交替磁性与自旋动力学"
+    ],
+    "source": "arXiv · 预印本",
+    "authors": [
+      "Hongjing Wang",
+      "Xiuling Li",
+      "Xiaojun Wu"
+    ],
+    "relevance": 95,
+    "score": 71.1,
+    "journal_priority": false,
+    "reason": "交替磁性与自旋动力学；预印本补充"
   },
   {
     "id": "2609.11745",
@@ -1310,7 +1424,7 @@
       "Chengkang Zhou"
     ],
     "relevance": 95,
-    "score": 70.6,
+    "score": 70.5,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -1332,9 +1446,35 @@
       "Kaiming Cai"
     ],
     "relevance": 95,
-    "score": 70.6,
+    "score": 70.5,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
+  },
+  {
+    "id": "2609.11816",
+    "title": "Piezomagnetism in a model cubic noncollinear altermagnet",
+    "summary": "Altermagnets constitute a distinct class of magnetic materials that combine compensated magnetic order with spin-polarized electronic bands, hence carrying characteristics of both antiferromagnets and ferromagnets. Piezomagnetism - the linear relationship between lattice strain and a net magnetic moment - has emerged as smoking-gun evidence of altermagnetism that distinguishes it from antiferromagnetism. Here, we uncover a large piezomagnetic response in MnTe2, a cubic altermagnet with a noncollinear spin arrangement and weak spin-orbit coupling. We combine dilatometry with nuclear magnetic resonance, a bulk local probe, to observe signatures of both direct and inverse piezomagnetism consistent with symmetry considerations and first-principles calculations. The dilatometry measurements reveal a shear deformation proportional to an applied magnetic field, while magnetic resonance detects a ferromagnetic moment induced by shear strain. The respective results for the piezomagnetic coupling strength are in good agreement, and they are captured by first-principles results. These findings for simple binary MnTe2 position this material as a model altermagnet, demonstrate the utility of nuclear magnetic resonance in investigations of piezomagnetism, and open new avenues for multimodal strain and magnetic-field control in spintronic and memory applications.",
+    "date": "2026-09-10",
+    "updated": "2026-09-10T17:10:08Z",
+    "url": "https://arxiv.org/abs/2609.11816v1",
+    "tags": [
+      "自旋存储",
+      "交替磁性与自旋动力学"
+    ],
+    "source": "arXiv · 预印本",
+    "authors": [
+      "Sudarshan Sharma",
+      "Luca Buiarelli",
+      "Richard Spieker",
+      "Ivan Jakovac",
+      "Damjan Pelc",
+      "Turan Birol",
+      "Martin Greven"
+    ],
+    "relevance": 95,
+    "score": 70.5,
+    "journal_priority": false,
+    "reason": "自旋存储；交替磁性与自旋动力学；预印本补充"
   },
   {
     "id": "2609.09699",
@@ -1363,9 +1503,32 @@
       "Qiang Zhang"
     ],
     "relevance": 95,
-    "score": 70.5,
+    "score": 70.4,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
+  },
+  {
+    "id": "2609.07548",
+    "title": "Switchable Altermagnetism in a Layered van der Waals Metal-Organic Framework Driven by Spin-Crossover",
+    "summary": "Dynamical control of altermagnetism is a key requirement for translating its unique spin-dependent functionalities into practical spintronic devices, yet effective switching mechanisms remain largely unexplored. Here, we open an unprecedented, versatile and programmable route based on spin-crossover to switch altermagnetism on demand in molecular materials. Using density functional calculations, we demonstrate an altermagnetic ground state in the layered van der Waals MOFs MnX$_2$(tdz)$_2$ (X = Cl, Br; tdz = thiadiazole), stabilized by anisotropic interlayer exchange interactions, which gives rise to a characteristic d-wave momentum-space spin splitting and an associated spin-splitter transport response. Our findings reveal that under hydrostatic pressure, a high-spin to low-spin transition reconfigures the Mn d-orbital occupation, thus modifying the magnetic exchange network, and stabilizing a different antiferromagnetic ground state whose symmetry suppresses the nonrelativistic spin splitting. Crucially, spin-crossover switches altermagnetism not by directly altering the electronic structure, but by changing the symmetry of the magnetic ground state. These results establish molecular spin-crossover altermagnets as a platform for externally reconfigurable spintronic devices.",
+    "date": "2026-09-07",
+    "updated": "2026-09-07T14:30:10Z",
+    "url": "https://arxiv.org/abs/2609.07548v1",
+    "tags": [
+      "自旋存储",
+      "交替磁性与自旋动力学"
+    ],
+    "source": "arXiv · 预印本",
+    "authors": [
+      "Diego López-Alcalá",
+      "Alberto M. Ruiz",
+      "Andrei Shumilin",
+      "José J. Baldoví"
+    ],
+    "relevance": 95,
+    "score": 70.2,
+    "journal_priority": false,
+    "reason": "自旋存储；交替磁性与自旋动力学；预印本补充"
   },
   {
     "id": "2609.06362",
@@ -1387,9 +1550,37 @@
       "Vladimir Antropov"
     ],
     "relevance": 95,
-    "score": 70.2,
+    "score": 70.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
+  },
+  {
+    "id": "2609.05085",
+    "title": "Cross-Layer Anomalous Hall Transport driven by Néel-Vector rotating in the Altermagnet candidate V2Te2O",
+    "summary": "In van der Waals (vdW) materials, weak interlayer coupling generally suppresses vertical dispersion, reinforcing the conventional paradigm that in-plane transport dominates over cross-layer channels. Here, using first-principles calculations and magnetic symmetry analyses, we uncover a giant, symmetry-unlocked cross-layer anomalous Hall conductivity (AHC) in the vdW altermagnet V2Te2O. In the magnetic ground state with Neel vector N//z, horizontal mirror symmetry protects a spin-polarized nodal chain near the Fermi level and strictly enforces zero anomalous Hall response. Tilting the Neel vector explicitly breaks this mirror protection, allowing spin-orbit coupling to gap the nodal chain and activate a sharp cross-layer Hall response. When the Neel vector is rotated into the in-plane configuration (N//x), cross-layer orbital hybridization generates intensive Berry curvature hotspots, boosting the cross-layer component of AHC σ_{yz} to approximately 255 S/cm, which exceeds in-plane component σ_{xy} by nearly two orders of magnitude. Furthermore, varying the azimuthal angle systematically redistributes the anomalous Hall response, enabling full directional control of transverse transport. Our findings demonstrate a highly sensitive cross-layer anomalous Hall switch activated by low-barrier spin canting, offering promising avenues for directional tensor selection and low-power multi-axial vdW spintronics.",
+    "date": "2026-09-04",
+    "updated": "2026-09-04T12:38:53Z",
+    "url": "https://arxiv.org/abs/2609.05085v1",
+    "tags": [
+      "交替磁性与自旋动力学"
+    ],
+    "source": "arXiv · 预印本",
+    "authors": [
+      "Yanan Pan",
+      "W. Z. Zhuo",
+      "Pan Gao",
+      "Ziyu Zhou",
+      "Junqing Xu",
+      "Lijie Shao",
+      "Damin Meng",
+      "Weiwei Chen",
+      "Zhongjun Li",
+      "Ye Yang"
+    ],
+    "relevance": 95,
+    "score": 69.8,
+    "journal_priority": false,
+    "reason": "交替磁性与自旋动力学；预印本补充"
   },
   {
     "id": "10.1002/aelm.70545",
@@ -1405,7 +1596,7 @@
     ],
     "authors": [],
     "relevance": 80,
-    "score": 69.8,
+    "score": 69.7,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -1431,7 +1622,7 @@
       "Wenhong Wang"
     ],
     "relevance": 95,
-    "score": 69.6,
+    "score": 69.5,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -1449,7 +1640,7 @@
     ],
     "authors": [],
     "relevance": 80,
-    "score": 69.2,
+    "score": 69.1,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -1474,7 +1665,7 @@
       "Vladimir Antropov"
     ],
     "relevance": 95,
-    "score": 68.7,
+    "score": 68.6,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；自旋存储；预印本补充"
   },
@@ -1495,9 +1686,30 @@
       "Yang Sun"
     ],
     "relevance": 95,
-    "score": 68.7,
+    "score": 68.6,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
+  },
+  {
+    "id": "2608.19476",
+    "title": "Altermagnetic memcapacitors",
+    "summary": "We propose a spintronic memcapacitance effect based upon altermagnetic multiferroic materials. We identify the rare-earth vanadates RVO$_3$ as a concrete platform, with all key parameters tied to measured properties. Under an oscillating electric field, the resulting charge and spin currents trace pinched hysteresis loops that close tangentially at zero field -- the hallmark of memcapacitive, type-2 memdevice behavior -- with charge current densities exceeding, by a factor of about 3.6, the lowest deterministic switching current density reported for optimized spin-transfer-torque magnetic tunnel junctions. We model the system theoretically as a dimerized two-orbital $d$-wave altermagnetic lattice via a Su--Schrieffer--Heeger-type bond modulation, in the spirit of the spin-dependent Rice--Mele model, thereby coupling the altermagnetic order to field-switchable charge and spin polarizations. The associated polarization loops close tangentially at zero field and yield a sign-changing, history-dependent ``butterfly'' differential capacitance, identifying the device as a genuine memcapacitor. Both responses are protected by the same inversion symmetry, so charge and spin channels switch simultaneously with no separate control needed. These results establish altermagnetic multiferroics, realized concretely in RVO$_3$, as an efficient, non-volatile platform for combined electric and spintronic memory.",
+    "date": "2026-08-19",
+    "updated": "2026-08-19T22:23:01Z",
+    "url": "https://arxiv.org/abs/2608.19476v1",
+    "tags": [
+      "自旋存储",
+      "交替磁性与自旋动力学"
+    ],
+    "source": "arXiv · 预印本",
+    "authors": [
+      "Martin Latorre",
+      "Alvaro S. Nunez"
+    ],
+    "relevance": 95,
+    "score": 68.1,
+    "journal_priority": false,
+    "reason": "自旋存储；交替磁性与自旋动力学；预印本补充"
   },
   {
     "id": "2608.17558",
@@ -1517,7 +1729,7 @@
       "Tianxing Ma"
     ],
     "relevance": 95,
-    "score": 68.1,
+    "score": 67.9,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -1538,9 +1750,31 @@
       "Qian Niu"
     ],
     "relevance": 95,
-    "score": 68.1,
+    "score": 67.9,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
+  },
+  {
+    "id": "2608.15953",
+    "title": "Electrically Switchable Spintronics in a Multiferroic Altermagnet",
+    "summary": "We introduce a minimal model of a two-dimensional lattice that, upon spontaneous symmetry breaking, simultaneously develops altermagnetic order, a finite electric polarization, and a spin-polarized transport response, all of which are controlled by an external electric field. By coupling a dimerized altermagnet to an external electric field, we show that the three order parameters are not merely compatible but dynamically entangled, so that switching one (for instance, reversing the polarization with an electric field) necessarily reconfigures the other two. We show that this model offers a clear physical blueprint for designing next-generation spintronic logic and pure spin current memdevices that merge the ultrafast, stray-field-free advantages of compensated magnets with the low-power switching architectures of ferroelectrics.",
+    "date": "2026-08-16",
+    "updated": "2026-08-18T23:23:41Z",
+    "url": "https://arxiv.org/abs/2608.15953v2",
+    "tags": [
+      "自旋存储",
+      "交替磁性与自旋动力学"
+    ],
+    "source": "arXiv · 预印本",
+    "authors": [
+      "Martin Latorre",
+      "Sebastian Allende",
+      "Alvaro S. Nunez"
+    ],
+    "relevance": 95,
+    "score": 67.7,
+    "journal_priority": false,
+    "reason": "自旋存储；交替磁性与自旋动力学；预印本补充"
   },
   {
     "id": "2608.05469",
@@ -1563,7 +1797,7 @@
       "Vladimir Antropov"
     ],
     "relevance": 95,
-    "score": 66.6,
+    "score": 66.5,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -2107,7 +2341,8 @@
     "updated": "2026-04-21T07:09:19Z",
     "url": "https://arxiv.org/abs/2604.19156v1",
     "tags": [
-      "Kagome 反铁磁"
+      "Kagome 反铁磁",
+      "交替磁性与自旋动力学"
     ],
     "source": "arXiv · 预印本",
     "authors": [
@@ -2117,7 +2352,7 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；交替磁性与自旋动力学；预印本补充"
   },
   {
     "id": "2604.15935",
@@ -2331,6 +2566,50 @@
     "reason": "自旋存储；AI for spintronics；预印本补充"
   },
   {
+    "id": "2606.03451",
+    "title": "Magnetic field effects on spin-split band and magnon transport in altermagnets and emergent compensated ferrimagnets",
+    "summary": "In altermagnets and fully compensated ferrimagnets, not only the electron band but also the magnon band exhibits spin splitting without net magnetization, which enables thermal activation of the magnon spin current. Here, we theoretically investigate magnetic field effects on the magnon properties of these antiferromagnets in the presence of a weak easy-axis anisotropy which makes the collinear states robust against the magnetic field. For the altermagnet and compensated ferrimagnet, we analyze a 2 sublattice order in the $J_1$-$J_2$-$J_2^\\prime$ model on the square lattice and a triple-${\\bf Q}$ 12-sublattice order in the $J_1$-$J_3$ model on the kagome lattice, respectively, each accompanied by $d$-wave and $s$-wave spin splitting at zero field. It is shown that for positive (negative) magnetic field $H$ whose energy scale is smaller than the anisotropy gap, the up- and down-spin magnon bands are shifted to lower (higher) and higher (lower) energies, respectively, similarly to the Zeeman coupling in electron systems. In the altermagnet, with increasing field, the $d$-wave splitting tends to be deformed into the $s$-wave one, which is reflected as the change in the direction of the spin current generated by thermal gradient. In the compensated ferrimagnet, the $s$-wave nature, i.e., the population imbalance between the up- and down-spin magnons at $H=0$, can induce an asymmetric field dependence of the longitudinal spin and thermal conductivities in a field-sweep process.",
+    "date": "2026-06-02",
+    "updated": "2026-09-15T22:45:28Z",
+    "url": "https://arxiv.org/abs/2606.03451v2",
+    "tags": [
+      "Kagome 反铁磁",
+      "交替磁性与自旋动力学"
+    ],
+    "source": "arXiv · 预印本",
+    "authors": [
+      "Kazushi Aoyama",
+      "Hikaru Kawamura"
+    ],
+    "relevance": 95,
+    "score": 66.5,
+    "journal_priority": false,
+    "reason": "Kagome 反铁磁；交替磁性与自旋动力学；预印本补充"
+  },
+  {
+    "id": "2605.27888",
+    "title": "Machine-learning-accelerated discovery of synthesizable high-temperature altermagnets with giant spin splitting",
+    "summary": "Altermagnets offer a route to spin-polarized electronic states without macroscopic magnetization, because compensated magnetic order can generate momentum-dependent spin splitting through crystal-symmetry-controlled exchange fields. However, experimentally viable altermagnets combining large spin splitting, thermodynamic stability and high magnetic ordering temperatures remain scarce. Here, we develop a machine-learning-accelerated high-throughput framework to explore the tetragonal AB$_2$C$_2$D compounds. Screening 8640 variants identifies 1347 compensated antiferromagnetic candidates satisfying altermagnetic symmetry. An interpretable XGBoost model trained on first-principles spin-splitting data then isolates 34 low-hull-energy candidates,including four previously reported, with giant non-relativistic spin splittings exceeding 1.5 eV near the Fermi level. Detailed first-principles calculations of the representative RbMn$_2$Te$_2$O confirm a maximum spin splitting of $\\sim$1.88 eV with dynamical stability and an estimated Néel temperature of $\\sim$390 K. The giant splitting originates from symmetry-locked Mn-sublattice exchange fields amplified by directional Mn-d/Te-p hybridization. Furthermore, we uncover a profound soft-mode-driven structural transition associated with an interlayer dimensionality crossover in SrMn$_2$Te$_2$O, yet the unfolded electronic structure demonstrates that the altermagnetic spin splitting remains robust after lattice reconstruction. Hydrostatic pressure provides an additional tuning route, producing non-monotonic modulation of the spin-split Fermi surface governed by local coordination and orbital hybridization. These results establish tetragonal AB$_2$C$_2$D compounds as a tunable materials platform for stray-field-free spintronic devices and provide a general data-driven strategy for discovering robust giant-splitting altermagnets.",
+    "date": "2026-05-27",
+    "updated": "2026-05-27T03:08:54Z",
+    "url": "https://arxiv.org/abs/2605.27888v1",
+    "tags": [
+      "交替磁性与自旋动力学"
+    ],
+    "source": "arXiv · 预印本",
+    "authors": [
+      "Yi-Fei Jiang",
+      "Jia-Xuan Guo",
+      "Zhen Zhang",
+      "Xin-Wei Yi",
+      "Jing-Yang You"
+    ],
+    "relevance": 95,
+    "score": 66.5,
+    "journal_priority": false,
+    "reason": "交替磁性与自旋动力学；预印本补充"
+  },
+  {
     "id": "2610.39841",
     "title": "Epitaxial Magnon Junctions with Y3Fe5O12/Gd3Ga5O12/Pt-nanoparticles/Y3Fe5O12",
     "summary": "The excitation, propagation, manipulation, and detection of magnons lie at the core of magnonics. Among various device architectures, high-quality magnon junctions with a ferromagnetic insulator (FI)/antiferromagnetic insulator (AFI)/ferromagnetic insulator (FI) configuration are predicted to exhibit a near-100% magnon junction ratio (MJR), making them promising candidates for high-performance non-volatile memory applications. Yttrium iron garnet (Y3Fe5O12, YIG) is widely employed as the FI material in such structures for its exceptionally low magnetic damping. However, in previously reported magnon junctions, the epitaxial relationship between the two YIG layers is often disrupted by lattice-mismatched AFI spacers. Although this leads to distinct coercivities, it simultaneously degrades the crystalline quality of the top YIG layer, thereby limiting the magnontransmission efficiency. Here, an epitaxial magnon junction is demonstrated incorporating a hybrid Gd3Ga5O12 (GGG)/Pt-nanoparticles spacer that maintains coherent epitaxy while enabling an antiparallel magnetic configuration. Compared with nickel oxide-based magnon junctions, the coercivity-tuned top YIG layer in our structure exhibits superior crystalline quality and much lower magnetic damping. A clear magnon junction effect is observed with a 43% MJR achieved. The interlayer coupling between the two ferrimagnetic insulators is found to enhance the MJR. These results offer valuable insights for the development of advanced magnon-based spintronic devices.",
@@ -2356,7 +2635,7 @@
       "Xiufeng Han"
     ],
     "relevance": 80,
-    "score": 65.6,
+    "score": 65.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2381,7 +2660,7 @@
       "Mathias Kläui"
     ],
     "relevance": 80,
-    "score": 65.6,
+    "score": 65.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2403,7 +2682,7 @@
       "Kalyan Mandal"
     ],
     "relevance": 80,
-    "score": 65.6,
+    "score": 65.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2427,7 +2706,7 @@
       "Zhijun Wang"
     ],
     "relevance": 80,
-    "score": 65.6,
+    "score": 65.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2454,7 +2733,7 @@
       "Jia Zhang"
     ],
     "relevance": 80,
-    "score": 65.4,
+    "score": 65.3,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2474,7 +2753,7 @@
       "M. I. Samar"
     ],
     "relevance": 80,
-    "score": 65.2,
+    "score": 65.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -2509,7 +2788,7 @@
       "Hidekazu Kurebayashi"
     ],
     "relevance": 80,
-    "score": 65.1,
+    "score": 65.0,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2530,7 +2809,7 @@
       "Weiyi Pan"
     ],
     "relevance": 80,
-    "score": 65.1,
+    "score": 65.0,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2555,7 +2834,7 @@
       "Stanislav Bodnar"
     ],
     "relevance": 80,
-    "score": 64.1,
+    "score": 64.0,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2577,7 +2856,7 @@
       "Chao Cao"
     ],
     "relevance": 80,
-    "score": 64.0,
+    "score": 63.9,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -2601,7 +2880,7 @@
       "Jun Li"
     ],
     "relevance": 80,
-    "score": 64.0,
+    "score": 63.9,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -2622,7 +2901,7 @@
       "Kedar Damle"
     ],
     "relevance": 80,
-    "score": 63.7,
+    "score": 63.6,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -2643,7 +2922,7 @@
       "P. D. Babu"
     ],
     "relevance": 80,
-    "score": 63.3,
+    "score": 63.2,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2667,7 +2946,7 @@
       "Jianhua Zhao"
     ],
     "relevance": 80,
-    "score": 63.2,
+    "score": 63.1,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2692,7 +2971,7 @@
       "Jianhua Zhao"
     ],
     "relevance": 80,
-    "score": 63.2,
+    "score": 63.1,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2719,7 +2998,7 @@
       "Rupert F. Oulton"
     ],
     "relevance": 80,
-    "score": 63.1,
+    "score": 63.0,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2742,28 +3021,7 @@
       "Eugenio Coronado"
     ],
     "relevance": 80,
-    "score": 63.0,
-    "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
-  },
-  {
-    "id": "2610.04684",
-    "title": "Electron-phonon control of obstructed and quantum spin Hall topology in an altermagnet",
-    "summary": "We theoretically demonstrate control over the interplay between obstructed atomic insulating and first-order topological phases via electron-phonon coupling (EPC) in a $d$-wave altermagnet (AM) that hosts nonrelativistic spin-split bands with zero net magnetization. By embedding a $d_{x^{2}-y^{2}}$-wave AM in a quantum spin Hall (QSH) insulator, we show that an altermagnetic order beyond a critical strength reconstructs the parent QSH state of a Bernevig-Hughes-Zhang (BHZ)-type topological insulator (TI) into an obstructed atomic insulator (OAI), characterized by nontrivial bulk polarization with quantized fractional corner charges, accompanied by characteristic in-gap boundary states, while the spin Chern number vanishes. Upon incorporating sufficiently strong EPC, the polaronic dressing reorganizes the Wannier centers and the associated effective edge topology, thereby weakening the altermagnetism-induced OAI phase and restoring the helical QSH edge modes. Further, EPC eventually drives the system into a trivial insulator. By uncovering a controllable switching mechanism between topologically distinct insulating phases in AMs, our study establishes a direct route toward phonon-tuned spintronic functionalities in unconventional magnetic platforms.",
-    "date": "2026-10-03",
-    "updated": "2026-10-03T17:55:22Z",
-    "url": "https://arxiv.org/abs/2610.04684v1",
-    "tags": [
-      "自旋存储"
-    ],
-    "source": "arXiv · 预印本",
-    "authors": [
-      "Kuntal Bhattacharyya",
-      "Bilal Tanatar",
-      "Saurabh Basu"
-    ],
-    "relevance": 80,
-    "score": 62.7,
+    "score": 62.9,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2785,7 +3043,7 @@
       "Daniel C. Ralph"
     ],
     "relevance": 80,
-    "score": 62.7,
+    "score": 62.6,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2814,7 +3072,7 @@
       "Madhab Neupane"
     ],
     "relevance": 80,
-    "score": 61.9,
+    "score": 61.8,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2841,7 +3099,7 @@
       "Xiaoqin Li"
     ],
     "relevance": 80,
-    "score": 61.8,
+    "score": 61.7,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2853,7 +3111,8 @@
     "updated": "2026-09-24T14:19:58Z",
     "url": "https://arxiv.org/abs/2609.29857v1",
     "tags": [
-      "自旋存储"
+      "自旋存储",
+      "交替磁性与自旋动力学"
     ],
     "source": "arXiv · 预印本",
     "authors": [
@@ -2869,9 +3128,9 @@
       "Zhiqi Liu"
     ],
     "relevance": 80,
-    "score": 61.7,
+    "score": 61.6,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；交替磁性与自旋动力学；预印本补充"
   },
   {
     "id": "2609.27212",
@@ -2892,7 +3151,7 @@
       "Hongyan Lv"
     ],
     "relevance": 80,
-    "score": 61.6,
+    "score": 61.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2912,7 +3171,7 @@
       "Jakub Železný"
     ],
     "relevance": 80,
-    "score": 61.4,
+    "score": 61.3,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2934,7 +3193,7 @@
       "Ying Su"
     ],
     "relevance": 80,
-    "score": 61.1,
+    "score": 61.0,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2954,7 +3213,7 @@
       "Naveen Sisodia"
     ],
     "relevance": 80,
-    "score": 61.0,
+    "score": 60.9,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2978,32 +3237,7 @@
       "Lior Klein"
     ],
     "relevance": 80,
-    "score": 60.6,
-    "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
-  },
-  {
-    "id": "2609.11816",
-    "title": "Piezomagnetism in a model cubic noncollinear altermagnet",
-    "summary": "Altermagnets constitute a distinct class of magnetic materials that combine compensated magnetic order with spin-polarized electronic bands, hence carrying characteristics of both antiferromagnets and ferromagnets. Piezomagnetism - the linear relationship between lattice strain and a net magnetic moment - has emerged as smoking-gun evidence of altermagnetism that distinguishes it from antiferromagnetism. Here, we uncover a large piezomagnetic response in MnTe2, a cubic altermagnet with a noncollinear spin arrangement and weak spin-orbit coupling. We combine dilatometry with nuclear magnetic resonance, a bulk local probe, to observe signatures of both direct and inverse piezomagnetism consistent with symmetry considerations and first-principles calculations. The dilatometry measurements reveal a shear deformation proportional to an applied magnetic field, while magnetic resonance detects a ferromagnetic moment induced by shear strain. The respective results for the piezomagnetic coupling strength are in good agreement, and they are captured by first-principles results. These findings for simple binary MnTe2 position this material as a model altermagnet, demonstrate the utility of nuclear magnetic resonance in investigations of piezomagnetism, and open new avenues for multimodal strain and magnetic-field control in spintronic and memory applications.",
-    "date": "2026-09-10",
-    "updated": "2026-09-10T17:10:08Z",
-    "url": "https://arxiv.org/abs/2609.11816v1",
-    "tags": [
-      "自旋存储"
-    ],
-    "source": "arXiv · 预印本",
-    "authors": [
-      "Sudarshan Sharma",
-      "Luca Buiarelli",
-      "Richard Spieker",
-      "Ivan Jakovac",
-      "Damjan Pelc",
-      "Turan Birol",
-      "Martin Greven"
-    ],
-    "relevance": 80,
-    "score": 60.1,
+    "score": 60.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3038,29 +3272,7 @@
       "Tongyao Zhang"
     ],
     "relevance": 80,
-    "score": 60.1,
-    "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
-  },
-  {
-    "id": "2609.07548",
-    "title": "Switchable Altermagnetism in a Layered van der Waals Metal-Organic Framework Driven by Spin-Crossover",
-    "summary": "Dynamical control of altermagnetism is a key requirement for translating its unique spin-dependent functionalities into practical spintronic devices, yet effective switching mechanisms remain largely unexplored. Here, we open an unprecedented, versatile and programmable route based on spin-crossover to switch altermagnetism on demand in molecular materials. Using density functional calculations, we demonstrate an altermagnetic ground state in the layered van der Waals MOFs MnX$_2$(tdz)$_2$ (X = Cl, Br; tdz = thiadiazole), stabilized by anisotropic interlayer exchange interactions, which gives rise to a characteristic d-wave momentum-space spin splitting and an associated spin-splitter transport response. Our findings reveal that under hydrostatic pressure, a high-spin to low-spin transition reconfigures the Mn d-orbital occupation, thus modifying the magnetic exchange network, and stabilizing a different antiferromagnetic ground state whose symmetry suppresses the nonrelativistic spin splitting. Crucially, spin-crossover switches altermagnetism not by directly altering the electronic structure, but by changing the symmetry of the magnetic ground state. These results establish molecular spin-crossover altermagnets as a platform for externally reconfigurable spintronic devices.",
-    "date": "2026-09-07",
-    "updated": "2026-09-07T14:30:10Z",
-    "url": "https://arxiv.org/abs/2609.07548v1",
-    "tags": [
-      "自旋存储"
-    ],
-    "source": "arXiv · 预印本",
-    "authors": [
-      "Diego López-Alcalá",
-      "Alberto M. Ruiz",
-      "Andrei Shumilin",
-      "José J. Baldoví"
-    ],
-    "relevance": 80,
-    "score": 59.8,
+    "score": 60.0,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3082,7 +3294,7 @@
       "Lijun Zhu"
     ],
     "relevance": 80,
-    "score": 59.4,
+    "score": 59.3,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3106,7 +3318,7 @@
       "Chih-Huang Lai"
     ],
     "relevance": 80,
-    "score": 59.1,
+    "score": 59.0,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3129,7 +3341,7 @@
       "A. Azevedo"
     ],
     "relevance": 80,
-    "score": 59.0,
+    "score": 58.9,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3148,7 +3360,7 @@
       "Ping Tang"
     ],
     "relevance": 80,
-    "score": 59.0,
+    "score": 58.9,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3181,7 +3393,7 @@
       "Toshiya Ideue"
     ],
     "relevance": 80,
-    "score": 59.0,
+    "score": 58.9,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3201,7 +3413,7 @@
       "Philipp Gegenwart"
     ],
     "relevance": 80,
-    "score": 58.7,
+    "score": 58.6,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -3226,7 +3438,7 @@
       "Yosikazu Isikawa"
     ],
     "relevance": 80,
-    "score": 58.6,
+    "score": 58.4,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -3247,7 +3459,7 @@
       "Manisha Thakurathi"
     ],
     "relevance": 80,
-    "score": 58.3,
+    "score": 58.2,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3274,7 +3486,7 @@
       "Doron Naveh"
     ],
     "relevance": 80,
-    "score": 58.2,
+    "score": 58.1,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3295,7 +3507,7 @@
       "Shirong Lin"
     ],
     "relevance": 80,
-    "score": 58.0,
+    "score": 57.9,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3317,7 +3529,7 @@
       "Ioan-Lucian Prejbeanu"
     ],
     "relevance": 80,
-    "score": 57.9,
+    "score": 57.8,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3355,26 +3567,6 @@
       "Pham Nam Hai"
     ],
     "relevance": 80,
-    "score": 57.8,
-    "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
-  },
-  {
-    "id": "2608.19476",
-    "title": "Altermagnetic memcapacitors",
-    "summary": "We propose a spintronic memcapacitance effect based upon altermagnetic multiferroic materials. We identify the rare-earth vanadates RVO$_3$ as a concrete platform, with all key parameters tied to measured properties. Under an oscillating electric field, the resulting charge and spin currents trace pinched hysteresis loops that close tangentially at zero field -- the hallmark of memcapacitive, type-2 memdevice behavior -- with charge current densities exceeding, by a factor of about 3.6, the lowest deterministic switching current density reported for optimized spin-transfer-torque magnetic tunnel junctions. We model the system theoretically as a dimerized two-orbital $d$-wave altermagnetic lattice via a Su--Schrieffer--Heeger-type bond modulation, in the spirit of the spin-dependent Rice--Mele model, thereby coupling the altermagnetic order to field-switchable charge and spin polarizations. The associated polarization loops close tangentially at zero field and yield a sign-changing, history-dependent ``butterfly'' differential capacitance, identifying the device as a genuine memcapacitor. Both responses are protected by the same inversion symmetry, so charge and spin channels switch simultaneously with no separate control needed. These results establish altermagnetic multiferroics, realized concretely in RVO$_3$, as an efficient, non-volatile platform for combined electric and spintronic memory.",
-    "date": "2026-08-19",
-    "updated": "2026-08-19T22:23:01Z",
-    "url": "https://arxiv.org/abs/2608.19476v1",
-    "tags": [
-      "自旋存储"
-    ],
-    "source": "arXiv · 预印本",
-    "authors": [
-      "Martin Latorre",
-      "Alvaro S. Nunez"
-    ],
-    "relevance": 80,
     "score": 57.7,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
@@ -3402,7 +3594,7 @@
       "J. -Carlos Rojas-Sánchez"
     ],
     "relevance": 80,
-    "score": 57.6,
+    "score": 57.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3444,28 +3636,7 @@
       "Jiandong Guo"
     ],
     "relevance": 80,
-    "score": 57.6,
-    "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
-  },
-  {
-    "id": "2608.15953",
-    "title": "Electrically Switchable Spintronics in a Multiferroic Altermagnet",
-    "summary": "We introduce a minimal model of a two-dimensional lattice that, upon spontaneous symmetry breaking, simultaneously develops altermagnetic order, a finite electric polarization, and a spin-polarized transport response, all of which are controlled by an external electric field. By coupling a dimerized altermagnet to an external electric field, we show that the three order parameters are not merely compatible but dynamically entangled, so that switching one (for instance, reversing the polarization with an electric field) necessarily reconfigures the other two. We show that this model offers a clear physical blueprint for designing next-generation spintronic logic and pure spin current memdevices that merge the ultrafast, stray-field-free advantages of compensated magnets with the low-power switching architectures of ferroelectrics.",
-    "date": "2026-08-16",
-    "updated": "2026-08-18T23:23:41Z",
-    "url": "https://arxiv.org/abs/2608.15953v2",
-    "tags": [
-      "自旋存储"
-    ],
-    "source": "arXiv · 预印本",
-    "authors": [
-      "Martin Latorre",
-      "Sebastian Allende",
-      "Alvaro S. Nunez"
-    ],
-    "relevance": 80,
-    "score": 57.3,
+    "score": 57.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3485,7 +3656,7 @@
       "Jaeyong Cho"
     ],
     "relevance": 80,
-    "score": 57.2,
+    "score": 57.1,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3506,7 +3677,7 @@
       "Lei Li"
     ],
     "relevance": 80,
-    "score": 56.9,
+    "score": 56.8,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3644,26 +3815,6 @@
       "Igor Klep",
       "Omar Fawzi",
       "Marc-Olivier Renou"
-    ],
-    "relevance": 80,
-    "score": 56.0,
-    "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
-  },
-  {
-    "id": "2606.03451",
-    "title": "Magnetic field effects on spin-split band and magnon transport in altermagnets and emergent compensated ferrimagnets",
-    "summary": "In altermagnets and fully compensated ferrimagnets, not only the electron band but also the magnon band exhibits spin splitting without net magnetization, which enables thermal activation of the magnon spin current. Here, we theoretically investigate magnetic field effects on the magnon properties of these antiferromagnets in the presence of a weak easy-axis anisotropy which makes the collinear states robust against the magnetic field. For the altermagnet and compensated ferrimagnet, we analyze a 2 sublattice order in the $J_1$-$J_2$-$J_2^\\prime$ model on the square lattice and a triple-${\\bf Q}$ 12-sublattice order in the $J_1$-$J_3$ model on the kagome lattice, respectively, each accompanied by $d$-wave and $s$-wave spin splitting at zero field. It is shown that for positive (negative) magnetic field $H$ whose energy scale is smaller than the anisotropy gap, the up- and down-spin magnon bands are shifted to lower (higher) and higher (lower) energies, respectively, similarly to the Zeeman coupling in electron systems. In the altermagnet, with increasing field, the $d$-wave splitting tends to be deformed into the $s$-wave one, which is reflected as the change in the direction of the spin current generated by thermal gradient. In the compensated ferrimagnet, the $s$-wave nature, i.e., the population imbalance between the up- and down-spin magnons at $H=0$, can induce an asymmetric field dependence of the longitudinal spin and thermal conductivities in a field-sweep process.",
-    "date": "2026-06-02",
-    "updated": "2026-09-15T22:45:28Z",
-    "url": "https://arxiv.org/abs/2606.03451v2",
-    "tags": [
-      "Kagome 反铁磁"
-    ],
-    "source": "arXiv · 预印本",
-    "authors": [
-      "Kazushi Aoyama",
-      "Hikaru Kawamura"
     ],
     "relevance": 80,
     "score": 56.0,
@@ -4000,7 +4151,8 @@
     "url": "https://arxiv.org/abs/2604.07689v1",
     "tags": [
       "自旋存储",
-      "AI for spintronics"
+      "AI for spintronics",
+      "交替磁性与自旋动力学"
     ],
     "source": "arXiv · 预印本",
     "authors": [
@@ -4015,7 +4167,7 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；预印本补充"
+    "reason": "自旋存储；AI for spintronics；交替磁性与自旋动力学；预印本补充"
   },
   {
     "id": "2604.07423",
@@ -4218,7 +4370,8 @@
     "updated": "2026-02-02T09:45:40Z",
     "url": "https://arxiv.org/abs/2602.01874v1",
     "tags": [
-      "AI for spintronics"
+      "AI for spintronics",
+      "交替磁性与自旋动力学"
     ],
     "source": "arXiv · 预印本",
     "authors": [
@@ -4232,7 +4385,7 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；交替磁性与自旋动力学；预印本补充"
   },
   {
     "id": "2601.18943",
@@ -4368,7 +4521,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 29.4,
+    "score": 29.3,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -4384,7 +4537,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 29.2,
+    "score": 29.1,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -4400,23 +4553,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 24.1,
-    "journal_priority": true,
-    "reason": "；重点关注期刊"
-  },
-  {
-    "id": "10.1002/adfm.77835",
-    "doi": "10.1002/adfm.77835",
-    "title": "Crystallographic Spin‐Orbit Torque From Epitaxial CrSb",
-    "summary": "ABSTRACT \n                   \n                    Altermagnets (AMs) represent an emerging magnetic phase that combines compensated antiferromagnetic order with ferromagnet‐like spin‐splitting, offering a new route for efficient spin‐current generation. Here, we experimentally demonstrate spin‐torque generation in epitaxial CrSb and reveal a pronounced crystallographic dependence of the resulting spin‐orbit torques (SOTs) across the () and () orientations. Using spin‐torque ferromagnetic resonance, we identify unconventional SOT behavior, including a finite\n                     x \n                    ‐polarized damping‐like torque and reversal of the\n                     y \n                    ‐polarized damping‐like torque between the two crystal planes, features that cannot be explained by conventional spin Hall or Rashba–Edelstein mechanisms. The damping‐like torque efficiencies are comparable to those of heavy metals and exhibit strong in‐plane anisotropy directly linked to crystal symmetry. Symmetry analysis shows that the observed angular dependence originates from a crystallographic torque permitted by the\n                     C \n                     \n                      2\n                       v \n                     \n                    point group, whereas AM‐specific contributions from the magnetic spin Hall and spin‐splitter effects remain negligible due to the multi‐domain state and weak strain‐induced\n                     g \n                    ‐to‐\n                     d \n                    spin symmetry deformation in CrSb. These findings show that epitaxial CrSb can host strongly anisotropic spin‐torques governed primarily by crystallographic and interfacial symmetry, providing a route toward crystallographically engineered spintronic devices.",
-    "date": "2026-09-10",
-    "url": "https://doi.org/10.1002/adfm.77835",
-    "journal": "Advanced Functional Materials",
-    "source": "Advanced Functional Materials",
-    "tags": [],
-    "authors": [],
-    "relevance": 0,
-    "score": 24.1,
+    "score": 24.0,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -4432,7 +4569,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 23.3,
+    "score": 23.2,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -4448,7 +4585,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 20.7,
+    "score": 20.6,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -4464,7 +4601,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 19.0,
+    "score": 18.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4480,7 +4617,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 19.0,
+    "score": 18.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4496,7 +4633,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 19.0,
+    "score": 18.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4512,7 +4649,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.9,
+    "score": 18.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4528,7 +4665,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.9,
+    "score": 18.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4544,7 +4681,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.9,
+    "score": 18.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4560,7 +4697,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.9,
+    "score": 18.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4576,7 +4713,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.9,
+    "score": 18.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4592,7 +4729,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.9,
+    "score": 18.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4608,7 +4745,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.9,
+    "score": 18.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4624,7 +4761,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.9,
+    "score": 18.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4640,7 +4777,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.9,
+    "score": 18.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4656,7 +4793,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.9,
+    "score": 18.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4672,7 +4809,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.9,
+    "score": 18.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4688,7 +4825,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.9,
+    "score": 18.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4704,7 +4841,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.8,
+    "score": 18.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4720,7 +4857,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.8,
+    "score": 18.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4736,7 +4873,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.8,
+    "score": 18.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4752,7 +4889,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.7,
+    "score": 18.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4768,7 +4905,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.6,
+    "score": 18.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4784,7 +4921,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.6,
+    "score": 18.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4800,7 +4937,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.6,
+    "score": 18.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4816,7 +4953,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.3,
+    "score": 18.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4832,7 +4969,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.3,
+    "score": 18.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4848,7 +4985,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.2,
+    "score": 18.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4864,7 +5001,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.2,
+    "score": 18.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4880,7 +5017,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.9,
+    "score": 17.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4896,7 +5033,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.9,
+    "score": 17.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4912,7 +5049,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.9,
+    "score": 17.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4928,7 +5065,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.8,
+    "score": 17.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4944,7 +5081,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.6,
+    "score": 17.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4960,7 +5097,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.4,
+    "score": 17.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4976,7 +5113,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.4,
+    "score": 17.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -4992,7 +5129,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.4,
+    "score": 17.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5008,7 +5145,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.3,
+    "score": 17.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5024,7 +5161,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.3,
+    "score": 17.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5040,7 +5177,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.3,
+    "score": 17.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5056,7 +5193,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.3,
+    "score": 17.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5072,7 +5209,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.1,
+    "score": 17.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5088,7 +5225,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.0,
+    "score": 16.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5104,7 +5241,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.9,
+    "score": 16.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5120,7 +5257,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.9,
+    "score": 16.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5136,7 +5273,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.9,
+    "score": 16.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5152,7 +5289,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.8,
+    "score": 16.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5168,7 +5305,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.7,
+    "score": 16.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5184,7 +5321,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.6,
+    "score": 16.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5200,7 +5337,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5216,7 +5353,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5232,7 +5369,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.3,
+    "score": 16.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5248,7 +5385,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.3,
+    "score": 16.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5264,7 +5401,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.2,
+    "score": 16.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5280,7 +5417,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.1,
+    "score": 16.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5296,7 +5433,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.1,
+    "score": 16.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5312,7 +5449,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.1,
+    "score": 16.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5328,7 +5465,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.9,
+    "score": 15.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5344,7 +5481,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.9,
+    "score": 15.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5360,7 +5497,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.9,
+    "score": 15.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5376,23 +5513,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.6,
-    "journal_priority": false,
-    "reason": "；期刊论文"
-  },
-  {
-    "id": "10.1103/9my8-21z2",
-    "doi": "10.1103/9my8-21z2",
-    "title": "Unconventional spin-valve effect in altermagnets induced by Rashba spin-orbit coupling and triplet superconductivity",
-    "summary": "",
-    "date": "2026-10-02",
-    "url": "https://doi.org/10.1103/9my8-21z2",
-    "journal": "Physical Review B",
-    "source": "Physical Review B",
-    "tags": [],
-    "authors": [],
-    "relevance": 0,
-    "score": 15.6,
+    "score": 15.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5408,7 +5529,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.6,
+    "score": 15.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5424,7 +5545,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5440,7 +5561,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5456,7 +5577,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5472,7 +5593,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5488,7 +5609,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5504,7 +5625,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5520,7 +5641,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5536,7 +5657,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5552,7 +5673,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5568,7 +5689,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5584,7 +5705,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5600,7 +5721,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5616,7 +5737,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5632,7 +5753,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5648,7 +5769,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5664,7 +5785,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5680,7 +5801,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5696,7 +5817,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5712,7 +5833,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5728,7 +5849,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5744,7 +5865,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5760,7 +5881,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5776,7 +5897,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5792,7 +5913,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5808,7 +5929,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5824,7 +5945,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5840,7 +5961,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.3,
+    "score": 15.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5856,7 +5977,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.3,
+    "score": 15.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5872,7 +5993,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.3,
+    "score": 15.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5888,7 +6009,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.3,
+    "score": 15.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5904,7 +6025,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.3,
+    "score": 15.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5920,7 +6041,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.3,
+    "score": 15.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5936,7 +6057,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.2,
+    "score": 15.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5952,7 +6073,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.2,
+    "score": 15.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5968,7 +6089,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.2,
+    "score": 15.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -5984,7 +6105,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.1,
+    "score": 15.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6000,7 +6121,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.1,
+    "score": 15.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6016,7 +6137,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.1,
+    "score": 15.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6032,7 +6153,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.9,
+    "score": 14.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6048,7 +6169,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.8,
+    "score": 14.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6064,7 +6185,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.8,
+    "score": 14.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6080,7 +6201,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.7,
+    "score": 14.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6096,7 +6217,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.6,
+    "score": 14.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6112,7 +6233,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.6,
+    "score": 14.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6128,7 +6249,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.6,
+    "score": 14.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6144,7 +6265,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.6,
+    "score": 14.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6160,7 +6281,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.4,
+    "score": 14.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6176,7 +6297,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.4,
+    "score": 14.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6192,7 +6313,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.4,
+    "score": 14.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6208,7 +6329,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.3,
+    "score": 14.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6224,7 +6345,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.3,
+    "score": 14.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6240,7 +6361,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.3,
+    "score": 14.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6256,7 +6377,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.2,
+    "score": 14.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6272,7 +6393,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.1,
+    "score": 14.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6288,7 +6409,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.9,
+    "score": 13.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6304,7 +6425,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.9,
+    "score": 13.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6320,7 +6441,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.8,
+    "score": 13.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6336,7 +6457,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.8,
+    "score": 13.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6352,7 +6473,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.8,
+    "score": 13.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6368,7 +6489,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.7,
+    "score": 13.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6384,7 +6505,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.7,
+    "score": 13.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6400,7 +6521,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.7,
+    "score": 13.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6416,7 +6537,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.3,
+    "score": 13.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6432,7 +6553,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.2,
+    "score": 13.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6448,7 +6569,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.2,
+    "score": 13.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6464,7 +6585,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.1,
+    "score": 13.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6480,7 +6601,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.9,
+    "score": 12.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6496,7 +6617,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.9,
+    "score": 12.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6512,7 +6633,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.8,
+    "score": 12.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6528,7 +6649,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.8,
+    "score": 12.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6544,7 +6665,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.6,
+    "score": 12.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6560,7 +6681,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.4,
+    "score": 12.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6576,7 +6697,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.3,
+    "score": 12.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6592,7 +6713,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.2,
+    "score": 12.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6608,7 +6729,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6624,7 +6745,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6640,7 +6761,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6656,7 +6777,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6672,7 +6793,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6688,7 +6809,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6704,7 +6825,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6720,7 +6841,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6736,7 +6857,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6752,7 +6873,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6768,7 +6889,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6784,7 +6905,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6800,7 +6921,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6816,7 +6937,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6832,7 +6953,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6848,7 +6969,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6864,7 +6985,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6880,7 +7001,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6896,7 +7017,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6912,7 +7033,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6928,7 +7049,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6944,7 +7065,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6960,7 +7081,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6976,7 +7097,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -6992,7 +7113,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7008,7 +7129,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7024,7 +7145,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7040,7 +7161,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7056,7 +7177,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.0,
+    "score": 11.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7072,7 +7193,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.0,
+    "score": 11.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7088,7 +7209,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.0,
+    "score": 11.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7104,7 +7225,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.9,
+    "score": 11.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7120,7 +7241,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.8,
+    "score": 11.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7136,7 +7257,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.8,
+    "score": 11.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7152,7 +7273,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.7,
+    "score": 11.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7168,7 +7289,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.6,
+    "score": 11.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7184,7 +7305,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.6,
+    "score": 11.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7200,7 +7321,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.6,
+    "score": 11.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7216,7 +7337,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.6,
+    "score": 11.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7232,7 +7353,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.2,
+    "score": 11.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7248,7 +7369,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.2,
+    "score": 11.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7264,7 +7385,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.2,
+    "score": 11.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7280,7 +7401,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.2,
+    "score": 11.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7296,7 +7417,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.9,
+    "score": 10.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7312,7 +7433,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.7,
+    "score": 10.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7328,7 +7449,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.6,
+    "score": 10.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7344,7 +7465,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.6,
+    "score": 10.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7360,7 +7481,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.4,
+    "score": 10.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7376,7 +7497,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.2,
+    "score": 10.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7392,7 +7513,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.2,
+    "score": 10.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7408,7 +7529,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.1,
+    "score": 10.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7424,7 +7545,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.8,
+    "score": 9.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7440,7 +7561,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.8,
+    "score": 9.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7456,7 +7577,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.8,
+    "score": 9.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7472,7 +7593,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7488,7 +7609,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7504,7 +7625,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7521,7 +7642,7 @@
       "Ya-Hui Zhang"
     ],
     "relevance": 0,
-    "score": 9.6,
+    "score": 9.4,
     "journal_priority": false,
     "reason": "；预印本补充"
   },
@@ -7537,7 +7658,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.4,
+    "score": 9.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7553,7 +7674,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.3,
+    "score": 9.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -7587,7 +7708,7 @@
       "Tarun Kanti Ghosh"
     ],
     "relevance": 0,
-    "score": 7.8,
+    "score": 7.7,
     "journal_priority": false,
     "reason": "；预印本补充"
   },
@@ -7622,7 +7743,7 @@
       "Ming Liu"
     ],
     "relevance": 0,
-    "score": 7.3,
+    "score": 7.2,
     "journal_priority": false,
     "reason": "；预印本补充"
   },
@@ -7641,26 +7762,7 @@
       "Yingying Wu"
     ],
     "relevance": 0,
-    "score": 6.1,
-    "journal_priority": false,
-    "reason": "；预印本补充"
-  },
-  {
-    "id": "2609.16749",
-    "title": "Electric-Field-Switchable Altermagnetism via Ligand Rotation in a d0 Metal-Organic Framework",
-    "summary": "Altermagnetism combines vanishing net magnetization with momentum-dependent spin splitting. While altermagnetic signatures have been identified in metal-organic frameworks (MOFs), non-invasive reversible control remains challenging. Here we report a route to electric-field-switchable altermagnetism in a flexible d0-MOF, in which polar substituents couple the external field to ligand rotation. In the planar ground state, pz orbitals mediate 180-degree ligand-metal-ligand superexchange (J2), stabilizing antiferromagnetic order. Rotating ligands out of plane activates px/py orbitals, enhances 90-degree pathways (J1), and reverses J1/J2 competition. The antiferromagnetic-to-altermagnetic crossover occurs at approx. 34 degrees, with spin splitting of 84 meV at 90 degrees. The 90-degree altermagnetic state is switched on by the electric field and switched off upon field removal, as the constrained-rotation landscape decreases monotonically back toward 0 degrees, enabling barrierless relaxation to the antiferromagnetic state and reversible on/off operation. Ab initio molecular dynamics at 300 K shows thermal fluctuations alone cannot synchronize ligand rotation. Polar substituents provide the required coupling for electric-field control; for fluorinated substituents, the critical field is approx. 0.22 V/Angstrom, comparable to field-effect devices. This work establishes ligand p orbitals, rather than transition-metal d orbitals, as the origin of altermagnetic order and shows that polar substituents enable electric-field control for organic spintronics.",
-    "date": "2026-09-15",
-    "updated": "2026-10-12T09:22:12Z",
-    "url": "https://arxiv.org/abs/2609.16749v2",
-    "tags": [],
-    "source": "arXiv · 预印本",
-    "authors": [
-      "Hongjing Wang",
-      "Xiuling Li",
-      "Xiaojun Wu"
-    ],
-    "relevance": 0,
-    "score": 4.7,
+    "score": 6.0,
     "journal_priority": false,
     "reason": "；预印本补充"
   },
@@ -7687,33 +7789,7 @@
       "Yijie Shen"
     ],
     "relevance": 0,
-    "score": 3.7,
-    "journal_priority": false,
-    "reason": "；预印本补充"
-  },
-  {
-    "id": "2609.05085",
-    "title": "Cross-Layer Anomalous Hall Transport driven by Néel-Vector rotating in the Altermagnet candidate V2Te2O",
-    "summary": "In van der Waals (vdW) materials, weak interlayer coupling generally suppresses vertical dispersion, reinforcing the conventional paradigm that in-plane transport dominates over cross-layer channels. Here, using first-principles calculations and magnetic symmetry analyses, we uncover a giant, symmetry-unlocked cross-layer anomalous Hall conductivity (AHC) in the vdW altermagnet V2Te2O. In the magnetic ground state with Neel vector N//z, horizontal mirror symmetry protects a spin-polarized nodal chain near the Fermi level and strictly enforces zero anomalous Hall response. Tilting the Neel vector explicitly breaks this mirror protection, allowing spin-orbit coupling to gap the nodal chain and activate a sharp cross-layer Hall response. When the Neel vector is rotated into the in-plane configuration (N//x), cross-layer orbital hybridization generates intensive Berry curvature hotspots, boosting the cross-layer component of AHC σ_{yz} to approximately 255 S/cm, which exceeds in-plane component σ_{xy} by nearly two orders of magnitude. Furthermore, varying the azimuthal angle systematically redistributes the anomalous Hall response, enabling full directional control of transverse transport. Our findings demonstrate a highly sensitive cross-layer anomalous Hall switch activated by low-barrier spin canting, offering promising avenues for directional tensor selection and low-power multi-axial vdW spintronics.",
-    "date": "2026-09-04",
-    "updated": "2026-09-04T12:38:53Z",
-    "url": "https://arxiv.org/abs/2609.05085v1",
-    "tags": [],
-    "source": "arXiv · 预印本",
-    "authors": [
-      "Yanan Pan",
-      "W. Z. Zhuo",
-      "Pan Gao",
-      "Ziyu Zhou",
-      "Junqing Xu",
-      "Lijie Shao",
-      "Damin Meng",
-      "Weiwei Chen",
-      "Zhongjun Li",
-      "Ye Yang"
-    ],
-    "relevance": 0,
-    "score": 3.4,
+    "score": 3.6,
     "journal_priority": false,
     "reason": "；预印本补充"
   },
@@ -7737,7 +7813,7 @@
       "A. N. Vasiliev"
     ],
     "relevance": 0,
-    "score": 2.8,
+    "score": 2.7,
     "journal_priority": false,
     "reason": "；预印本补充"
   },
@@ -7820,27 +7896,6 @@
       "Zachary R. Fox",
       "David Parker",
       "Ayana Ghosh"
-    ],
-    "relevance": 0,
-    "score": 0.0,
-    "journal_priority": false,
-    "reason": "；预印本补充"
-  },
-  {
-    "id": "2605.27888",
-    "title": "Machine-learning-accelerated discovery of synthesizable high-temperature altermagnets with giant spin splitting",
-    "summary": "Altermagnets offer a route to spin-polarized electronic states without macroscopic magnetization, because compensated magnetic order can generate momentum-dependent spin splitting through crystal-symmetry-controlled exchange fields. However, experimentally viable altermagnets combining large spin splitting, thermodynamic stability and high magnetic ordering temperatures remain scarce. Here, we develop a machine-learning-accelerated high-throughput framework to explore the tetragonal AB$_2$C$_2$D compounds. Screening 8640 variants identifies 1347 compensated antiferromagnetic candidates satisfying altermagnetic symmetry. An interpretable XGBoost model trained on first-principles spin-splitting data then isolates 34 low-hull-energy candidates,including four previously reported, with giant non-relativistic spin splittings exceeding 1.5 eV near the Fermi level. Detailed first-principles calculations of the representative RbMn$_2$Te$_2$O confirm a maximum spin splitting of $\\sim$1.88 eV with dynamical stability and an estimated Néel temperature of $\\sim$390 K. The giant splitting originates from symmetry-locked Mn-sublattice exchange fields amplified by directional Mn-d/Te-p hybridization. Furthermore, we uncover a profound soft-mode-driven structural transition associated with an interlayer dimensionality crossover in SrMn$_2$Te$_2$O, yet the unfolded electronic structure demonstrates that the altermagnetic spin splitting remains robust after lattice reconstruction. Hydrostatic pressure provides an additional tuning route, producing non-monotonic modulation of the spin-split Fermi surface governed by local coordination and orbital hybridization. These results establish tetragonal AB$_2$C$_2$D compounds as a tunable materials platform for stray-field-free spintronic devices and provide a general data-driven strategy for discovering robust giant-splitting altermagnets.",
-    "date": "2026-05-27",
-    "updated": "2026-05-27T03:08:54Z",
-    "url": "https://arxiv.org/abs/2605.27888v1",
-    "tags": [],
-    "source": "arXiv · 预印本",
-    "authors": [
-      "Yi-Fei Jiang",
-      "Jia-Xuan Guo",
-      "Zhen Zhang",
-      "Xin-Wei Yi",
-      "Jing-Yang You"
     ],
     "relevance": 0,
     "score": 0.0,
