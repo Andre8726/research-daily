@@ -12,6 +12,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 QUERIES = {
+    '交替磁性与自旋动力学': '(all:altermagnet OR all:altermagnetism OR all:altermagnon) AND (all:spin OR all:magnon)',
     'Kagome 反铁磁': '(all:kagome AND (all:antiferromagnet OR all:antiferromagnetic OR all:Mn3Sn OR all:Mn3Ge))',
     '自旋存储': '(all:spintronics OR all:MRAM OR all:"spin orbit torque" OR all:"spin transfer torque") AND (all:memory OR all:memories OR all:switching)',
     'AI for spintronics': '(all:spintronics OR all:spintronic OR all:skyrmion OR all:"magnetic tunnel junction") AND (all:"machine learning" OR all:"deep learning" OR all:"artificial intelligence" OR all:"neural network" OR all:"reinforcement learning")',
@@ -39,8 +40,13 @@ def parse_feed(raw, tag):
 def journals():
     found = []
     today = datetime.now(timezone.utc).date()
-    for query in ['kagome antiferromagnet', 'spin orbit torque memory', 'spintronics machine learning', 'magnetic tunnel junction neural network']:
-        params = urllib.parse.urlencode({'query': query, 'filter': f'type:journal-article,from-pub-date:{today-timedelta(days=90)},until-pub-date:{today}', 'rows': 60})
+    queries = ['kagome antiferromagnet', 'spin orbit torque memory', 'spintronics machine learning', 'magnetic tunnel junction neural network', 'altermagnetism magnon']
+    requests = [(query, '') for query in queries]
+    # Target each flagship journal independently so broad-query result caps cannot crowd it out.
+    for issn in ['0036-8075', '0028-0836', '1745-2473']:
+        requests.extend((query, ',issn:'+issn) for query in queries)
+    for query, journal_filter in requests:
+        params = urllib.parse.urlencode({'query': query, 'filter': f'type:journal-article,from-pub-date:{today-timedelta(days=90)},until-pub-date:{today}{journal_filter}', 'rows': 60})
         req = urllib.request.Request('https://api.crossref.org/works?' + params, headers={'User-Agent':'ResearchDaily/1.0'})
         with urllib.request.urlopen(req, timeout=60) as response:
             items = json.load(response)['message']['items']
