@@ -16,6 +16,8 @@ def rank(p):
     # A skyrmion mention alone is insufficient: require explicit spintronic/device context.
     if matches(text,r'spintronic|magnetic tunnel junction|\bmram\b|spin.orbit torque|spin.transfer torque') and matches(text,r'machine learning|deep learning|artificial intelligence|neural network|reinforcement learning'):
         groups.append(('AI for spintronics',r'machine learning|deep learning|artificial intelligence|neural network|reinforcement learning'))
+    if matches(text,r'altermagnet|altermagnon') and matches(text,r'spin|magnon'):
+        groups.append(('交替磁性与自旋动力学',r'altermagnet|altermagnon'))
     p['tags'] = [g[0] for g in groups]
     relevance = (80 + 15 * any(matches(t,g[1]) for g in groups)) if groups else 0
     journal = p.get('journal','')
