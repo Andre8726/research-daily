@@ -12,7 +12,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 QUERIES = {
-    '交替磁性与自旋动力学': '(all:altermagnet OR all:altermagnetism OR all:altermagnon) AND (all:spin OR all:magnon)',
+    'altermagnetism': '(all:altermagnet OR all:altermagnetism OR all:altermagnon) AND (all:spin OR all:magnon)',
     'Kagome 反铁磁': '(all:kagome AND (all:antiferromagnet OR all:antiferromagnetic OR all:Mn3Sn OR all:Mn3Ge))',
     '自旋存储': '(all:spintronics OR all:MRAM OR all:"spin orbit torque" OR all:"spin transfer torque") AND (all:memory OR all:memories OR all:switching)',
     'AI for spintronics': '(all:spintronics OR all:spintronic OR all:skyrmion OR all:"magnetic tunnel junction") AND (all:"machine learning" OR all:"deep learning" OR all:"artificial intelligence" OR all:"neural network" OR all:"reinforcement learning")',
