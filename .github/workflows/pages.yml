@@ -27,10 +27,12 @@ jobs:
         with:
           python-version: '3.12'
       - name: Collect papers
+        if: github.event_name != 'push'
         run: |
           python scripts/update.py
           python scripts/images.py
       - name: Archive latest data
+        if: github.event_name != 'push'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
