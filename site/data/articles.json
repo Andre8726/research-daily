@@ -26,12 +26,12 @@
       "Matthias F. Kling"
     ],
     "tags": [
-      "交替磁性与自旋动力学"
+      "altermagnetism"
     ],
     "relevance": 95,
     "score": 95.9,
     "journal_priority": true,
-    "reason": "交替磁性与自旋动力学；重点关注期刊"
+    "reason": "altermagnetism；重点关注期刊"
   },
   {
     "id": "10.1021/acsnano.6c10331",
@@ -340,13 +340,13 @@
     "journal": "Physical Review B",
     "source": "Physical Review B",
     "tags": [
-      "交替磁性与自旋动力学"
+      "altermagnetism"
     ],
     "authors": [],
     "relevance": 95,
     "score": 81.9,
     "journal_priority": false,
-    "reason": "交替磁性与自旋动力学；期刊论文"
+    "reason": "altermagnetism；期刊论文"
   },
   {
     "id": "10.1016/j.jmmm.2026.174367",
@@ -558,13 +558,13 @@
     "journal": "Advanced Functional Materials",
     "source": "Advanced Functional Materials",
     "tags": [
-      "交替磁性与自旋动力学"
+      "altermagnetism"
     ],
     "authors": [],
     "relevance": 80,
     "score": 80.0,
     "journal_priority": true,
-    "reason": "交替磁性与自旋动力学；重点关注期刊"
+    "reason": "altermagnetism；重点关注期刊"
   },
   {
     "id": "10.1038/s43246-026-01343-2",
@@ -722,13 +722,13 @@
     "source": "Chinese Physics B",
     "tags": [
       "自旋存储",
-      "交替磁性与自旋动力学"
+      "altermagnetism"
     ],
     "authors": [],
     "relevance": 95,
     "score": 77.1,
     "journal_priority": false,
-    "reason": "自旋存储；交替磁性与自旋动力学；期刊论文"
+    "reason": "自旋存储；altermagnetism；期刊论文"
   },
   {
     "id": "10.1063/5.0326907",
@@ -1143,7 +1143,7 @@
     "url": "https://arxiv.org/abs/2610.04684v1",
     "tags": [
       "自旋存储",
-      "交替磁性与自旋动力学"
+      "altermagnetism"
     ],
     "source": "arXiv · 预印本",
     "authors": [
@@ -1154,7 +1154,7 @@
     "relevance": 95,
     "score": 73.1,
     "journal_priority": false,
-    "reason": "自旋存储；交替磁性与自旋动力学；预印本补充"
+    "reason": "自旋存储；altermagnetism；预印本补充"
   },
   {
     "id": "2610.01568",
@@ -1388,7 +1388,7 @@
     "updated": "2026-10-12T09:22:12Z",
     "url": "https://arxiv.org/abs/2609.16749v2",
     "tags": [
-      "交替磁性与自旋动力学"
+      "altermagnetism"
     ],
     "source": "arXiv · 预印本",
     "authors": [
@@ -1399,7 +1399,7 @@
     "relevance": 95,
     "score": 71.1,
     "journal_priority": false,
-    "reason": "交替磁性与自旋动力学；预印本补充"
+    "reason": "altermagnetism；预印本补充"
   },
   {
     "id": "2609.11745",
@@ -1459,7 +1459,7 @@
     "url": "https://arxiv.org/abs/2609.11816v1",
     "tags": [
       "自旋存储",
-      "交替磁性与自旋动力学"
+      "altermagnetism"
     ],
     "source": "arXiv · 预印本",
     "authors": [
@@ -1474,7 +1474,7 @@
     "relevance": 95,
     "score": 70.5,
     "journal_priority": false,
-    "reason": "自旋存储；交替磁性与自旋动力学；预印本补充"
+    "reason": "自旋存储；altermagnetism；预印本补充"
   },
   {
     "id": "2609.09699",
@@ -1516,7 +1516,7 @@
     "url": "https://arxiv.org/abs/2609.07548v1",
     "tags": [
       "自旋存储",
-      "交替磁性与自旋动力学"
+      "altermagnetism"
     ],
     "source": "arXiv · 预印本",
     "authors": [
@@ -1528,7 +1528,7 @@
     "relevance": 95,
     "score": 70.2,
     "journal_priority": false,
-    "reason": "自旋存储；交替磁性与自旋动力学；预印本补充"
+    "reason": "自旋存储；altermagnetism；预印本补充"
   },
   {
     "id": "2609.06362",
@@ -1562,7 +1562,7 @@
     "updated": "2026-09-04T12:38:53Z",
     "url": "https://arxiv.org/abs/2609.05085v1",
     "tags": [
-      "交替磁性与自旋动力学"
+      "altermagnetism"
     ],
     "source": "arXiv · 预印本",
     "authors": [
@@ -1580,7 +1580,7 @@
     "relevance": 95,
     "score": 69.8,
     "journal_priority": false,
-    "reason": "交替磁性与自旋动力学；预印本补充"
+    "reason": "altermagnetism；预印本补充"
   },
   {
     "id": "10.1002/aelm.70545",
@@ -1699,7 +1699,7 @@
     "url": "https://arxiv.org/abs/2608.19476v1",
     "tags": [
       "自旋存储",
-      "交替磁性与自旋动力学"
+      "altermagnetism"
     ],
     "source": "arXiv · 预印本",
     "authors": [
@@ -1709,7 +1709,7 @@
     "relevance": 95,
     "score": 68.1,
     "journal_priority": false,
-    "reason": "自旋存储；交替磁性与自旋动力学；预印本补充"
+    "reason": "自旋存储；altermagnetism；预印本补充"
   },
   {
     "id": "2608.17558",
@@ -1763,7 +1763,7 @@
     "url": "https://arxiv.org/abs/2608.15953v2",
     "tags": [
       "自旋存储",
-      "交替磁性与自旋动力学"
+      "altermagnetism"
     ],
     "source": "arXiv · 预印本",
     "authors": [
@@ -1774,7 +1774,7 @@
     "relevance": 95,
     "score": 67.7,
     "journal_priority": false,
-    "reason": "自旋存储；交替磁性与自旋动力学；预印本补充"
+    "reason": "自旋存储；altermagnetism；预印本补充"
   },
   {
     "id": "2608.05469",
@@ -2342,7 +2342,7 @@
     "url": "https://arxiv.org/abs/2604.19156v1",
     "tags": [
       "Kagome 反铁磁",
-      "交替磁性与自旋动力学"
+      "altermagnetism"
     ],
     "source": "arXiv · 预印本",
     "authors": [
@@ -2352,7 +2352,7 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；交替磁性与自旋动力学；预印本补充"
+    "reason": "Kagome 反铁磁；altermagnetism；预印本补充"
   },
   {
     "id": "2604.15935",
@@ -2574,7 +2574,7 @@
     "url": "https://arxiv.org/abs/2606.03451v2",
     "tags": [
       "Kagome 反铁磁",
-      "交替磁性与自旋动力学"
+      "altermagnetism"
     ],
     "source": "arXiv · 预印本",
     "authors": [
@@ -2584,7 +2584,7 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；交替磁性与自旋动力学；预印本补充"
+    "reason": "Kagome 反铁磁；altermagnetism；预印本补充"
   },
   {
     "id": "2605.27888",
@@ -2594,7 +2594,7 @@
     "updated": "2026-05-27T03:08:54Z",
     "url": "https://arxiv.org/abs/2605.27888v1",
     "tags": [
-      "交替磁性与自旋动力学"
+      "altermagnetism"
     ],
     "source": "arXiv · 预印本",
     "authors": [
@@ -2607,7 +2607,7 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "交替磁性与自旋动力学；预印本补充"
+    "reason": "altermagnetism；预印本补充"
   },
   {
     "id": "2610.39841",
@@ -3112,7 +3112,7 @@
     "url": "https://arxiv.org/abs/2609.29857v1",
     "tags": [
       "自旋存储",
-      "交替磁性与自旋动力学"
+      "altermagnetism"
     ],
     "source": "arXiv · 预印本",
     "authors": [
@@ -3130,7 +3130,7 @@
     "relevance": 80,
     "score": 61.6,
     "journal_priority": false,
-    "reason": "自旋存储；交替磁性与自旋动力学；预印本补充"
+    "reason": "自旋存储；altermagnetism；预印本补充"
   },
   {
     "id": "2609.27212",
@@ -4152,7 +4152,7 @@
     "tags": [
       "自旋存储",
       "AI for spintronics",
-      "交替磁性与自旋动力学"
+      "altermagnetism"
     ],
     "source": "arXiv · 预印本",
     "authors": [
@@ -4167,7 +4167,7 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；交替磁性与自旋动力学；预印本补充"
+    "reason": "自旋存储；AI for spintronics；altermagnetism；预印本补充"
   },
   {
     "id": "2604.07423",
@@ -4371,7 +4371,7 @@
     "url": "https://arxiv.org/abs/2602.01874v1",
     "tags": [
       "AI for spintronics",
-      "交替磁性与自旋动力学"
+      "altermagnetism"
     ],
     "source": "arXiv · 预印本",
     "authors": [
@@ -4385,7 +4385,7 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；交替磁性与自旋动力学；预印本补充"
+    "reason": "AI for spintronics；altermagnetism；预印本补充"
   },
   {
     "id": "2601.18943",
