@@ -11,7 +11,7 @@
   const valid = value => value && typeof value === 'object' && !Array.isArray(value) ? Object.fromEntries(Object.entries(value).filter(([k,v])=>['unread','pending','read'].includes(v))) : {};
   function read(key) { try { return valid(JSON.parse(localStorage.getItem(key)||'{}')); } catch { return {}; } }
   function cache() { try { localStorage.setItem(storageKey(),JSON.stringify(reading)); localStorage.setItem(dirtyKey(),JSON.stringify(pending)); } catch { note.textContent='本地缓存不可用，请保持联网。'; } }
-  function show() { login.hidden=!!user;logout.hidden=!user;migrate.hidden=!user||!Object.keys(read('research-daily-reading-v1')).length; document.querySelectorAll('.read-control select').forEach(n=>n.disabled=!!user&&!ready); }
+  function show() { login.hidden=!!user;logout.hidden=!user;migrate.hidden=!user||!Object.keys(read('research-daily-reading-v1')).length; document.querySelectorAll('.read-control select, .pending-actions button').forEach(n=>n.disabled=!!user&&!ready); }
   async function sync() {
     if (!user || !ready) return;
     if (busy) { again=true;return; }

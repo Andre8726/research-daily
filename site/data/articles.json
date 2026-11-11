@@ -31,7 +31,9 @@
     "relevance": 95,
     "score": 95.2,
     "journal_priority": true,
-    "reason": "altermagnetism；重点关注期刊"
+    "reason": "altermagnetism；重点关注期刊",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1126/science.aec2602",
@@ -49,7 +51,11 @@
     "relevance": 95,
     "score": 95.2,
     "journal_priority": true,
-    "reason": "altermagnetism；重点关注期刊"
+    "reason": "altermagnetism；重点关注期刊",
+    "arxiv_id": "2509.07087",
+    "image": "https://arxiv.org/html/2509.07087v1/Fig_intro.png",
+    "image_label": "arXiv 版本论文插图",
+    "image_source": "https://arxiv.org/html/2509.07087"
   },
   {
     "id": "10.1038/s41586-026-11172-5",
@@ -88,7 +94,9 @@
     "relevance": 95,
     "score": 94.1,
     "journal_priority": true,
-    "reason": "自旋存储；重点关注期刊"
+    "reason": "自旋存储；重点关注期刊",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1038/s41565-026-02290-2",
@@ -127,7 +135,9 @@
     "relevance": 95,
     "score": 93.4,
     "journal_priority": true,
-    "reason": "altermagnetism；重点关注期刊"
+    "reason": "altermagnetism；重点关注期刊",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1021/acs.nanolett.6c02963",
@@ -145,7 +155,9 @@
     "relevance": 95,
     "score": 90.9,
     "journal_priority": true,
-    "reason": "Kagome 反铁磁；重点关注期刊"
+    "reason": "Kagome 反铁磁；重点关注期刊",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1002/adfm.78423",
@@ -163,7 +175,9 @@
     "relevance": 95,
     "score": 90.3,
     "journal_priority": true,
-    "reason": "altermagnetism；重点关注期刊"
+    "reason": "altermagnetism；重点关注期刊",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1038/s41928-026-01699-w",
@@ -202,7 +216,9 @@
     "relevance": 95,
     "score": 88.2,
     "journal_priority": true,
-    "reason": "自旋存储；重点关注期刊"
+    "reason": "自旋存储；重点关注期刊",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1002/adfm.77807",
@@ -220,7 +236,9 @@
     "relevance": 95,
     "score": 88.2,
     "journal_priority": true,
-    "reason": "自旋存储；重点关注期刊"
+    "reason": "自旋存储；重点关注期刊",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1021/acs.nanolett.6c03044",
@@ -238,7 +256,9 @@
     "relevance": 95,
     "score": 86.8,
     "journal_priority": true,
-    "reason": "altermagnetism；重点关注期刊"
+    "reason": "altermagnetism；重点关注期刊",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1002/adfm.77634",
@@ -256,7 +276,9 @@
     "relevance": 95,
     "score": 86.5,
     "journal_priority": true,
-    "reason": "Kagome 反铁磁；重点关注期刊"
+    "reason": "Kagome 反铁磁；重点关注期刊",
+    "arxiv_id": "2511.21361",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1063/5.0351719",
@@ -274,7 +296,9 @@
     "relevance": 95,
     "score": 85.4,
     "journal_priority": false,
-    "reason": "altermagnetism；期刊论文"
+    "reason": "altermagnetism；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1103/sq14-bc56",
@@ -292,7 +316,9 @@
     "relevance": 95,
     "score": 85.4,
     "journal_priority": false,
-    "reason": "altermagnetism；期刊论文"
+    "reason": "altermagnetism；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1021/acsami.6c15987",
@@ -310,7 +336,9 @@
     "relevance": 95,
     "score": 84.6,
     "journal_priority": false,
-    "reason": "自旋存储；期刊论文"
+    "reason": "自旋存储；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1088/1361-648x/aeb522",
@@ -329,7 +357,9 @@
     "relevance": 95,
     "score": 84.6,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；altermagnetism；期刊论文"
+    "reason": "Kagome 反铁磁；altermagnetism；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1016/j.mtphys.2026.102260",
@@ -347,7 +377,11 @@
     "relevance": 95,
     "score": 84.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；期刊论文"
+    "reason": "Kagome 反铁磁；期刊论文",
+    "arxiv_id": "2610.02794",
+    "image": "https://arxiv.org/html/2610.02794v1/Fig1.png",
+    "image_label": "arXiv 版本论文插图",
+    "image_source": "https://arxiv.org/html/2610.02794"
   },
   {
     "id": "10.1016/j.jmmm.2026.174602",
@@ -365,7 +399,9 @@
     "relevance": 95,
     "score": 84.5,
     "journal_priority": false,
-    "reason": "自旋存储；期刊论文"
+    "reason": "自旋存储；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1103/m3hc-w3kt",
@@ -383,7 +419,11 @@
     "relevance": 95,
     "score": 84.2,
     "journal_priority": false,
-    "reason": "altermagnetism；期刊论文"
+    "reason": "altermagnetism；期刊论文",
+    "arxiv_id": "2605.19659",
+    "image": "https://arxiv.org/html/2605.19659v1/Fig1.png",
+    "image_label": "arXiv 版本论文插图",
+    "image_source": "https://arxiv.org/html/2605.19659"
   },
   {
     "id": "10.3389/fphy.2026.1992029",
@@ -422,7 +462,9 @@
     "relevance": 95,
     "score": 83.3,
     "journal_priority": false,
-    "reason": "altermagnetism；期刊论文"
+    "reason": "altermagnetism；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1002/advs.78167",
@@ -440,7 +482,11 @@
     "relevance": 95,
     "score": 83.2,
     "journal_priority": false,
-    "reason": "altermagnetism；期刊论文"
+    "reason": "altermagnetism；期刊论文",
+    "arxiv_id": "2604.19661",
+    "image": "https://arxiv.org/html/2604.19661v3/fig1.png",
+    "image_label": "arXiv 版本论文插图",
+    "image_source": "https://arxiv.org/html/2604.19661"
   },
   {
     "id": "10.1088/1361-648x/aeb05b",
@@ -458,7 +504,9 @@
     "relevance": 95,
     "score": 83.2,
     "journal_priority": false,
-    "reason": "altermagnetism；期刊论文"
+    "reason": "altermagnetism；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1038/s44306-026-00162-y",
@@ -497,7 +545,9 @@
     "relevance": 95,
     "score": 82.6,
     "journal_priority": false,
-    "reason": "自旋存储；期刊论文"
+    "reason": "自旋存储；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1088/0256-307x/43/11/110704",
@@ -515,7 +565,11 @@
     "relevance": 95,
     "score": 81.9,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；期刊论文"
+    "reason": "Kagome 反铁磁；期刊论文",
+    "arxiv_id": "2610.29366",
+    "image": "https://arxiv.org/html/2610.29366v1/Fig1.png",
+    "image_label": "arXiv 版本论文插图",
+    "image_source": "https://arxiv.org/html/2610.29366"
   },
   {
     "id": "10.1038/s41535-026-00947-8",
@@ -533,7 +587,9 @@
     "relevance": 95,
     "score": 81.8,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；期刊论文"
+    "reason": "Kagome 反铁磁；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1103/ll8h-g51z",
@@ -551,7 +607,9 @@
     "relevance": 95,
     "score": 81.8,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；期刊论文"
+    "reason": "Kagome 反铁磁；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1103/gv8b-nd7t",
@@ -569,7 +627,9 @@
     "relevance": 95,
     "score": 81.6,
     "journal_priority": false,
-    "reason": "自旋存储；期刊论文"
+    "reason": "自旋存储；期刊论文",
+    "arxiv_id": "2610.09950",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1103/9my8-21z2",
@@ -587,7 +647,9 @@
     "relevance": 95,
     "score": 81.2,
     "journal_priority": false,
-    "reason": "altermagnetism；期刊论文"
+    "reason": "altermagnetism；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1016/j.jmmm.2026.174367",
@@ -605,7 +667,9 @@
     "relevance": 95,
     "score": 81.1,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；期刊论文"
+    "reason": "Kagome 反铁磁；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1016/j.tsf.2026.141031",
@@ -623,7 +687,9 @@
     "relevance": 95,
     "score": 81.1,
     "journal_priority": false,
-    "reason": "自旋存储；期刊论文"
+    "reason": "自旋存储；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1002/advs.78111",
@@ -642,7 +708,9 @@
     "relevance": 95,
     "score": 80.9,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；期刊论文"
+    "reason": "自旋存储；AI for spintronics；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1103/35kb-w65h",
@@ -660,7 +728,9 @@
     "relevance": 95,
     "score": 80.7,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；期刊论文"
+    "reason": "Kagome 反铁磁；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1021/acs.chemmater.6c01631",
@@ -678,7 +748,9 @@
     "relevance": 95,
     "score": 80.3,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；期刊论文"
+    "reason": "Kagome 反铁磁；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1103/h2ys-c3rz",
@@ -696,7 +768,11 @@
     "relevance": 95,
     "score": 80.3,
     "journal_priority": false,
-    "reason": "altermagnetism；期刊论文"
+    "reason": "altermagnetism；期刊论文",
+    "arxiv_id": "2605.10602",
+    "image": "https://arxiv.org/html/2605.10602v2/images/ExampleLattice.png",
+    "image_label": "arXiv 版本论文插图",
+    "image_source": "https://arxiv.org/html/2605.10602"
   },
   {
     "id": "10.1103/ddpk-l8jc",
@@ -714,7 +790,11 @@
     "relevance": 95,
     "score": 80.2,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；期刊论文"
+    "reason": "Kagome 反铁磁；期刊论文",
+    "arxiv_id": "2603.26079",
+    "image": "https://arxiv.org/html/2603.26079v2/fig1_revision.png",
+    "image_label": "arXiv 版本论文插图",
+    "image_source": "https://arxiv.org/html/2603.26079"
   },
   {
     "id": "10.1088/1674-1056/aeab5f",
@@ -732,7 +812,9 @@
     "relevance": 95,
     "score": 80.2,
     "journal_priority": false,
-    "reason": "自旋存储；期刊论文"
+    "reason": "自旋存储；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1007/s11433-026-3060-7",
@@ -750,7 +832,9 @@
     "relevance": 95,
     "score": 80.1,
     "journal_priority": false,
-    "reason": "自旋存储；期刊论文"
+    "reason": "自旋存储；期刊论文",
+    "arxiv_id": "2609.04594",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1002/advs.77738",
@@ -768,7 +852,9 @@
     "relevance": 95,
     "score": 79.9,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；期刊论文"
+    "reason": "Kagome 反铁磁；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1063/5.0348222",
@@ -787,7 +873,9 @@
     "relevance": 95,
     "score": 79.9,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；自旋存储；期刊论文"
+    "reason": "Kagome 反铁磁；自旋存储；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1021/acs.chemmater.6c00030",
@@ -805,7 +893,9 @@
     "relevance": 95,
     "score": 79.4,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；期刊论文"
+    "reason": "Kagome 反铁磁；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1002/adfm.77835",
@@ -823,7 +913,9 @@
     "relevance": 80,
     "score": 79.2,
     "journal_priority": true,
-    "reason": "altermagnetism；重点关注期刊"
+    "reason": "altermagnetism；重点关注期刊",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1038/s43246-026-01343-2",
@@ -841,7 +933,9 @@
     "relevance": 95,
     "score": 78.9,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；期刊论文"
+    "reason": "Kagome 反铁磁；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1088/1361-6633/ae9e46",
@@ -859,7 +953,11 @@
     "relevance": 95,
     "score": 78.8,
     "journal_priority": false,
-    "reason": "altermagnetism；期刊论文"
+    "reason": "altermagnetism；期刊论文",
+    "arxiv_id": "2510.09170",
+    "image": "https://arxiv.org/html/2510.09170v3/Fig-1.png",
+    "image_label": "arXiv 版本论文插图",
+    "image_source": "https://arxiv.org/html/2510.09170"
   },
   {
     "id": "10.1002/rar2.70532",
@@ -878,7 +976,9 @@
     "relevance": 95,
     "score": 78.7,
     "journal_priority": false,
-    "reason": "自旋存储；altermagnetism；期刊论文"
+    "reason": "自旋存储；altermagnetism；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1088/1361-648x/ae9f08",
@@ -896,7 +996,11 @@
     "relevance": 95,
     "score": 78.1,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；期刊论文"
+    "reason": "Kagome 反铁磁；期刊论文",
+    "arxiv_id": "2604.18902",
+    "image": "https://arxiv.org/html/2604.18902v2/6x6_landscape_graph.png",
+    "image_label": "arXiv 版本论文插图",
+    "image_source": "https://arxiv.org/html/2604.18902"
   },
   {
     "id": "10.1002/adfm.77974",
@@ -914,7 +1018,9 @@
     "relevance": 80,
     "score": 78.0,
     "journal_priority": true,
-    "reason": "自旋存储；重点关注期刊"
+    "reason": "自旋存储；重点关注期刊",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1088/1674-1056/aea200",
@@ -932,7 +1038,9 @@
     "relevance": 95,
     "score": 77.9,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；期刊论文"
+    "reason": "Kagome 反铁磁；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1016/j.mattod.2026.103407",
@@ -950,7 +1058,9 @@
     "relevance": 95,
     "score": 77.7,
     "journal_priority": false,
-    "reason": "自旋存储；期刊论文"
+    "reason": "自旋存储；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1088/1674-1056/ae2ebe",
@@ -969,7 +1079,11 @@
     "relevance": 95,
     "score": 77.7,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；期刊论文"
+    "reason": "自旋存储；AI for spintronics；期刊论文",
+    "arxiv_id": "2505.00418",
+    "image": "https://arxiv.org/html/2505.00418v1/Fig1.png",
+    "image_label": "arXiv 版本论文插图",
+    "image_source": "https://arxiv.org/html/2505.00418"
   },
   {
     "id": "10.1109/led.2026.3712675",
@@ -987,7 +1101,9 @@
     "relevance": 95,
     "score": 77.7,
     "journal_priority": false,
-    "reason": "AI for spintronics；期刊论文"
+    "reason": "AI for spintronics；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1088/2516-1075/ae9dcf",
@@ -1005,7 +1121,11 @@
     "relevance": 95,
     "score": 77.7,
     "journal_priority": false,
-    "reason": "altermagnetism；期刊论文"
+    "reason": "altermagnetism；期刊论文",
+    "arxiv_id": "2511.01094",
+    "image": "https://arxiv.org/html/2511.01094v1/Fig_1_bands_fs.png",
+    "image_label": "arXiv 版本论文插图",
+    "image_source": "https://arxiv.org/html/2511.01094"
   },
   {
     "id": "10.1002/smtd.70991",
@@ -1023,7 +1143,9 @@
     "relevance": 95,
     "score": 77.6,
     "journal_priority": false,
-    "reason": "altermagnetism；期刊论文"
+    "reason": "altermagnetism；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1103/gkrn-pbjb",
@@ -1041,7 +1163,11 @@
     "relevance": 95,
     "score": 77.1,
     "journal_priority": false,
-    "reason": "altermagnetism；期刊论文"
+    "reason": "altermagnetism；期刊论文",
+    "arxiv_id": "2509.09959",
+    "image": "https://arxiv.org/html/2509.09959v2/fig1.png",
+    "image_label": "arXiv 版本论文插图",
+    "image_source": "https://arxiv.org/html/2509.09959"
   },
   {
     "id": "10.1103/yrbm-qrjf",
@@ -1059,7 +1185,9 @@
     "relevance": 95,
     "score": 76.4,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；期刊论文"
+    "reason": "Kagome 反铁磁；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1088/1674-1056/ae9b82",
@@ -1078,7 +1206,9 @@
     "relevance": 95,
     "score": 76.3,
     "journal_priority": false,
-    "reason": "自旋存储；altermagnetism；期刊论文"
+    "reason": "自旋存储；altermagnetism；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2611.10706",
@@ -1099,7 +1229,10 @@
     "relevance": 95,
     "score": 76.2,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2611.10706v1/PSHS.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.10706"
   },
   {
     "id": "2611.09098",
@@ -1127,7 +1260,8 @@
     "relevance": 95,
     "score": 76.1,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2611.10173",
@@ -1149,7 +1283,8 @@
     "relevance": 95,
     "score": 76.1,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2611.04937",
@@ -1169,7 +1304,10 @@
     "relevance": 95,
     "score": 75.7,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2611.04937v2/Schem_AMTI.jpg",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.04937"
   },
   {
     "id": "2611.04214",
@@ -1189,7 +1327,10 @@
     "relevance": 95,
     "score": 75.7,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2611.04214v1/contour_map.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.04214"
   },
   {
     "id": "2611.05174",
@@ -1211,7 +1352,10 @@
     "relevance": 95,
     "score": 75.7,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2611.05174v1/fig2.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.05174"
   },
   {
     "id": "2611.04675",
@@ -1237,7 +1381,10 @@
     "relevance": 95,
     "score": 75.7,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2611.04675v1/Fig_1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.04675"
   },
   {
     "id": "2611.03492",
@@ -1257,7 +1404,10 @@
     "relevance": 95,
     "score": 75.6,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2611.03492v1/figs/fig1_schematic.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.03492"
   },
   {
     "id": "2611.03180",
@@ -1278,7 +1428,10 @@
     "relevance": 95,
     "score": 75.6,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2611.03180v1/im1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.03180"
   },
   {
     "id": "10.1021/acsaelm.6c01139",
@@ -1297,7 +1450,9 @@
     "relevance": 95,
     "score": 75.5,
     "journal_priority": false,
-    "reason": "自旋存储；altermagnetism；期刊论文"
+    "reason": "自旋存储；altermagnetism；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1063/5.0326907",
@@ -1315,7 +1470,9 @@
     "relevance": 95,
     "score": 75.5,
     "journal_priority": false,
-    "reason": "自旋存储；期刊论文"
+    "reason": "自旋存储；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1063/5.0348028",
@@ -1333,7 +1490,9 @@
     "relevance": 95,
     "score": 75.5,
     "journal_priority": false,
-    "reason": "自旋存储；期刊论文"
+    "reason": "自旋存储；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1103/xyzw-jtn1",
@@ -1351,7 +1510,11 @@
     "relevance": 95,
     "score": 75.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；期刊论文"
+    "reason": "Kagome 反铁磁；期刊论文",
+    "arxiv_id": "2602.12998",
+    "image": "https://arxiv.org/html/2602.12998v2/lattice_vecs.png",
+    "image_label": "arXiv 版本论文插图",
+    "image_source": "https://arxiv.org/html/2602.12998"
   },
   {
     "id": "2611.01944",
@@ -1373,7 +1536,8 @@
     "relevance": 95,
     "score": 75.5,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2611.01848",
@@ -1398,7 +1562,10 @@
     "relevance": 95,
     "score": 75.5,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2611.01848v1/Figure1/Fig1_0811.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.01848"
   },
   {
     "id": "2611.00622",
@@ -1425,7 +1592,10 @@
     "relevance": 95,
     "score": 75.4,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2611.00622v1/NiF2_Photon.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.00622"
   },
   {
     "id": "2610.41161",
@@ -1445,7 +1615,10 @@
     "relevance": 95,
     "score": 75.3,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2610.41161v1/fig2_tensor_network_formulation.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.41161"
   },
   {
     "id": "2610.41797",
@@ -1477,7 +1650,10 @@
     "relevance": 95,
     "score": 75.3,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.41797v1/Fig1_edit_map.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.41797"
   },
   {
     "id": "2610.41589",
@@ -1497,7 +1673,10 @@
     "relevance": 95,
     "score": 75.3,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.41589v1/Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.41589"
   },
   {
     "id": "2610.41419",
@@ -1517,7 +1696,8 @@
     "relevance": 95,
     "score": 75.3,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2610.41414",
@@ -1537,7 +1717,10 @@
     "relevance": 95,
     "score": 75.3,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.41414v2/figures/fig_article_channels.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.41414"
   },
   {
     "id": "2610.41274",
@@ -1559,7 +1742,10 @@
     "relevance": 95,
     "score": 75.3,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.41274v1/fig1_ab2_centerlines_bpanel_aligned.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.41274"
   },
   {
     "id": "2610.40215",
@@ -1580,7 +1766,10 @@
     "relevance": 95,
     "score": 75.2,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2610.40215v1/fig-sahe-schematic-diagram.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.40215"
   },
   {
     "id": "2610.39703",
@@ -1601,7 +1790,10 @@
     "relevance": 95,
     "score": 75.2,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；预印本补充"
+    "reason": "自旋存储；AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2610.39703v1/epsfiles/phase_difference.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.39703"
   },
   {
     "id": "2610.39625",
@@ -1621,7 +1813,10 @@
     "relevance": 95,
     "score": 75.2,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；预印本补充"
+    "reason": "自旋存储；AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2610.39625v1/Fig_23pt1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.39625"
   },
   {
     "id": "2610.40870",
@@ -1647,7 +1842,10 @@
     "relevance": 95,
     "score": 75.2,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.40870v1/fig1_20261019.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.40870"
   },
   {
     "id": "2610.40410",
@@ -1671,7 +1869,10 @@
     "relevance": 95,
     "score": 75.2,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.40410v1/Figure1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.40410"
   },
   {
     "id": "2610.39206",
@@ -1690,7 +1891,8 @@
     "relevance": 95,
     "score": 75.2,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2610.38491",
@@ -1720,7 +1922,8 @@
     "relevance": 95,
     "score": 75.1,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2610.37754",
@@ -1740,7 +1943,10 @@
     "relevance": 95,
     "score": 74.9,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.37754v1/phase_diagram.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.37754"
   },
   {
     "id": "2610.37367",
@@ -1766,7 +1972,10 @@
     "relevance": 95,
     "score": 74.9,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.37367v1/spin_texture_rotation.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.37367"
   },
   {
     "id": "2610.34736",
@@ -1798,7 +2007,10 @@
     "relevance": 95,
     "score": 74.8,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2610.34736v2/Figure_1_final_magnetic.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.34736"
   },
   {
     "id": "2610.35855",
@@ -1820,7 +2032,10 @@
     "relevance": 95,
     "score": 74.8,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.35855v2/sarpes_A_Dz.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.35855"
   },
   {
     "id": "2610.35238",
@@ -1848,7 +2063,10 @@
     "relevance": 95,
     "score": 74.8,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.35238v1/fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.35238"
   },
   {
     "id": "2610.35236",
@@ -1876,7 +2094,10 @@
     "relevance": 95,
     "score": 74.8,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.35236v1/figure1-intro-rheed-leed_v-20260907.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.35236"
   },
   {
     "id": "2610.34439",
@@ -1896,7 +2117,10 @@
     "relevance": 95,
     "score": 74.7,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2610.34439v1/fig_3.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.34439"
   },
   {
     "id": "2610.34230",
@@ -1928,7 +2152,10 @@
     "relevance": 95,
     "score": 74.7,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2610.34230v1/fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.34230"
   },
   {
     "id": "2610.32261",
@@ -1971,7 +2198,8 @@
     "relevance": 95,
     "score": 74.5,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2610.29708",
@@ -2003,7 +2231,10 @@
     "relevance": 95,
     "score": 74.3,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2610.29708v1/Figure1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.29708"
   },
   {
     "id": "2610.29366",
@@ -2029,7 +2260,10 @@
     "relevance": 95,
     "score": 74.3,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2610.29366v1/Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.29366"
   },
   {
     "id": "2610.30536",
@@ -2048,7 +2282,10 @@
     "relevance": 95,
     "score": 74.3,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.30536v1/fig_final_anticruzamento_reconstrucao.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.30536"
   },
   {
     "id": "2610.30371",
@@ -2068,7 +2305,10 @@
     "relevance": 95,
     "score": 74.3,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.30371v1/structural_superlattices.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.30371"
   },
   {
     "id": "2610.27173",
@@ -2087,7 +2327,10 @@
     "relevance": 95,
     "score": 74.1,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.27173v1/stage4_energy_field_map.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.27173"
   },
   {
     "id": "2610.24065",
@@ -2113,7 +2356,10 @@
     "relevance": 95,
     "score": 73.7,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2610.24065v1/fig_two_qsl.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.24065"
   },
   {
     "id": "2610.23773",
@@ -2133,7 +2379,10 @@
     "relevance": 95,
     "score": 73.7,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.23773v1/fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.23773"
   },
   {
     "id": "2610.23375",
@@ -2174,7 +2423,10 @@
     "relevance": 95,
     "score": 73.7,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.23375v1/Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.23375"
   },
   {
     "id": "2610.22935",
@@ -2196,7 +2448,10 @@
     "relevance": 95,
     "score": 73.7,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.22935v1/fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.22935"
   },
   {
     "id": "2610.22486",
@@ -2216,7 +2471,8 @@
     "relevance": 95,
     "score": 73.6,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2610.21770",
@@ -2243,7 +2499,10 @@
     "relevance": 95,
     "score": 73.6,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.21770v1/figure/Figure-1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.21770"
   },
   {
     "id": "2610.19793",
@@ -2267,7 +2526,10 @@
     "relevance": 95,
     "score": 73.5,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.19793v2/Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.19793"
   },
   {
     "id": "2610.19017",
@@ -2287,7 +2549,10 @@
     "relevance": 95,
     "score": 73.4,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.19017v1/fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.19017"
   },
   {
     "id": "2610.18441",
@@ -2309,7 +2574,10 @@
     "relevance": 95,
     "score": 73.4,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.18441v1/Fig3.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.18441"
   },
   {
     "id": "2610.16189",
@@ -2329,7 +2597,10 @@
     "relevance": 95,
     "score": 73.3,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2610.16189v1/fig0.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.16189"
   },
   {
     "id": "2610.16507",
@@ -2350,7 +2621,10 @@
     "relevance": 95,
     "score": 73.3,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.16507v1/FIG1_lieb_lattice.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.16507"
   },
   {
     "id": "2610.15630",
@@ -2374,7 +2648,10 @@
     "relevance": 95,
     "score": 73.2,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.15630v1/Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.15630"
   },
   {
     "id": "2610.13444",
@@ -2402,7 +2679,10 @@
     "relevance": 95,
     "score": 72.9,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.13444v1/fig1_v6_compressed.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.13444"
   },
   {
     "id": "2610.13193",
@@ -2423,7 +2703,10 @@
     "relevance": 95,
     "score": 72.9,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.13193v1/fig1.jpg",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.13193"
   },
   {
     "id": "2610.12900",
@@ -2446,7 +2729,10 @@
     "relevance": 95,
     "score": 72.9,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.12900v1/fig2.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.12900"
   },
   {
     "id": "2610.11191",
@@ -2478,7 +2764,8 @@
     "relevance": 95,
     "score": 72.8,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2610.12791",
@@ -2501,7 +2788,10 @@
     "relevance": 95,
     "score": 72.8,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.12791v2/Figure_1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.12791"
   },
   {
     "id": "2610.11838",
@@ -2522,7 +2812,10 @@
     "relevance": 95,
     "score": 72.8,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.11838v1/fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.11838"
   },
   {
     "id": "2610.11341",
@@ -2570,7 +2863,10 @@
     "relevance": 95,
     "score": 72.8,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.11341v1/fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.11341"
   },
   {
     "id": "2610.09885",
@@ -2593,7 +2889,8 @@
     "relevance": 95,
     "score": 72.7,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2610.10970",
@@ -2613,7 +2910,10 @@
     "relevance": 95,
     "score": 72.7,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.10970v1/setup_schematic_highres.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.10970"
   },
   {
     "id": "2610.10523",
@@ -2635,7 +2935,10 @@
     "relevance": 95,
     "score": 72.7,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.10523v1/1_N1N2N3.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.10523"
   },
   {
     "id": "2610.06732",
@@ -2660,7 +2963,10 @@
     "relevance": 95,
     "score": 72.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2610.06732v1/fig1.jpg",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.06732"
   },
   {
     "id": "2610.04684",
@@ -2682,7 +2988,10 @@
     "relevance": 95,
     "score": 72.3,
     "journal_priority": false,
-    "reason": "自旋存储；altermagnetism；预印本补充"
+    "reason": "自旋存储；altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.04684v1/Fig2.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.04684"
   },
   {
     "id": "2610.01568",
@@ -2708,7 +3017,8 @@
     "relevance": 95,
     "score": 72.1,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2609.39175",
@@ -2731,7 +3041,10 @@
     "relevance": 95,
     "score": 71.9,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2609.39175v1/DSC_2a_2b.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2609.39175"
   },
   {
     "id": "2609.36489",
@@ -2752,7 +3065,8 @@
     "relevance": 95,
     "score": 71.8,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2609.33619",
@@ -2773,7 +3087,10 @@
     "relevance": 95,
     "score": 71.6,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2609.33619v1/Fig/bitcells.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2609.33619"
   },
   {
     "id": "2609.28968",
@@ -2795,7 +3112,10 @@
     "relevance": 95,
     "score": 71.3,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2609.28968v1/figure1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2609.28968"
   },
   {
     "id": "2609.19572",
@@ -2833,7 +3153,8 @@
     "relevance": 95,
     "score": 70.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2609.18744",
@@ -2861,7 +3182,10 @@
     "relevance": 95,
     "score": 70.4,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2609.18744v1/Fig1_opticalconductivity.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2609.18744"
   },
   {
     "id": "2609.18008",
@@ -2906,7 +3230,8 @@
     "relevance": 95,
     "score": 70.4,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2609.16749",
@@ -2927,7 +3252,8 @@
     "relevance": 95,
     "score": 70.3,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2609.11745",
@@ -2954,7 +3280,10 @@
     "relevance": 95,
     "score": 69.7,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2609.11745v2/DMRGPS.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2609.11745"
   },
   {
     "id": "2609.11397",
@@ -2976,7 +3305,8 @@
     "relevance": 95,
     "score": 69.7,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2609.11816",
@@ -3002,7 +3332,10 @@
     "relevance": 95,
     "score": 69.7,
     "journal_priority": false,
-    "reason": "自旋存储；altermagnetism；预印本补充"
+    "reason": "自旋存储；altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2609.11816v1/IntroFigure1new.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2609.11816"
   },
   {
     "id": "2609.09699",
@@ -3033,7 +3366,10 @@
     "relevance": 95,
     "score": 69.6,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2609.09699v1/AvgStrs_v7_rasterized.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2609.09699"
   },
   {
     "id": "2609.07548",
@@ -3056,7 +3392,8 @@
     "relevance": 95,
     "score": 69.4,
     "journal_priority": false,
-    "reason": "自旋存储；altermagnetism；预印本补充"
+    "reason": "自旋存储；altermagnetism；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2609.06362",
@@ -3080,7 +3417,8 @@
     "relevance": 95,
     "score": 69.3,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2609.05085",
@@ -3108,7 +3446,10 @@
     "relevance": 95,
     "score": 69.1,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2609.05085v1/fig_01.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2609.05085"
   },
   {
     "id": "10.1002/aelm.70545",
@@ -3126,7 +3467,9 @@
     "relevance": 80,
     "score": 68.9,
     "journal_priority": false,
-    "reason": "自旋存储；期刊论文"
+    "reason": "自旋存储；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2609.00887",
@@ -3152,7 +3495,8 @@
     "relevance": 95,
     "score": 68.7,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "10.1088/1361-6463/aea231",
@@ -3170,7 +3514,11 @@
     "relevance": 80,
     "score": 68.3,
     "journal_priority": false,
-    "reason": "自旋存储；期刊论文"
+    "reason": "自旋存储；期刊论文",
+    "arxiv_id": "2404.14315",
+    "image": "https://arxiv.org/html/2404.14315v1/fig1.png",
+    "image_label": "arXiv 版本论文插图",
+    "image_source": "https://arxiv.org/html/2404.14315"
   },
   {
     "id": "2608.23485",
@@ -3195,7 +3543,8 @@
     "relevance": 95,
     "score": 67.8,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；自旋存储；预印本补充"
+    "reason": "Kagome 反铁磁；自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2608.22666",
@@ -3216,7 +3565,8 @@
     "relevance": 95,
     "score": 67.8,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2608.19476",
@@ -3237,7 +3587,10 @@
     "relevance": 95,
     "score": 67.3,
     "journal_priority": false,
-    "reason": "自旋存储；altermagnetism；预印本补充"
+    "reason": "自旋存储；altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2608.19476v1/model.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2608.19476"
   },
   {
     "id": "2608.17558",
@@ -3259,7 +3612,10 @@
     "relevance": 95,
     "score": 67.2,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2608.17558v1/Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2608.17558"
   },
   {
     "id": "2608.17225",
@@ -3280,7 +3636,10 @@
     "relevance": 95,
     "score": 67.2,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2608.17225v2/fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2608.17225"
   },
   {
     "id": "2608.15953",
@@ -3302,7 +3661,10 @@
     "relevance": 95,
     "score": 66.9,
     "journal_priority": false,
-    "reason": "自旋存储；altermagnetism；预印本补充"
+    "reason": "自旋存储；altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2608.15953v2/combined_grid.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2608.15953"
   },
   {
     "id": "2608.05469",
@@ -3327,7 +3689,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2608.05469v1/figs/structs-noslablabs.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2608.05469"
   },
   {
     "id": "2607.19656",
@@ -3350,7 +3715,8 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；预印本补充"
+    "reason": "自旋存储；AI for spintronics；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2607.10938",
@@ -3372,7 +3738,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；预印本补充"
+    "reason": "自旋存储；AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2607.10938v1/figure/overview01.jpg",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2607.10938"
   },
   {
     "id": "2607.07456",
@@ -3392,7 +3761,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2607.07456v1/fig1_workflow.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2607.07456"
   },
   {
     "id": "2607.04621",
@@ -3413,7 +3785,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2607.04621v1/fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2607.04621"
   },
   {
     "id": "2607.03086",
@@ -3432,7 +3807,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2607.03086v2/Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2607.03086"
   },
   {
     "id": "2606.16245",
@@ -3463,7 +3841,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2606.16245v1/fig1_characterization_ver5.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2606.16245"
   },
   {
     "id": "2606.13144",
@@ -3490,7 +3871,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2606.13144v2/physical.jpg",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2606.13144"
   },
   {
     "id": "2606.12204",
@@ -3512,7 +3896,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2606.12204v1/BZ_Lx_12,Ly_12,Nh_1,Nu_1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2606.12204"
   },
   {
     "id": "2606.12038",
@@ -3539,7 +3926,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2606.12038v1/fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2606.12038"
   },
   {
     "id": "2606.02781",
@@ -3564,7 +3954,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；预印本补充"
+    "reason": "自旋存储；AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2606.02781v1/Overview_CRAM-ER.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2606.02781"
   },
   {
     "id": "2605.29942",
@@ -3595,7 +3988,8 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；预印本补充"
+    "reason": "自旋存储；AI for spintronics；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2605.26779",
@@ -3615,7 +4009,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2605.26779v1/sqrt3sqrt3_final.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2605.26779"
   },
   {
     "id": "2605.24372",
@@ -3636,7 +4033,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2605.24372v1/figure4.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2605.24372"
   },
   {
     "id": "2605.28861",
@@ -3659,7 +4059,8 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2605.17420",
@@ -3678,7 +4079,8 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2605.08067",
@@ -3710,7 +4112,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2605.08067v1/Plateau.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2605.08067"
   },
   {
     "id": "2605.07540",
@@ -3739,7 +4144,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2605.07540v1/Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2605.07540"
   },
   {
     "id": "2604.27632",
@@ -3760,7 +4168,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2604.27632v1/SSC_config_a_b_20260219.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2604.27632"
   },
   {
     "id": "2604.26907",
@@ -3782,7 +4193,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2604.26907v1/2A.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2604.26907"
   },
   {
     "id": "2604.24561",
@@ -3811,7 +4225,8 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；预印本补充"
+    "reason": "自旋存储；AI for spintronics；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2604.21732",
@@ -3833,7 +4248,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2604.21732v2/figures/f1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2604.21732"
   },
   {
     "id": "2604.21488",
@@ -3859,7 +4277,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2604.21488v1/structure.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2604.21488"
   },
   {
     "id": "2604.19156",
@@ -3880,7 +4301,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；altermagnetism；预印本补充"
+    "reason": "Kagome 反铁磁；altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2604.19156v1/Figure1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2604.19156"
   },
   {
     "id": "2604.15935",
@@ -3919,7 +4343,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2604.15935v1/Figure1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2604.15935"
   },
   {
     "id": "2603.24177",
@@ -3940,7 +4367,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2603.24177v2/fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2603.24177"
   },
   {
     "id": "2602.19226",
@@ -3962,7 +4392,8 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2512.15829",
@@ -3985,7 +4416,8 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；预印本补充"
+    "reason": "自旋存储；AI for spintronics；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2512.03966",
@@ -4014,7 +4446,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2512.03966v3/Fig1CartoonAndCircuit.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2512.03966"
   },
   {
     "id": "2511.04068",
@@ -4039,7 +4474,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2511.04068v3/txl_fusion.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2511.04068"
   },
   {
     "id": "2510.23542",
@@ -4065,7 +4503,8 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；预印本补充"
+    "reason": "自旋存储；AI for spintronics；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2510.05616",
@@ -4091,7 +4530,8 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；预印本补充"
+    "reason": "自旋存储；AI for spintronics；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2606.03451",
@@ -4112,7 +4552,10 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；altermagnetism；预印本补充"
+    "reason": "Kagome 反铁磁；altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2606.03451v2/Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2606.03451"
   },
   {
     "id": "2605.27888",
@@ -4135,7 +4578,8 @@
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2611.11077",
@@ -4158,7 +4602,10 @@
     "relevance": 80,
     "score": 65.8,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2611.11077v1/Fig1.jpg",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.11077"
   },
   {
     "id": "10.1088/1674-1056/ae9a6d",
@@ -4176,7 +4623,9 @@
     "relevance": 80,
     "score": 65.6,
     "journal_priority": false,
-    "reason": "自旋存储；期刊论文"
+    "reason": "自旋存储；期刊论文",
+    "arxiv_id": "",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2611.08986",
@@ -4196,7 +4645,10 @@
     "relevance": 80,
     "score": 65.6,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2611.08986v1/fig_orders_ovito.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.08986"
   },
   {
     "id": "2611.08405",
@@ -4224,7 +4676,10 @@
     "relevance": 80,
     "score": 65.4,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；预印本补充"
+    "reason": "自旋存储；AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2611.08405v1/Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.08405"
   },
   {
     "id": "2611.08738",
@@ -4246,7 +4701,10 @@
     "relevance": 80,
     "score": 65.4,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2611.08738v2/figures/mtj_structure.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.08738"
   },
   {
     "id": "2611.08715",
@@ -4268,7 +4726,10 @@
     "relevance": 80,
     "score": 65.4,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2611.08715v2/figures/structure.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.08715"
   },
   {
     "id": "2611.04617",
@@ -4292,7 +4753,8 @@
     "relevance": 80,
     "score": 65.2,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2611.04333",
@@ -4322,7 +4784,10 @@
     "relevance": 80,
     "score": 65.2,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2611.04333v1/hubbard_stripes.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.04333"
   },
   {
     "id": "2611.02567",
@@ -4345,7 +4810,10 @@
     "relevance": 80,
     "score": 65.1,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2611.02567v1/model_structure.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.02567"
   },
   {
     "id": "2611.04050",
@@ -4365,7 +4833,10 @@
     "relevance": 80,
     "score": 65.1,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2611.04050v1/Fig1_140x60_v2.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.04050"
   },
   {
     "id": "2611.00655",
@@ -4386,7 +4857,10 @@
     "relevance": 80,
     "score": 64.9,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2611.00655v1/Fig1-v4.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.00655"
   },
   {
     "id": "2611.00299",
@@ -4411,7 +4885,10 @@
     "relevance": 80,
     "score": 64.8,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2611.00299v1/fig2.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.00299"
   },
   {
     "id": "2610.39841",
@@ -4441,7 +4918,8 @@
     "relevance": 80,
     "score": 64.7,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2610.39749",
@@ -4466,7 +4944,10 @@
     "relevance": 80,
     "score": 64.7,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2610.39749v1/Figure1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.39749"
   },
   {
     "id": "2610.39696",
@@ -4488,7 +4969,8 @@
     "relevance": 80,
     "score": 64.7,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2610.39604",
@@ -4512,7 +4994,10 @@
     "relevance": 80,
     "score": 64.7,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2610.39604v1/FIG2_BiAs_family.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.39604"
   },
   {
     "id": "2610.40850",
@@ -4542,7 +5027,10 @@
     "relevance": 80,
     "score": 64.7,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.40850v1/Fig1_growth_structure_.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.40850"
   },
   {
     "id": "2610.40729",
@@ -4563,7 +5051,8 @@
     "relevance": 80,
     "score": 64.7,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2610.38302",
@@ -4590,7 +5079,8 @@
     "relevance": 80,
     "score": 64.6,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2610.35660",
@@ -4610,7 +5100,8 @@
     "relevance": 80,
     "score": 64.3,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2610.34794",
@@ -4631,7 +5122,10 @@
     "relevance": 80,
     "score": 64.3,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.34794v1/model_transfer7.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.34794"
   },
   {
     "id": "2610.34624",
@@ -4666,7 +5160,10 @@
     "relevance": 80,
     "score": 64.2,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2610.34624v1/figures/Fig1_v1.jpg",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.34624"
   },
   {
     "id": "2610.34295",
@@ -4687,7 +5184,10 @@
     "relevance": 80,
     "score": 64.2,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2610.34295v1/Figure1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.34295"
   },
   {
     "id": "2610.30733",
@@ -4709,7 +5209,10 @@
     "relevance": 80,
     "score": 63.9,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.30733v1/model.jpg",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.30733"
   },
   {
     "id": "2610.29341",
@@ -4729,7 +5232,10 @@
     "relevance": 80,
     "score": 63.8,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.29341v1/fig-pa-nine-panel.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.29341"
   },
   {
     "id": "2610.28024",
@@ -4751,7 +5257,10 @@
     "relevance": 80,
     "score": 63.7,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.28024v1/fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.28024"
   },
   {
     "id": "2610.26293",
@@ -4772,7 +5281,10 @@
     "relevance": 80,
     "score": 63.6,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.26293v1/Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.26293"
   },
   {
     "id": "2610.26163",
@@ -4792,7 +5304,10 @@
     "relevance": 80,
     "score": 63.6,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.26163v1/Schematic.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.26163"
   },
   {
     "id": "2610.25186",
@@ -4815,7 +5330,10 @@
     "relevance": 80,
     "score": 63.4,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.25186v1/fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.25186"
   },
   {
     "id": "2610.23132",
@@ -4840,7 +5358,10 @@
     "relevance": 80,
     "score": 63.2,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2610.23132v1/CoPt_Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.23132"
   },
   {
     "id": "2610.21854",
@@ -4862,7 +5383,10 @@
     "relevance": 80,
     "score": 63.1,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2610.21854v1/fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.21854"
   },
   {
     "id": "2610.21580",
@@ -4886,7 +5410,10 @@
     "relevance": 80,
     "score": 63.1,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2610.21580v1/figure4_sac_spectrum_L12.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.21580"
   },
   {
     "id": "2610.20383",
@@ -4914,7 +5441,10 @@
     "relevance": 80,
     "score": 63.0,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.20383v1/figures/fig1_v3.jpg",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.20383"
   },
   {
     "id": "2610.18800",
@@ -4938,7 +5468,10 @@
     "relevance": 80,
     "score": 62.9,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.18800v2/Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.18800"
   },
   {
     "id": "2610.17535",
@@ -4965,7 +5498,10 @@
     "relevance": 80,
     "score": 62.9,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.17535v1/rotate.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.17535"
   },
   {
     "id": "2610.16676",
@@ -4986,7 +5522,10 @@
     "relevance": 80,
     "score": 62.8,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2610.16676v1/TriangularHexagon.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.16676"
   },
   {
     "id": "2610.15945",
@@ -5010,7 +5549,10 @@
     "relevance": 80,
     "score": 62.7,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.15945v1/fig3_nv_magnetometry.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.15945"
   },
   {
     "id": "2610.14668",
@@ -5034,7 +5576,10 @@
     "relevance": 80,
     "score": 62.6,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.14668v1/Fig.2.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.14668"
   },
   {
     "id": "2610.13499",
@@ -5055,7 +5600,8 @@
     "relevance": 80,
     "score": 62.4,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2610.12031",
@@ -5079,7 +5625,8 @@
     "relevance": 80,
     "score": 62.3,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2610.12018",
@@ -5104,7 +5651,8 @@
     "relevance": 80,
     "score": 62.3,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2610.11807",
@@ -5128,7 +5676,10 @@
     "relevance": 80,
     "score": 62.3,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.11807v2/figure1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.11807"
   },
   {
     "id": "2610.11550",
@@ -5169,7 +5720,8 @@
     "relevance": 80,
     "score": 62.3,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2610.09917",
@@ -5196,7 +5748,10 @@
     "relevance": 80,
     "score": 62.2,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2610.09917v1/Figures/Schematic_20260526.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.09917"
   },
   {
     "id": "2610.10412",
@@ -5218,7 +5773,10 @@
     "relevance": 80,
     "score": 62.2,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2610.10412v1/kv2se2o_modes_wide.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.10412"
   },
   {
     "id": "2610.07918",
@@ -5241,7 +5799,8 @@
     "relevance": 80,
     "score": 62.1,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2610.04248",
@@ -5263,7 +5822,10 @@
     "relevance": 80,
     "score": 61.8,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2610.04248v1/Figure1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2610.04248"
   },
   {
     "id": "2609.32121",
@@ -5292,7 +5854,10 @@
     "relevance": 80,
     "score": 61.0,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2609.32121v1/EZA_Figure_1_V3.jpg",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2609.32121"
   },
   {
     "id": "2609.31950",
@@ -5319,7 +5884,10 @@
     "relevance": 80,
     "score": 60.9,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2609.31950v1/fig1_v4.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2609.31950"
   },
   {
     "id": "2609.29857",
@@ -5348,7 +5916,8 @@
     "relevance": 80,
     "score": 60.8,
     "journal_priority": false,
-    "reason": "自旋存储；altermagnetism；预印本补充"
+    "reason": "自旋存储；altermagnetism；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2609.27212",
@@ -5371,7 +5940,8 @@
     "relevance": 80,
     "score": 60.7,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2609.25955",
@@ -5391,7 +5961,10 @@
     "relevance": 80,
     "score": 60.6,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2609.25955v1/x2.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2609.25955"
   },
   {
     "id": "2609.23129",
@@ -5413,7 +5986,10 @@
     "relevance": 80,
     "score": 60.2,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2609.23129v1/Fig1.jpg",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2609.23129"
   },
   {
     "id": "2609.21669",
@@ -5433,7 +6009,10 @@
     "relevance": 80,
     "score": 60.1,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2609.21669v1/Fig1_schematic.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2609.21669"
   },
   {
     "id": "2609.15619",
@@ -5457,7 +6036,10 @@
     "relevance": 80,
     "score": 59.7,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2609.15619v1/Figure1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2609.15619"
   },
   {
     "id": "2609.11015",
@@ -5492,7 +6074,10 @@
     "relevance": 80,
     "score": 59.2,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2609.11015v1/Figure1_V3.0R1-01.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2609.11015"
   },
   {
     "id": "2609.04600",
@@ -5514,7 +6099,8 @@
     "relevance": 80,
     "score": 58.6,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2609.00623",
@@ -5538,7 +6124,8 @@
     "relevance": 80,
     "score": 58.2,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2608.30953",
@@ -5561,7 +6148,8 @@
     "relevance": 80,
     "score": 58.1,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2608.30381",
@@ -5580,7 +6168,10 @@
     "relevance": 80,
     "score": 58.1,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2608.30381v1/Fig-CO.jpg",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2608.30381"
   },
   {
     "id": "2608.30170",
@@ -5613,7 +6204,8 @@
     "relevance": 80,
     "score": 58.1,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2608.28546",
@@ -5633,7 +6225,10 @@
     "relevance": 80,
     "score": 57.8,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2608.28546v1/schematic.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2608.28546"
   },
   {
     "id": "2608.26534",
@@ -5658,7 +6253,10 @@
     "relevance": 80,
     "score": 57.7,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2608.26534v1/Fig1_Layout1_RR_2ndProof.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2608.26534"
   },
   {
     "id": "2608.24147",
@@ -5679,7 +6277,10 @@
     "relevance": 80,
     "score": 57.4,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2608.24147v1/figure.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2608.24147"
   },
   {
     "id": "2608.23832",
@@ -5706,7 +6307,8 @@
     "relevance": 80,
     "score": 57.3,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2608.22006",
@@ -5727,7 +6329,10 @@
     "relevance": 80,
     "score": 57.1,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2608.22006v1/flow_architecture.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2608.22006"
   },
   {
     "id": "2608.20850",
@@ -5749,7 +6354,10 @@
     "relevance": 80,
     "score": 57.0,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2608.20850v2/Images/Section_I/s1-Figure1-VF.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2608.20850"
   },
   {
     "id": "2608.20021",
@@ -5787,7 +6395,8 @@
     "relevance": 80,
     "score": 56.9,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2608.18370",
@@ -5814,7 +6423,10 @@
     "relevance": 80,
     "score": 56.7,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2608.18370v2/Figure1AHE.jpg",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2608.18370"
   },
   {
     "id": "2608.18278",
@@ -5856,7 +6468,8 @@
     "relevance": 80,
     "score": 56.7,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2608.15253",
@@ -5876,7 +6489,10 @@
     "relevance": 80,
     "score": 56.3,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2608.15253v1/figures/Fig1_architecture.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2608.15253"
   },
   {
     "id": "2608.12152",
@@ -5897,7 +6513,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2608.12152v1/Fig_1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2608.12152"
   },
   {
     "id": "2609.13169",
@@ -5919,7 +6538,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image": "https://arxiv.org/html/2609.13169v1/x1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2609.13169"
   },
   {
     "id": "2607.18159",
@@ -5941,7 +6563,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2607.18159v1/Fig1_BigPicture.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2607.18159"
   },
   {
     "id": "2607.07341",
@@ -5967,7 +6592,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2607.07341v1/Figures/drawing_labels_dashed.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2607.07341"
   },
   {
     "id": "2606.26727",
@@ -5992,7 +6620,8 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2606.05472",
@@ -6012,7 +6641,8 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2606.03836",
@@ -6037,7 +6667,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2606.03836v5/Kagome-lattice-bw.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2606.03836"
   },
   {
     "id": "2606.02512",
@@ -6056,7 +6689,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2606.02512v1/ising_triangle.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2606.02512"
   },
   {
     "id": "2605.29521",
@@ -6077,7 +6713,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2605.29521v1/images/latticesV3.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2605.29521"
   },
   {
     "id": "2605.28540",
@@ -6101,7 +6740,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2605.28540v1/Fig.1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2605.28540"
   },
   {
     "id": "2605.26245",
@@ -6125,7 +6767,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2605.26245v2/Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2605.26245"
   },
   {
     "id": "2605.22625",
@@ -6148,7 +6793,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；预印本补充"
+    "reason": "自旋存储；AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2605.22625v2/Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2605.22625"
   },
   {
     "id": "2605.22180",
@@ -6173,7 +6821,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2605.22180v1/Figure1.jpg",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2605.22180"
   },
   {
     "id": "2605.17995",
@@ -6205,7 +6856,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2605.17995v1/Fig3new.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2605.17995"
   },
   {
     "id": "2605.17067",
@@ -6229,7 +6883,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2605.17067v1/Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2605.17067"
   },
   {
     "id": "2605.07685",
@@ -6254,7 +6911,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image": "https://arxiv.org/html/2605.07685v1/PRB-collinear.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2605.07685"
   },
   {
     "id": "2605.02065",
@@ -6274,7 +6934,8 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2604.27310",
@@ -6304,7 +6965,8 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
+    "reason": "Kagome 反铁磁；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2604.26979",
@@ -6326,7 +6988,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；预印本补充"
+    "reason": "自旋存储；AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2604.26979v2/crossbar.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2604.26979"
   },
   {
     "id": "2604.08143",
@@ -6358,7 +7023,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2604.08143v1/general_framework_4.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2604.08143"
   },
   {
     "id": "2604.07689",
@@ -6385,7 +7053,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "自旋存储；AI for spintronics；altermagnetism；预印本补充"
+    "reason": "自旋存储；AI for spintronics；altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2604.07689v1/fg1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2604.07689"
   },
   {
     "id": "2604.07423",
@@ -6409,7 +7080,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2604.07423v1/figures/Bar_Hinge_Model.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2604.07423"
   },
   {
     "id": "2604.03187",
@@ -6433,7 +7107,8 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2604.02959",
@@ -6455,7 +7130,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2604.02959v1/Figures/Fig_1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2604.02959"
   },
   {
     "id": "2603.03947",
@@ -6484,7 +7162,8 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2603.03545",
@@ -6507,7 +7186,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2603.03545v1/Figure1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2603.03545"
   },
   {
     "id": "2602.18213",
@@ -6529,7 +7211,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2602.18213v1/ML-potential.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2602.18213"
   },
   {
     "id": "2602.12242",
@@ -6557,7 +7242,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2602.12242v2/fig1-updated.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2602.12242"
   },
   {
     "id": "2602.07037",
@@ -6578,7 +7266,8 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2602.01874",
@@ -6603,7 +7292,8 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；altermagnetism；预印本补充"
+    "reason": "AI for spintronics；altermagnetism；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2601.18943",
@@ -6629,7 +7319,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2601.18943v1/Figure_1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2601.18943"
   },
   {
     "id": "2601.14476",
@@ -6649,7 +7342,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2601.14476v1/pSA.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2601.14476"
   },
   {
     "id": "2601.03996",
@@ -6672,7 +7368,8 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image_checked": "2026-11-11"
   },
   {
     "id": "2512.21077",
@@ -6696,7 +7393,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2512.21077v2/1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2512.21077"
   },
   {
     "id": "2510.22221",
@@ -6725,7 +7425,10 @@
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
-    "reason": "AI for spintronics；预印本补充"
+    "reason": "AI for spintronics；预印本补充",
+    "image": "https://arxiv.org/html/2510.22221v3/Figures/fig1_v6.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2510.22221"
   },
   {
     "id": "10.1038/s44306-026-00164-w",

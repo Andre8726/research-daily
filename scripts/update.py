@@ -18,6 +18,13 @@ QUERIES = {
     'AI for spintronics': '(all:spintronics OR all:spintronic OR all:skyrmion OR all:"magnetic tunnel junction") AND (all:"machine learning" OR all:"deep learning" OR all:"artificial intelligence" OR all:"neural network" OR all:"reinforcement learning")',
 }
 NS = {'a': 'http://www.w3.org/2005/Atom'}
+KEEP = ('image', 'image_label', 'image_source', 'image_checked', 'arxiv_id')  # cached by images.py
+
+def keep_cached(new, previous):
+    for key in KEEP:
+        if previous and key in previous and key not in new:
+            new[key] = previous[key]
+    return new
 
 def parse_feed(raw, tag):
     root = ET.fromstring(raw)
@@ -84,10 +91,10 @@ def main():
             previous = papers.get(p['id'])
             if previous:
                 p['tags'] = sorted(set(previous['tags'] + p['tags']))
-            papers[p['id']] = p
+            papers[p['id']] = keep_cached(p, previous)
         time.sleep(3)
     for p in journals():
-        papers[p['id']] = p
+        papers[p['id']] = keep_cached(p, papers.get(p['id']))
     result = select(papers.values())
     path.write_text(json.dumps(result, ensure_ascii=False, indent=2) + '\n')
     (ROOT / 'site/data/status.json').write_text(json.dumps({
