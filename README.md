@@ -1,117 +1,72 @@
 # 科研日报 · Research Daily
 
-聚焦 **Kagome 型反铁磁、自旋存储和 AI for spintronics** 的独立科研日报网站。每天自动汇集期刊论文与预印本，按相关性、期刊优先级和时效性筛选最多 5 篇近期精选，并通过 GitHub 登录与 Supabase 保存个人阅读记录，支持跨电脑、跨浏览器同步。
+科研日报每天从 Crossref 和 arXiv 汇集论文，按研究方向筛选近期精选。你可以搜索标题和摘要、查看原文与论文预览图，并把感兴趣的论文加入待读库。使用 GitHub 登录后，阅读状态和精选期刊偏好可在设备间同步。
 
-**访问网站：https://andre8726.github.io/research-daily/**
+**[打开科研日报](https://andre8726.github.io/research-daily/)**
 
-## 开始使用
+## 界面演示
 
-1. 打开 [科研日报](https://andre8726.github.io/research-daily/)，浏览近期精选，或按方向、关键词寻找论文。
-2. 如需跨设备保存记录，点击顶部 **GitHub 登录同步**，完成登录和授权。
-3. 新论文默认为 **未读**；主动选择 **待读** 后加入待读库，选择 **已读** 后加入已读库并退出精选。
-4. 若此前在当前浏览器中保存过记录，登录后点击 **合并本机记录**；已有云端记录优先。
-5. 在另一台电脑使用同一 GitHub 账号登录，即可加载个人阅读记录。以页面“阅读记录已同步”提示确认同步结果。
+**精选推荐** · 按阅读范围和研究方向筛选，浏览论文卡片与预览图。
 
-无需登录也能浏览论文和使用本机阅读状态。登录只用于个人阅读记录同步，不要求授予 GitHub 仓库读写权限。
+![科研日报首页，展示近期精选、论文搜索、研究方向筛选与论文卡片](docs/screenshots/featured.webp)
 
-## 关注的研究方向
+**待读库与侧栏** · 在待读库搜索论文、展开摘要，也可以在右侧栏标为已读或移出待读。
 
-- **Kagome 型反铁磁**：Kagome 反铁磁体系、Mn₃Sn / Mn₃Ge 等材料及相关磁性研究。
-- **自旋存储**：MRAM、磁隧道结、自旋轨道力矩、自旋转移力矩与磁化翻转。
-- **AI for spintronics**：机器学习、深度学习等方法与自旋电子学材料、器件及计算的交叉研究。
+![科研日报的待读库搜索结果，显示论文摘要、预览图和带有操作按钮的待读侧栏](docs/screenshots/reading-list.webp)
 
-网站独立运行，不与个人学术主页互相添加入口。
+截图来自线上站点。示例论文随每日数据更新而变化。
 
-## 如何挑选论文
+## 浏览与筛选
 
-先筛选相关性，再平衡期刊优先级和时效性，避免只因期刊名气而推荐不相关的论文。
+- **四个研究方向**涵盖交替磁性（`altermagnetism`）、Kagome 反铁磁、自旋存储和 AI for spintronics。
+- **三种阅读范围**包括「近期精选」「全部相关论文」和「原始候选」。近期精选从近 30 天且相关性至少为 80 的论文中选出最多 5 篇。全部相关论文保留达到相关性门槛的历史条目。原始候选也纳入未通过筛选的论文。
+- **关键词搜索**匹配标题、摘要和研究方向标签，可与方向筛选同时使用。论文卡片提供推荐依据、原文链接和可展开的来源摘要，标题支持上下标等科学符号格式。预印本有来源标记，摘要和图片取决于来源是否提供。
+- **精选期刊屏蔽**可在「精选期刊屏蔽设置」或论文卡片上操作。被屏蔽期刊的论文仍可在相关论文和原始候选中浏览。默认屏蔽 *Journal of Magnetism and Magnetic Materials*，可随时恢复该刊的精选推荐。
 
-| 因素 | 权重 | 说明 |
-| --- | --- | --- |
-| 相关性 | 70% | 标题与摘要中的研究对象、任务关键词需满足主题规则 |
-| 期刊优先级 | 20% | 可调整的编辑名单，对重点关注期刊给予排序加权 |
-| 时效性 | 10% | 优先较新的论文 |
+## 阅读库与同步
 
-首页默认展示**近 30 天、相关性分数至少 80 的最多 5 篇精选**；不足 5 篇不凑数。也可切换到全部相关论文或原始候选，按研究方向筛选、搜索标题与摘要。
-
-**分数是启发式规则结果，不是概率、人工评审结论或论文质量认证。** 期刊优先级尚未接入授权 JCR 影响因子或 SCI 收录核验数据，不能将其理解为按真实影响因子排序。关键词规则仍可能误收或漏收，需要结合原文判断。
-
-## 数据来源与更新
-
-- **Crossref**：检索近 90 天的期刊文章元数据。
-- **arXiv**：每个主题读取最新最多 60 条结果，作为预印本补充。
-- 按 arXiv ID 与规范化标题去重；相同标题优先保留期刊版本，保留采集历史。
-- 通过 GitHub Actions 在**北京时间每天 00:00（UTC 16:00）**自动采集、保存数据并部署。GitHub 调度可能延迟，不保证准点完成。
-- 支持在 Actions 中手动运行；不发送邮件、飞书或其他推送。
-- 任一主检索请求失败，本次工作流停止，已发布网站继续提供上次成功的数据。
-- 可用摘要保持来源原文；未提供摘要时显示缺失说明。arXiv 条目明确标记为预印本。
-
-元数据和检索覆盖范围受来源限制，不保证覆盖所有 SCI 期刊，也不提供付费全文下载或自动中文翻译。
-
-## 阅读库
-
-每篇论文右侧可以选择三种状态：
-
-| 状态 | 行为 |
+| 阅读状态 | 网站行为 |
 | --- | --- |
-| 未读 | 默认状态，不自动加入待读库 |
-| 待读 | 用户主动选择后进入待读库，并移到页面右侧的待读栏，不再出现在推荐列表中 |
-| 已读 | 进入已读库，并从精选推荐中排除 |
+| 未读 | 默认状态。论文按当前筛选条件显示。 |
+| 待读 | 进入「待读库」和右侧待读栏，并从推荐列表移出。可直接标为已读或移出待读。 |
+| 已读 | 进入「已读库」并退出近期精选，在其他阅读范围中仍按各自条件显示。 |
 
-状态可以随时修改。改回未读或待读后，符合条件的论文可重新参与精选推荐。
+未登录时，阅读状态和期刊偏好保存在当前浏览器。点击「GitHub 登录同步」，即可通过 Supabase 按账号保存和同步这些设置。登录后可点「合并本机记录」导入该浏览器的访客记录，已有云端记录优先。网络中断时，本机保留待同步的更改，恢复后可点击「重新同步」。
 
-登录 GitHub 后，阅读状态通过 Supabase 按账号保存，可在不同电脑和浏览器间同步。修改后立即尝试上传，切回页面及每分钟自动拉取；也可点击“重新同步”。网络异常时保留本机待同步记录，恢复后重试。同一论文多端冲突时，以最后成功上传的状态为准。
+## 数据来源与排序
 
-未登录时仅保存在当前浏览器。登录后点击“合并本机记录”可导入本机已有状态，已有云端记录优先。不同账号的本地缓存分开保存；退出后恢复访客记录。本地预览地址的记录不会自动迁移到线上。
+- **期刊论文**来自 Crossref 的近 90 天检索。**预印本**来自 arXiv，每个研究方向查询最多 60 条最新结果。站点累计保留去重后的收录条目，同标题时优先保留期刊版本。
+- 按标题和摘要中的主题规则给出相关性分数，再按**相关性 70%、期刊优先级 20%、时效性 10%**计算综合分。期刊优先级采用可调整的关注名单，综合分用于排列阅读顺序。
+- 期刊论文优先显示出版商提供的文章预览图，也可借助 Semantic Scholar 匹配 arXiv 版本。arXiv 预览取自 HTML 全文的首张插图。图片缺失时，仍可通过原文链接查看图表。
 
-登录依赖 Supabase 的 GitHub 提供商及站点回调白名单配置。网站仅包含 publishable key，数据库通过 RLS 限制用户只能访问自己的记录。客户端使用固定版本 supabase-js 2.118.0。
+## 本地预览
 
-## 论文图片
+用 Python 3 启动静态服务器，直接浏览仓库已收录的数据。
 
-卡片右侧展示论文预览图，覆盖所有相关论文（相关性 ≥ 80），按以下顺序获取：arXiv 预印本取 arXiv HTML 全文中的第一张插图；期刊论文先取出版商页面提供的文章预览图，没有时通过 Semantic Scholar 查找对应的 arXiv 版本并取其插图。部分出版商（如 Science、APS、ACS、Wiley）启用了人机验证，自动采集无法访问；这类论文若没有 arXiv 版本则不显示图片。已获取的图片会缓存，未获取到的 7 天后重试，并非每篇均有图片。无法获取或加载失败时显示“暂无论文图片”，可通过原文链接查看图表。图片来自对应来源，权利归原作者和出版商所有。
-
-## 项目结构
-
-```text
-.github/workflows/pages.yml  # 每日采集与 Pages 部署
-scripts/update.py           # Crossref / arXiv 检索与数据保存
-scripts/ranking.py          # 相关性规则、期刊偏好与排序
-scripts/images.py           # 出版商文章预览图元数据
-site/index.html             # 网站页面、筛选、搜索与阅读库
-site/cloud.js               # GitHub 登录、云端同步与本机记录合并
-site/vendor/                # 固定版本的 Supabase 客户端
-site/data/articles.json     # 论文元数据与推荐信息
-site/data/status.json       # 最近成功更新时间
+```bash
+python3 -m http.server 8765 --bind 127.0.0.1 --directory site
 ```
 
-## 本地运行
-
-需要 Python 3，采集脚本仅使用标准库：
+浏览器打开 `http://127.0.0.1:8765/`。如需手动更新本地论文数据和预览图，在仓库根目录运行以下命令。
 
 ```bash
 python3 scripts/update.py
 python3 scripts/images.py
-python3 -m http.server 8765 --bind 127.0.0.1 --directory site
 ```
 
-在浏览器打开 http://127.0.0.1:8765/。只预览已有数据时，仅需运行最后一条命令。
+## 部署与维护
 
-## 部署与调整
+在 GitHub 仓库的 **Settings → Pages** 中将 **Source** 设为 **GitHub Actions**。推送到 `main` 会部署当前 `site/`。工作流每天北京时间 00:00（UTC 16:00）计划采集并部署，也可在 **Actions → Deploy research daily** 手动运行采集。页面显示最近一次成功的数据更新时间。
 
-仓库 Settings → Pages → Source 选择 **GitHub Actions**。推送到 main 或手动运行 Deploy research daily 即可部署。
+| 文件 | 用途 |
+| --- | --- |
+| [`site/index.html`](site/index.html) | 页面布局、推荐列表、搜索和阅读库 |
+| [`site/cloud.js`](site/cloud.js) | GitHub 登录、阅读状态和期刊偏好同步 |
+| [`scripts/update.py`](scripts/update.py) | 研究方向、检索式与论文数据更新 |
+| [`scripts/ranking.py`](scripts/ranking.py) | 主题规则、期刊名单与综合排序 |
+| [`scripts/images.py`](scripts/images.py) | 查找并缓存论文预览图链接 |
+| [`.github/workflows/pages.yml`](.github/workflows/pages.yml) | 定时采集与 GitHub Pages 部署 |
 
-- 修改研究方向和查询表达式：scripts/update.py。
-- 修改关键词门槛、权重和重点期刊名单：scripts/ranking.py。
-- 修改更新时间或部署流程：.github/workflows/pages.yml。
-- 修改页面和阅读体验：site/index.html。
+如需为自己的部署启用同步，在 Supabase 启用 GitHub 登录，将 Supabase 的 Auth callback 填入 GitHub OAuth App，再将实际站点地址（含路径）加入 Supabase 的 Redirect URLs。在 `site/cloud.js` 更新项目地址、publishable key 和 `redirectTo`。 [Supabase GitHub 登录配置](https://supabase.com/docs/guides/auth/social-sign-in/auth-github) · [回调地址配置](https://supabase.com/docs/guides/auth/redirect-urls)
 
-公有仓库的定时工作流可能因长期无活动而被 GitHub 停用，请留意 Actions 状态。网站显示最近成功更新时间，可据此确认数据是否更新。
-
-## 登录与同步排查
-
-- GitHub 提示 `redirect_uri is not associated with this application`：检查 GitHub OAuth App 的 Redirect URI，应与 Supabase 控制台提供的 Auth callback 完全一致；修改后保存并重新从网站发起登录。
-- 登录后未返回网站：检查 Supabase 的 Site URL 与 Redirect URLs，需包含完整网站地址（含 `/research-daily/`）。
-- 记录未同步：确认两台设备使用同一 GitHub 账号；检查页面同步状态，联网后点击“重新同步”。未成功同步前避免清理浏览器存储。
-- 本地预览与线上地址是不同来源，访客记录不共享；GitHub OAuth 默认返回线上网站。
-
-维护或复用本项目时，需自行配置 Supabase 项目、阅读记录表的 RLS、GitHub OAuth App 和前端公开配置。不要把 Client Secret、数据库密码或 Supabase Secret Key 写入仓库。
+同步使用 `reading_states` 表，其中 `user_id` 是账号 UUID，`paper_id` 与 `status` 为文本。`(user_id, paper_id)` 组成主键，状态取值为 `unread`、`pending` 或 `read`。启用行级安全策略，允许已登录用户仅查询、插入和更新自己的记录。
