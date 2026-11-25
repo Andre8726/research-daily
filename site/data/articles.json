@@ -29,11 +29,11 @@
       "altermagnetism"
     ],
     "relevance": 95,
-    "score": 93.6,
+    "score": 93.5,
     "journal_priority": true,
     "reason": "altermagnetism；重点关注期刊",
     "arxiv_id": "",
-    "image_checked": "2026-11-18"
+    "image_checked": "2026-11-25"
   },
   {
     "id": "10.1126/science.aec2602",
@@ -53,7 +53,7 @@
     "image_source": "https://arxiv.org/html/2509.07087",
     "arxiv_id": "2509.07087",
     "relevance": 95,
-    "score": 93.6,
+    "score": 93.5,
     "journal_priority": true,
     "reason": "altermagnetism；重点关注期刊"
   },
@@ -74,7 +74,7 @@
     "image_label": "出版商文章预览",
     "image_source": "https://doi.org/10.1038/s41586-026-11172-5",
     "relevance": 95,
-    "score": 92.7,
+    "score": 92.6,
     "journal_priority": true,
     "reason": "自旋存储；重点关注期刊"
   },
@@ -91,10 +91,10 @@
       "自旋存储"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 92.5,
+    "score": 92.4,
     "journal_priority": true,
     "reason": "自旋存储；重点关注期刊"
   },
@@ -115,7 +115,7 @@
     "image_label": "出版商文章预览",
     "image_source": "https://doi.org/10.1038/s41565-026-02290-2",
     "relevance": 95,
-    "score": 91.8,
+    "score": 91.7,
     "journal_priority": true,
     "reason": "自旋存储；重点关注期刊"
   },
@@ -138,7 +138,7 @@
     "image_checked": "2026-11-11",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 91.8,
+    "score": 91.7,
     "journal_priority": true,
     "reason": "altermagnetism；重点关注期刊"
   },
@@ -155,10 +155,10 @@
       "Kagome 反铁磁"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 89.4,
+    "score": 89.3,
     "journal_priority": true,
     "reason": "Kagome 反铁磁；重点关注期刊"
   },
@@ -175,10 +175,10 @@
       "altermagnetism"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 88.7,
+    "score": 88.6,
     "journal_priority": true,
     "reason": "altermagnetism；重点关注期刊"
   },
@@ -199,7 +199,7 @@
     "image_label": "出版商文章预览",
     "image_source": "https://doi.org/10.1038/s41928-026-01699-w",
     "relevance": 95,
-    "score": 87.9,
+    "score": 87.8,
     "journal_priority": true,
     "reason": "自旋存储；重点关注期刊"
   },
@@ -216,10 +216,10 @@
       "自旋存储"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 86.6,
+    "score": 86.5,
     "journal_priority": true,
     "reason": "自旋存储；重点关注期刊"
   },
@@ -236,10 +236,10 @@
       "自旋存储"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 86.6,
+    "score": 86.5,
     "journal_priority": true,
     "reason": "自旋存储；重点关注期刊"
   },
@@ -256,7 +256,7 @@
       "altermagnetism"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
     "score": 86.5,
@@ -281,7 +281,7 @@
     "journal_priority": true,
     "reason": "Kagome 反铁磁；重点关注期刊",
     "arxiv_id": "2511.21361",
-    "image_checked": "2026-11-18"
+    "image_checked": "2026-11-25"
   },
   {
     "id": "10.1080/14686996.2026.2744549",
@@ -296,10 +296,10 @@
       "自旋存储"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 85.4,
+    "score": 85.3,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -321,7 +321,7 @@
     "image_source": "https://arxiv.org/html/2605.19659",
     "arxiv_id": "2605.19659",
     "relevance": 95,
-    "score": 85.1,
+    "score": 84.9,
     "journal_priority": false,
     "reason": "altermagnetism；期刊论文"
   },
@@ -343,7 +343,7 @@
     "image_source": "https://arxiv.org/html/2607.07220",
     "arxiv_id": "2607.07220",
     "relevance": 95,
-    "score": 84.2,
+    "score": 84.1,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -360,10 +360,10 @@
       "altermagnetism"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 83.8,
+    "score": 83.7,
     "journal_priority": false,
     "reason": "altermagnetism；期刊论文"
   },
@@ -380,10 +380,10 @@
       "altermagnetism"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 83.8,
+    "score": 83.7,
     "journal_priority": false,
     "reason": "altermagnetism；期刊论文"
   },
@@ -400,10 +400,10 @@
       "自旋存储"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 83.1,
+    "score": 82.9,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -421,10 +421,10 @@
       "altermagnetism"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 83.1,
+    "score": 82.9,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；altermagnetism；期刊论文"
   },
@@ -446,7 +446,7 @@
     "image_source": "https://arxiv.org/html/2610.02794",
     "arxiv_id": "2610.02794",
     "relevance": 95,
-    "score": 82.9,
+    "score": 82.8,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -463,10 +463,10 @@
       "自旋存储"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 82.9,
+    "score": 82.8,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -486,7 +486,7 @@
     "image_checked": "2026-11-21",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 82.9,
+    "score": 82.8,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -503,10 +503,10 @@
       "Kagome 反铁磁"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 82.9,
+    "score": 82.8,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -527,7 +527,7 @@
     "image_label": "出版商文章预览",
     "image_source": "https://doi.org/10.3389/fphy.2026.1992029",
     "relevance": 95,
-    "score": 81.7,
+    "score": 81.6,
     "journal_priority": false,
     "reason": "altermagnetism；期刊论文"
   },
@@ -545,11 +545,11 @@
     ],
     "authors": [],
     "relevance": 95,
-    "score": 81.7,
+    "score": 81.6,
     "journal_priority": false,
     "reason": "altermagnetism；期刊论文",
     "arxiv_id": "",
-    "image_checked": "2026-11-18"
+    "image_checked": "2026-11-25"
   },
   {
     "id": "10.1002/advs.78167",
@@ -569,7 +569,7 @@
     "image_source": "https://arxiv.org/html/2604.19661",
     "arxiv_id": "2604.19661",
     "relevance": 95,
-    "score": 81.6,
+    "score": 81.5,
     "journal_priority": false,
     "reason": "altermagnetism；期刊论文"
   },
@@ -586,10 +586,10 @@
       "altermagnetism"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 81.6,
+    "score": 81.5,
     "journal_priority": false,
     "reason": "altermagnetism；期刊论文"
   },
@@ -610,7 +610,7 @@
     "image_label": "出版商文章预览",
     "image_source": "https://doi.org/10.1038/s44306-026-00162-y",
     "relevance": 80,
-    "score": 81.3,
+    "score": 81.2,
     "journal_priority": true,
     "reason": "自旋存储；重点关注期刊"
   },
@@ -632,7 +632,7 @@
     "image_source": "https://arxiv.org/html/2610.29366",
     "arxiv_id": "2610.29366",
     "relevance": 95,
-    "score": 80.4,
+    "score": 80.3,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -649,10 +649,10 @@
       "Kagome 反铁磁"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 80.3,
+    "score": 80.2,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -669,10 +669,10 @@
       "Kagome 反铁磁"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 80.3,
+    "score": 80.2,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -689,10 +689,10 @@
       "自旋存储"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "2610.09950",
     "relevance": 95,
-    "score": 80.1,
+    "score": 79.9,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -709,10 +709,10 @@
       "altermagnetism"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 79.6,
+    "score": 79.5,
     "journal_priority": false,
     "reason": "altermagnetism；期刊论文"
   },
@@ -729,10 +729,10 @@
       "Kagome 反铁磁"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 79.5,
+    "score": 79.4,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -749,10 +749,10 @@
       "自旋存储"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 79.5,
+    "score": 79.4,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -770,10 +770,10 @@
       "AI for spintronics"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 79.4,
+    "score": 79.3,
     "journal_priority": false,
     "reason": "自旋存储；AI for spintronics；期刊论文"
   },
@@ -790,10 +790,10 @@
       "Kagome 反铁磁"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 79.2,
+    "score": 79.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -810,10 +810,10 @@
       "Kagome 反铁磁"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 78.7,
+    "score": 78.6,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -835,7 +835,7 @@
     "image_source": "https://arxiv.org/html/2605.10602",
     "arxiv_id": "2605.10602",
     "relevance": 95,
-    "score": 78.7,
+    "score": 78.6,
     "journal_priority": false,
     "reason": "altermagnetism；期刊论文"
   },
@@ -857,7 +857,7 @@
     "image_source": "https://arxiv.org/html/2603.26079",
     "arxiv_id": "2603.26079",
     "relevance": 95,
-    "score": 78.6,
+    "score": 78.5,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -874,10 +874,10 @@
       "自旋存储"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 78.6,
+    "score": 78.5,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -894,10 +894,10 @@
       "自旋存储"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "2609.04594",
     "relevance": 95,
-    "score": 78.5,
+    "score": 78.4,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -914,10 +914,10 @@
       "Kagome 反铁磁"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 78.4,
+    "score": 78.3,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -935,10 +935,10 @@
       "自旋存储"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 78.4,
+    "score": 78.3,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；自旋存储；期刊论文"
   },
@@ -955,10 +955,10 @@
       "Kagome 反铁磁"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 77.8,
+    "score": 77.7,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -975,10 +975,10 @@
       "altermagnetism"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 80,
-    "score": 77.7,
+    "score": 77.6,
     "journal_priority": true,
     "reason": "altermagnetism；重点关注期刊"
   },
@@ -995,10 +995,10 @@
       "Kagome 反铁磁"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 77.4,
+    "score": 77.3,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -1020,7 +1020,7 @@
     "image_source": "https://arxiv.org/html/2510.09170",
     "arxiv_id": "2510.09170",
     "relevance": 95,
-    "score": 77.3,
+    "score": 77.2,
     "journal_priority": false,
     "reason": "altermagnetism；期刊论文"
   },
@@ -1038,10 +1038,10 @@
       "altermagnetism"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 77.2,
+    "score": 77.1,
     "journal_priority": false,
     "reason": "自旋存储；altermagnetism；期刊论文"
   },
@@ -1063,7 +1063,7 @@
     "image_source": "https://arxiv.org/html/2604.18902",
     "arxiv_id": "2604.18902",
     "relevance": 95,
-    "score": 76.5,
+    "score": 76.4,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；期刊论文"
   },
@@ -1080,12 +1080,84 @@
       "自旋存储"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 80,
-    "score": 76.4,
+    "score": 76.3,
     "journal_priority": true,
     "reason": "自旋存储；重点关注期刊"
+  },
+  {
+    "id": "2611.30865",
+    "title": "Altermagnetism of MnSiN2 and MnGeN2 in a wurtzite-based crystal structure",
+    "summary": "Based on symmetry analysis, the Pna2_1 wurtzite-based crystal structure with Mn as a magnetic group-II element, MnSiN2 and MnGeN2 belong to the class of altermagnets because spin-up and spin-down Mn in the unit cell are related by rotation or mirror plane type operations rather than inversion or translation. Spin polarized density functional theory calculations and quasiparticle self-consistent (QS) GW calculations support the symmetry analysis and identify the lowest-energy spin configuration as Pna'2_1' in agreement with neutron diffraction data. The altermagnetic band splittings allowed for the three different antiferromagnetic ordering patterns are reported and symmetry analyzed. Additionally, spin wave dispersions, chiral magnon spltting, and Neel temperature estimates from the mean-field and random-phase approximations are provided, as well as calculations of the optical dielectric function using the Bethe-Salpeter Equation method. MnSiN2 exhibits both Wannier-type excitons with N-p to Si-s transition character and charge-transfer Frenkel-type excitons with hole on N-p and electron on Mn-d orbital character.",
+    "date": "2026-11-23",
+    "updated": "2026-11-23T15:39:17Z",
+    "url": "https://arxiv.org/abs/2611.30865v1",
+    "tags": [
+      "altermagnetism"
+    ],
+    "source": "arXiv · 预印本",
+    "authors": [
+      "Ilteris K. Turan",
+      "Jonathan Agrinya",
+      "Walter R. L. Lambrecht"
+    ],
+    "relevance": 95,
+    "score": 76.3,
+    "journal_priority": false,
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2611.30865v1/Figs/crystal_structure.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.30865"
+  },
+  {
+    "id": "2611.30649",
+    "title": "Coupled Altermagnetic and Valley Physics in Monolayer VBiSe$_3$",
+    "summary": "The interplay of compensated magnetism, spin--orbit coupling (SOC), and valley degrees of freedom provides a promising route toward spin--valley control without conventional ferromagnetism. Here, using first-principles calculations combined with Wannier-based analysis, we reveal coupled altermagnetic and valley physics in monolayer VBiSe$_3$. In the absence of SOC, the compensated Néel antiferromagnetic state, whose opposite-spin V sublattices are related only by mirror operations, exhibits momentum-dependent spin splitting with a characteristic $i$-wave altermagnetic texture. Upon inclusion of SOC, the conduction-band states develop anisotropic Rashba-like spin splitting together with a sizable $K/K'$ valley splitting of about $112.2$~meV. Orbital analysis and an effective SOC Hamiltonian identify the hybridization between SOC-active Se-$p_{x,y}$ states and predominantly V-$d_{z^2}$ conduction-band states as an important microscopic origin of the valley splitting. The two valleys carry Berry curvature of the same sign but different magnitude, unlike the opposite-sign pattern of conventional valley Hall systems, so the large valley splitting, rather than a valley Hall effect, offers a possible route to valley-selective carrier occupation by gating. Moreover, a modest $-1\\%$ biaxial compressive strain drives the system into a quasi-half-valley-metallic state with valley-polarized electrons and non-valley-polarized holes. These results establish monolayer VBiSe$_3$ as a promising platform for coupled altermagnetic, spin--orbit, and valley phenomena with strain-tunable electronic states.",
+    "date": "2026-11-23",
+    "updated": "2026-11-23T13:10:42Z",
+    "url": "https://arxiv.org/abs/2611.30649v1",
+    "tags": [
+      "altermagnetism"
+    ],
+    "source": "arXiv · 预印本",
+    "authors": [
+      "Divyanshi Tyagi",
+      "Saswata Bhattacharya"
+    ],
+    "relevance": 95,
+    "score": 76.3,
+    "journal_priority": false,
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2611.30649v1/main_pics/Picture1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.30649"
+  },
+  {
+    "id": "2611.29976",
+    "title": "Pseudo-Altermagnetism in Non-Hermitian Systems",
+    "summary": "Altermagnetism has attracted growing attention, and its analogs have been actively explored across classical platforms. Here, we introduce pseudo-altermagnetism in non-Hermitian systems, where balanced gain and loss plays the role of the altermagnetic spin, and the opposite gain and loss sublattices are related by an antiunitary symmetry $O$ with $O\\bm k\\neq \\bm k$ for generic momentum $\\bm k$. Using a two-dimensional non-Hermitian system with $O=C_{4z}\\mathcal{T}$ symmetry as a representative example, we find that pseudo-altermagnetism not only leads to a momentum-dependent gain and loss distribution analogous to the momentum-dependent spin splitting of altermagnets, but also exhibits intrinsic non-Hermitian properties. The bands of $C_{4z}\\mathcal{T}$-invariant non-Hermitian systems are either isolated or paired by $C_{4z}\\mathcal{T}$, and both cases are guaranteed to host movable but unremovable nodal structures, characterized by the zeros of two distinct quantities. An isolated band exhibits two movable but unremovable Hermitian spectral lines, whose generic points are not invariant under $C_{4z}\\mathcal{T}$, in sharp contrast to the conventional Hermitian spectra enforced only at the fixed points of an antiunitary symmetry. The paired bands, in turn, feature a movable but unremovable nodal network formed by the union of real-part and imaginary-part degeneracy lines, whose intersections are generally exceptional points. We further demonstrate these findings in a non-Hermitian photonic crystal. Our results establish a symmetry-based bridge between non-Hermitian physics and altermagnetism, and provide novel mechanisms of Hermitian spectra beyond $\\mathcal{PT}$ symmetry.",
+    "date": "2026-11-23",
+    "updated": "2026-11-23T03:41:13Z",
+    "url": "https://arxiv.org/abs/2611.29976v1",
+    "tags": [
+      "altermagnetism"
+    ],
+    "source": "arXiv · 预印本",
+    "authors": [
+      "Chang-Yin Ji",
+      "Runze Li",
+      "Zhi-Ming Yu",
+      "Yugui Yao"
+    ],
+    "relevance": 95,
+    "score": 76.3,
+    "journal_priority": false,
+    "reason": "altermagnetism；预印本补充",
+    "image": "https://arxiv.org/html/2611.29976v1/Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.29976"
   },
   {
     "id": "10.1016/j.mattod.2026.103407",
@@ -1100,10 +1172,10 @@
       "自旋存储"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 76.2,
+    "score": 76.1,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -1126,7 +1198,7 @@
     "image_source": "https://arxiv.org/html/2505.00418",
     "arxiv_id": "2505.00418",
     "relevance": 95,
-    "score": 76.2,
+    "score": 76.1,
     "journal_priority": false,
     "reason": "自旋存储；AI for spintronics；期刊论文"
   },
@@ -1143,10 +1215,10 @@
       "AI for spintronics"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 76.2,
+    "score": 76.1,
     "journal_priority": false,
     "reason": "AI for spintronics；期刊论文"
   },
@@ -1168,7 +1240,7 @@
     "image_source": "https://arxiv.org/html/2511.01094",
     "arxiv_id": "2511.01094",
     "relevance": 95,
-    "score": 76.2,
+    "score": 76.1,
     "journal_priority": false,
     "reason": "altermagnetism；期刊论文"
   },
@@ -1196,11 +1268,11 @@
       "Jing Lu",
       "Yee Sin Ang"
     ],
+    "image_checked": "2026-11-24",
     "relevance": 95,
-    "score": 76.2,
+    "score": 76.1,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充",
-    "image_checked": "2026-11-24"
+    "reason": "altermagnetism；预印本补充"
   },
   {
     "id": "10.1002/smtd.70991",
@@ -1215,10 +1287,10 @@
       "altermagnetism"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
-    "score": 76.1,
+    "score": 75.9,
     "journal_priority": false,
     "reason": "altermagnetism；期刊论文"
   },
@@ -1245,13 +1317,13 @@
       "Allen G. Oliver",
       "Nirmal J. Ghimire"
     ],
-    "relevance": 95,
-    "score": 76.1,
-    "journal_priority": false,
-    "reason": "altermagnetism；预印本补充",
     "image": "https://arxiv.org/html/2611.27072v1/fig_acrystal_and_structure.png",
     "image_label": "arXiv 论文插图",
-    "image_source": "https://arxiv.org/html/2611.27072"
+    "image_source": "https://arxiv.org/html/2611.27072",
+    "relevance": 95,
+    "score": 75.9,
+    "journal_priority": false,
+    "reason": "altermagnetism；预印本补充"
   },
   {
     "id": "2611.25755",
@@ -1275,7 +1347,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.25755",
     "relevance": 95,
-    "score": 75.9,
+    "score": 75.8,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -1295,13 +1367,13 @@
       "Manoranjan Kumar",
       "Arun Paramekanti"
     ],
-    "relevance": 95,
-    "score": 75.9,
-    "journal_priority": false,
-    "reason": "altermagnetism；预印本补充",
     "image": "https://arxiv.org/html/2611.26725v1/MergedPlots/Fig1.png",
     "image_label": "arXiv 论文插图",
-    "image_source": "https://arxiv.org/html/2611.26725"
+    "image_source": "https://arxiv.org/html/2611.26725",
+    "relevance": 95,
+    "score": 75.8,
+    "journal_priority": false,
+    "reason": "altermagnetism；预印本补充"
   },
   {
     "id": "2611.25284",
@@ -1325,7 +1397,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.25284",
     "relevance": 95,
-    "score": 75.8,
+    "score": 75.7,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -1349,55 +1421,9 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.22750",
     "relevance": 95,
-    "score": 75.7,
-    "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
-  },
-  {
-    "id": "2611.20952",
-    "title": "Altermagnetism in moiré quasicrystals",
-    "summary": "Altermagnetism is a collinear compensated magnetic phase with zero net magnetization and momentum-dependent spin polarization. Quasicrystalline altermagnetism extends altermagnetism beyond periodic crystals, with noncrystallographic symmetries allowing high-order spin polarization patterns. Here, we propose a symmetry-based approach to realizing quasicrystalline altermagnetism by twisting collinear magnetic layers. Specifically, we demonstrate that the $30^{\\circ}$-twisted honeycomb lattice bilayers form the dodecagonal quasicrystals supporting an $i$-wave altermagnetic phase. We further find that $45^{\\circ}$-twisted bilayers preserving fourfold rotational symmetry support a mirror-driven $l$-wave phase with eight nodal lines. We characterize these altermagnetic patterns through plane-wave-projected spin-resolved spectral functions and spin-resolved conductances. Our work provides a systematic route to high-angular-order quasicrystalline altermagnetism through twist engineering.",
-    "date": "2026-11-16",
-    "updated": "2026-11-16T12:00:00Z",
-    "url": "https://arxiv.org/abs/2611.20952v1",
-    "tags": [
-      "altermagnetism"
-    ],
-    "source": "arXiv · 预印本",
-    "authors": [
-      "Zi-Ming Wang",
-      "Rui Chen",
-      "Dong-Hui Xu"
-    ],
-    "image": "https://arxiv.org/html/2611.20952v1/Fig1.PNG",
-    "image_label": "arXiv 论文插图",
-    "image_source": "https://arxiv.org/html/2611.20952",
-    "relevance": 95,
     "score": 75.6,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
-  },
-  {
-    "id": "2611.20632",
-    "title": "Molecular-orbital origin of weak orbital ferromagnetism and anomalous Hall effect in a trimerized kagome antiferromagnet",
-    "summary": "We reveal the molecular-orbital origin of weak orbital ferromagnetism and the anomalous Hall effect (AHE) induced by noncollinear spin order in a trimerized kagome lattice. By transforming to the molecular-orbital basis of an isolated trimer in the double-exchange regime, we derive an effective low-energy model for the states with opposite orbital angular momenta $m= \\pm 1$ subject to an effective Zeeman field arising from spin chirality and spin-orbit (SO) coupling. In this representation, the kagome-lattice problem maps onto a triangular lattice of trimers, while the nearest- and next-nearest-neighbor hoppings of the original lattice generate complex hopping amplitudes between neighboring trimers. This formulation provides a transparent picture of how spin chirality and SO coupling can be recast as an effective Zeeman field that lifts the degeneracy of the $m= \\pm 1$ states, breaks time-reversal symmetry, and thereby gives rise to weak orbital ferromagnetism and the AHE. The resulting phase diagram includes metallic phases, topologically trivial insulating phases, as well as several topological phases characterized by nonzero Chern numbers and the quantum anomalous Hall effect. We further identify an alternative route to time-reversal-symmetry breaking and orbital magnetization, driven by an emergent gauge field arising solely from complex inter-trimer hoppings and requiring no effective Zeeman field.",
-    "date": "2026-11-16",
-    "updated": "2026-11-16T06:53:26Z",
-    "url": "https://arxiv.org/abs/2611.20632v1",
-    "tags": [
-      "Kagome 反铁磁"
-    ],
-    "source": "arXiv · 预印本",
-    "authors": [
-      "I. V. Solovyev"
-    ],
-    "image": "https://arxiv.org/html/2611.20632v1/figure1.png",
-    "image_label": "arXiv 论文插图",
-    "image_source": "https://arxiv.org/html/2611.20632",
-    "relevance": 95,
-    "score": 75.6,
-    "journal_priority": false,
-    "reason": "Kagome 反铁磁；预印本补充"
   },
   {
     "id": "10.1103/gkrn-pbjb",
@@ -1434,7 +1460,7 @@
       "Kagome 反铁磁"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
     "score": 75.5,
@@ -1455,7 +1481,7 @@
       "altermagnetism"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 95,
     "score": 75.5,
@@ -1481,7 +1507,7 @@
     "journal_priority": false,
     "reason": "自旋存储；altermagnetism；期刊论文",
     "arxiv_id": "",
-    "image_checked": "2026-11-18"
+    "image_checked": "2026-11-25"
   },
   {
     "id": "10.1063/5.0326907",
@@ -1501,7 +1527,7 @@
     "journal_priority": false,
     "reason": "自旋存储；期刊论文",
     "arxiv_id": "",
-    "image_checked": "2026-11-18"
+    "image_checked": "2026-11-25"
   },
   {
     "id": "10.1063/5.0348028",
@@ -1521,7 +1547,7 @@
     "journal_priority": false,
     "reason": "自旋存储；期刊论文",
     "arxiv_id": "",
-    "image_checked": "2026-11-18"
+    "image_checked": "2026-11-25"
   },
   {
     "id": "10.1103/xyzw-jtn1",
@@ -1546,6 +1572,52 @@
     "image_source": "https://arxiv.org/html/2602.12998"
   },
   {
+    "id": "2611.20952",
+    "title": "Altermagnetism in moiré quasicrystals",
+    "summary": "Altermagnetism is a collinear compensated magnetic phase with zero net magnetization and momentum-dependent spin polarization. Quasicrystalline altermagnetism extends altermagnetism beyond periodic crystals, with noncrystallographic symmetries allowing high-order spin polarization patterns. Here, we propose a symmetry-based approach to realizing quasicrystalline altermagnetism by twisting collinear magnetic layers. Specifically, we demonstrate that the $30^{\\circ}$-twisted honeycomb lattice bilayers form the dodecagonal quasicrystals supporting an $i$-wave altermagnetic phase. We further find that $45^{\\circ}$-twisted bilayers preserving fourfold rotational symmetry support a mirror-driven $l$-wave phase with eight nodal lines. We characterize these altermagnetic patterns through plane-wave-projected spin-resolved spectral functions and spin-resolved conductances. Our work provides a systematic route to high-angular-order quasicrystalline altermagnetism through twist engineering.",
+    "date": "2026-11-16",
+    "updated": "2026-11-16T12:00:00Z",
+    "url": "https://arxiv.org/abs/2611.20952v1",
+    "tags": [
+      "altermagnetism"
+    ],
+    "source": "arXiv · 预印本",
+    "authors": [
+      "Zi-Ming Wang",
+      "Rui Chen",
+      "Dong-Hui Xu"
+    ],
+    "image": "https://arxiv.org/html/2611.20952v1/Fig1.PNG",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.20952",
+    "relevance": 95,
+    "score": 75.5,
+    "journal_priority": false,
+    "reason": "altermagnetism；预印本补充"
+  },
+  {
+    "id": "2611.20632",
+    "title": "Molecular-orbital origin of weak orbital ferromagnetism and anomalous Hall effect in a trimerized kagome antiferromagnet",
+    "summary": "We reveal the molecular-orbital origin of weak orbital ferromagnetism and the anomalous Hall effect (AHE) induced by noncollinear spin order in a trimerized kagome lattice. By transforming to the molecular-orbital basis of an isolated trimer in the double-exchange regime, we derive an effective low-energy model for the states with opposite orbital angular momenta $m= \\pm 1$ subject to an effective Zeeman field arising from spin chirality and spin-orbit (SO) coupling. In this representation, the kagome-lattice problem maps onto a triangular lattice of trimers, while the nearest- and next-nearest-neighbor hoppings of the original lattice generate complex hopping amplitudes between neighboring trimers. This formulation provides a transparent picture of how spin chirality and SO coupling can be recast as an effective Zeeman field that lifts the degeneracy of the $m= \\pm 1$ states, breaks time-reversal symmetry, and thereby gives rise to weak orbital ferromagnetism and the AHE. The resulting phase diagram includes metallic phases, topologically trivial insulating phases, as well as several topological phases characterized by nonzero Chern numbers and the quantum anomalous Hall effect. We further identify an alternative route to time-reversal-symmetry breaking and orbital magnetization, driven by an emergent gauge field arising solely from complex inter-trimer hoppings and requiring no effective Zeeman field.",
+    "date": "2026-11-16",
+    "updated": "2026-11-16T06:53:26Z",
+    "url": "https://arxiv.org/abs/2611.20632v1",
+    "tags": [
+      "Kagome 反铁磁"
+    ],
+    "source": "arXiv · 预印本",
+    "authors": [
+      "I. V. Solovyev"
+    ],
+    "image": "https://arxiv.org/html/2611.20632v1/figure1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.20632",
+    "relevance": 95,
+    "score": 75.5,
+    "journal_priority": false,
+    "reason": "Kagome 反铁磁；预印本补充"
+  },
+  {
     "id": "2611.20235",
     "title": "Optical spin Edelstein response of d-wave altermagnets",
     "summary": "The momentum-dependent spin splitting and compensated magnetic order in altermagnets offer opportunities for electrical control of spin polarization. We explore the spin Edelstein effect in the frequency domain of a two-dimensional d-wave altermagnet with Rashba spin-orbit coupling. We calculate the spin-velocity susceptibility response function beyond the intraband response regime and find that the interband longitudinal and transverse Edelstein responses are governed by the Zeeman quantum metric and Zeeman Berry curvature, respectively. The density of states presents a logarithmic van Hove singularity at exactly the negative value of the energy below which four disconnected Fermi contours emerge. This defines three distinctive regions for the position of the Fermi level, through which the Edelstein susceptibility tensor displays characteristic spectral features, reflecting the topological change of the Fermi surface. The resulting spin magnetization shows a strong dependence on the driving frequency and on the orientation of the in-plane external electric field. Our results highlight new possibilities for electrical and optical control of the spin Edelstein effect in altermagnets that could find spintronic applications.",
@@ -1565,7 +1637,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.20235",
     "relevance": 95,
-    "score": 75.5,
+    "score": 75.4,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -1587,7 +1659,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.19574",
     "relevance": 95,
-    "score": 75.4,
+    "score": 75.3,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -1614,7 +1686,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.18182",
     "relevance": 95,
-    "score": 75.3,
+    "score": 75.2,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -1641,7 +1713,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.18840",
     "relevance": 95,
-    "score": 75.3,
+    "score": 75.2,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -1663,7 +1735,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.15438",
     "relevance": 95,
-    "score": 75.1,
+    "score": 74.9,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -1686,7 +1758,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.15152",
     "relevance": 95,
-    "score": 75.1,
+    "score": 74.9,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -1710,7 +1782,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.10706",
     "relevance": 95,
-    "score": 74.6,
+    "score": 74.5,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -1737,9 +1809,9 @@
       "Zhensheng Tao",
       "Yizheng Wu"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 74.5,
+    "score": 74.4,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -1760,9 +1832,9 @@
       "Wei-Cheng Liao",
       "Jing Shi"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 74.5,
+    "score": 74.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -1785,7 +1857,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.04937",
     "relevance": 95,
-    "score": 74.2,
+    "score": 74.1,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -1808,7 +1880,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.04214",
     "relevance": 95,
-    "score": 74.2,
+    "score": 74.1,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -1833,7 +1905,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.05174",
     "relevance": 95,
-    "score": 74.2,
+    "score": 74.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -1862,7 +1934,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.04675",
     "relevance": 95,
-    "score": 74.2,
+    "score": 74.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -1879,10 +1951,10 @@
       "自旋存储"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 80,
-    "score": 74.1,
+    "score": 74.0,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -1905,7 +1977,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.03492",
     "relevance": 95,
-    "score": 74.1,
+    "score": 73.9,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -1929,7 +2001,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.03180",
     "relevance": 95,
-    "score": 74.1,
+    "score": 73.9,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -1950,9 +2022,9 @@
       "Yizheng Wu",
       "Zhe Yuan"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 73.9,
+    "score": 73.8,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -1980,7 +2052,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.01848",
     "relevance": 95,
-    "score": 73.9,
+    "score": 73.8,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2010,7 +2082,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.00622",
     "relevance": 95,
-    "score": 73.8,
+    "score": 73.7,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2033,7 +2105,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.41161",
     "relevance": 95,
-    "score": 73.7,
+    "score": 73.6,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -2068,7 +2140,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.41797",
     "relevance": 95,
-    "score": 73.7,
+    "score": 73.6,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2091,7 +2163,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.41589",
     "relevance": 95,
-    "score": 73.7,
+    "score": 73.6,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2110,9 +2182,9 @@
       "Yunxi Jiang",
       "Hao Yu"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 73.7,
+    "score": 73.6,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2135,7 +2207,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.41414",
     "relevance": 95,
-    "score": 73.7,
+    "score": 73.6,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2160,29 +2232,9 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.41274",
     "relevance": 95,
-    "score": 73.7,
-    "journal_priority": false,
-    "reason": "altermagnetism；预印本补充"
-  },
-  {
-    "id": "10.1088/1361-6463/aec0a8",
-    "doi": "10.1088/1361-6463/aec0a8",
-    "title": "Perpendicular magnetic tunnel junctions in the broader spintronics landscape: a comprehensive review of spin transfer torque, voltage-controlled magnetic anisotropy, spin-orbit torque, and optical control",
-    "summary": "Abstract \n                   Magnetic tunnel junctions (MTJs) have emerged as a cornerstone of next-generation spintronic memory and computing, yet no single control paradigm offers a universal solution across all performance dimensions. This review provides a comprehensive survey of MTJ switching mechanisms, from established perpendicular spin-transfer torque (p-STT) to voltage-controlled magnetic anisotropy (VCMA), spin-orbit torque (SOT), all-optical control, and hybrid combinations thereof.We begin with p-STT MTJs, examining their materials physics, simulation frameworks, and integration maturity, while critically addressing persistent limitations including write-current endurance, read disturb, stochastic switching, and scalability constraints below 20nm. We then turn to VCMA-based devices, where interfacial engineering in CoFeB/MgO heterostructures enables sub-volt, ultralow-power operation. SOT architectures follow, leveraging the spin Hall effect in heavy-metal/ferromagnet bilayers to achieve sub-nanosecond, three-terminal switching . We subsequently survey emerging all-optical control strategies, including the inverse Faraday effect and plasmon-enhanced photothermal switching in ferrimagnetic heterostructures, unlocking picosecond and potentially terahertz-rate operation. Finally, hybrid schemes including STT+VCMA, STT+SOT, voltage gated SOT, and optically-assisted electrical switching are examined, revealing synergistic pathways to overcome the individual bottlenecks of each mechanism. For each paradigm, key physical effects, material strategies, performance metrics, applications, and remaining challenges are discussed.",
-    "date": "2026-11-11",
-    "url": "https://doi.org/10.1088/1361-6463/aec0a8",
-    "journal": "Journal of Physics D: Applied Physics",
-    "source": "Journal of Physics D: Applied Physics",
-    "tags": [
-      "自旋存储"
-    ],
-    "authors": [],
-    "image_checked": "2026-11-21",
-    "arxiv_id": "",
-    "relevance": 80,
     "score": 73.6,
     "journal_priority": false,
-    "reason": "自旋存储；期刊论文"
+    "reason": "altermagnetism；预印本补充"
   },
   {
     "id": "2610.40215",
@@ -2204,7 +2256,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.40215",
     "relevance": 95,
-    "score": 73.6,
+    "score": 73.5,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -2228,7 +2280,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.39703",
     "relevance": 95,
-    "score": 73.6,
+    "score": 73.5,
     "journal_priority": false,
     "reason": "自旋存储；AI for spintronics；预印本补充"
   },
@@ -2251,7 +2303,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.39625",
     "relevance": 95,
-    "score": 73.6,
+    "score": 73.5,
     "journal_priority": false,
     "reason": "自旋存储；AI for spintronics；预印本补充"
   },
@@ -2280,7 +2332,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.40870",
     "relevance": 95,
-    "score": 73.6,
+    "score": 73.5,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2307,7 +2359,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.40410",
     "relevance": 95,
-    "score": 73.6,
+    "score": 73.5,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2325,11 +2377,31 @@
     "authors": [
       "Koki Mizuno"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 73.6,
+    "score": 73.5,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
+  },
+  {
+    "id": "10.1088/1361-6463/aec0a8",
+    "doi": "10.1088/1361-6463/aec0a8",
+    "title": "Perpendicular magnetic tunnel junctions in the broader spintronics landscape: a comprehensive review of spin transfer torque, voltage-controlled magnetic anisotropy, spin-orbit torque, and optical control",
+    "summary": "Abstract \n                   Magnetic tunnel junctions (MTJs) have emerged as a cornerstone of next-generation spintronic memory and computing, yet no single control paradigm offers a universal solution across all performance dimensions. This review provides a comprehensive survey of MTJ switching mechanisms, from established perpendicular spin-transfer torque (p-STT) to voltage-controlled magnetic anisotropy (VCMA), spin-orbit torque (SOT), all-optical control, and hybrid combinations thereof.We begin with p-STT MTJs, examining their materials physics, simulation frameworks, and integration maturity, while critically addressing persistent limitations including write-current endurance, read disturb, stochastic switching, and scalability constraints below 20nm. We then turn to VCMA-based devices, where interfacial engineering in CoFeB/MgO heterostructures enables sub-volt, ultralow-power operation. SOT architectures follow, leveraging the spin Hall effect in heavy-metal/ferromagnet bilayers to achieve sub-nanosecond, three-terminal switching . We subsequently survey emerging all-optical control strategies, including the inverse Faraday effect and plasmon-enhanced photothermal switching in ferrimagnetic heterostructures, unlocking picosecond and potentially terahertz-rate operation. Finally, hybrid schemes including STT+VCMA, STT+SOT, voltage gated SOT, and optically-assisted electrical switching are examined, revealing synergistic pathways to overcome the individual bottlenecks of each mechanism. For each paradigm, key physical effects, material strategies, performance metrics, applications, and remaining challenges are discussed.",
+    "date": "2026-11-11",
+    "url": "https://doi.org/10.1088/1361-6463/aec0a8",
+    "journal": "Journal of Physics D: Applied Physics",
+    "source": "Journal of Physics D: Applied Physics",
+    "tags": [
+      "自旋存储"
+    ],
+    "authors": [],
+    "image_checked": "2026-11-21",
+    "arxiv_id": "",
+    "relevance": 80,
+    "score": 73.4,
+    "journal_priority": false,
+    "reason": "自旋存储；期刊论文"
   },
   {
     "id": "2610.38491",
@@ -2356,9 +2428,9 @@
       "Peixin Qin",
       "Zhiqi Liu"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 73.5,
+    "score": 73.4,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2381,7 +2453,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.37754",
     "relevance": 95,
-    "score": 73.4,
+    "score": 73.3,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2410,7 +2482,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.37367",
     "relevance": 95,
-    "score": 73.4,
+    "score": 73.3,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2445,7 +2517,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.34736",
     "relevance": 95,
-    "score": 73.3,
+    "score": 73.2,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -2470,7 +2542,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.35855",
     "relevance": 95,
-    "score": 73.3,
+    "score": 73.2,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2501,7 +2573,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.35238",
     "relevance": 95,
-    "score": 73.3,
+    "score": 73.2,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2532,7 +2604,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.35236",
     "relevance": 95,
-    "score": 73.3,
+    "score": 73.2,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2555,7 +2627,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.34439",
     "relevance": 95,
-    "score": 73.2,
+    "score": 73.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -2590,7 +2662,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.34230",
     "relevance": 95,
-    "score": 73.2,
+    "score": 73.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -2632,9 +2704,9 @@
       "Feng Jin",
       "Luyi Yang"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 72.9,
+    "score": 72.8,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2669,7 +2741,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.29708",
     "relevance": 95,
-    "score": 72.7,
+    "score": 72.6,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -2698,7 +2770,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.29366",
     "relevance": 95,
-    "score": 72.7,
+    "score": 72.6,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -2720,7 +2792,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.30536",
     "relevance": 95,
-    "score": 72.7,
+    "score": 72.6,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2743,7 +2815,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.30371",
     "relevance": 95,
-    "score": 72.7,
+    "score": 72.6,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2765,7 +2837,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.27173",
     "relevance": 95,
-    "score": 72.5,
+    "score": 72.4,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2794,7 +2866,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.24065",
     "relevance": 95,
-    "score": 72.2,
+    "score": 72.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -2817,7 +2889,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.23773",
     "relevance": 95,
-    "score": 72.2,
+    "score": 72.1,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2861,7 +2933,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.23375",
     "relevance": 95,
-    "score": 72.2,
+    "score": 72.1,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2886,7 +2958,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.22935",
     "relevance": 95,
-    "score": 72.2,
+    "score": 72.1,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2905,9 +2977,9 @@
       "Nicolai Timon Bechler",
       "Jan Masell"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 72.1,
+    "score": 71.9,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2937,7 +3009,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.21770",
     "relevance": 95,
-    "score": 72.1,
+    "score": 71.9,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2964,7 +3036,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.19793",
     "relevance": 95,
-    "score": 71.9,
+    "score": 71.8,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -2987,7 +3059,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.19017",
     "relevance": 95,
-    "score": 71.8,
+    "score": 71.7,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -3012,7 +3084,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.18441",
     "relevance": 95,
-    "score": 71.8,
+    "score": 71.7,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -3035,7 +3107,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.16189",
     "relevance": 95,
-    "score": 71.7,
+    "score": 71.6,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -3059,7 +3131,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.16507",
     "relevance": 95,
-    "score": 71.7,
+    "score": 71.6,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -3086,7 +3158,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.15630",
     "relevance": 95,
-    "score": 71.6,
+    "score": 71.5,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -3114,7 +3186,7 @@
       "Yixi Su"
     ],
     "relevance": 95,
-    "score": 71.4,
+    "score": 71.3,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充",
     "image": "https://arxiv.org/html/2610.13444v1/fig1_v6_compressed.png",
@@ -3138,7 +3210,7 @@
       "Yu-Xian Li"
     ],
     "relevance": 95,
-    "score": 71.4,
+    "score": 71.3,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充",
     "image": "https://arxiv.org/html/2610.13193v1/fig1.jpg",
@@ -3164,7 +3236,7 @@
       "Jinlong Yang"
     ],
     "relevance": 95,
-    "score": 71.4,
+    "score": 71.3,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充",
     "image": "https://arxiv.org/html/2610.12900v1/fig2.png",
@@ -3198,9 +3270,9 @@
       "Yongbing Xu",
       "Ronghua Liu"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 71.3,
+    "score": 71.2,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3223,7 +3295,7 @@
       "Jinlong Yang"
     ],
     "relevance": 95,
-    "score": 71.3,
+    "score": 71.2,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充",
     "image": "https://arxiv.org/html/2610.12791v2/Figure_1.png",
@@ -3247,7 +3319,7 @@
       "Alexander A. Tsirlin"
     ],
     "relevance": 95,
-    "score": 71.3,
+    "score": 71.2,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充",
     "image": "https://arxiv.org/html/2610.11838v1/fig1.png",
@@ -3298,7 +3370,7 @@
       "Ming Liu"
     ],
     "relevance": 95,
-    "score": 71.3,
+    "score": 71.2,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充",
     "image": "https://arxiv.org/html/2610.11341v1/fig1.png",
@@ -3323,9 +3395,9 @@
       "Yuan Lu",
       "Jianhua Zhao"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 71.2,
+    "score": 71.1,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3345,7 +3417,7 @@
       "Andrew M. Rappe"
     ],
     "relevance": 95,
-    "score": 71.2,
+    "score": 71.1,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充",
     "image": "https://arxiv.org/html/2610.10970v1/setup_schematic_highres.png",
@@ -3370,7 +3442,7 @@
       "Jeffrey G. Rau"
     ],
     "relevance": 95,
-    "score": 71.2,
+    "score": 71.1,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充",
     "image": "https://arxiv.org/html/2610.10523v1/1_N1N2N3.png",
@@ -3401,7 +3473,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.06732",
     "relevance": 95,
-    "score": 70.9,
+    "score": 70.8,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -3426,7 +3498,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.04684",
     "relevance": 95,
-    "score": 70.7,
+    "score": 70.6,
     "journal_priority": false,
     "reason": "自旋存储；altermagnetism；预印本补充"
   },
@@ -3451,9 +3523,9 @@
       "Stéphane Mangin",
       "Mathias Kläui"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 70.5,
+    "score": 70.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3479,7 +3551,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2609.39175",
     "relevance": 95,
-    "score": 70.4,
+    "score": 70.3,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -3499,9 +3571,9 @@
       "Qianbiao Liu",
       "Lijun Zhu"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 70.3,
+    "score": 70.2,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3525,7 +3597,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2609.33619",
     "relevance": 95,
-    "score": 70.1,
+    "score": 69.9,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3550,7 +3622,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2609.28968",
     "relevance": 95,
-    "score": 69.7,
+    "score": 69.6,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -3587,9 +3659,9 @@
       "Gia-Wei Chern",
       "Seung-Hun Lee"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 68.9,
+    "score": 68.8,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -3620,7 +3692,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2609.18744",
     "relevance": 95,
-    "score": 68.8,
+    "score": 68.7,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -3664,9 +3736,9 @@
       "Wanjun Jiang",
       "Shikun He"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 68.8,
+    "score": 68.7,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3686,9 +3758,9 @@
       "Xiuling Li",
       "Xiaojun Wu"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 68.7,
+    "score": 68.6,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -3718,7 +3790,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2609.11745",
     "relevance": 95,
-    "score": 68.2,
+    "score": 68.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -3739,9 +3811,9 @@
       "Guoyi Shi",
       "Kaiming Cai"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 68.2,
+    "score": 68.1,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -3770,7 +3842,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2609.11816",
     "relevance": 95,
-    "score": 68.2,
+    "score": 68.1,
     "journal_priority": false,
     "reason": "自旋存储；altermagnetism；预印本补充"
   },
@@ -3804,7 +3876,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2609.09699",
     "relevance": 95,
-    "score": 68.1,
+    "score": 67.9,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -3826,9 +3898,9 @@
       "Andrei Shumilin",
       "José J. Baldoví"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 67.8,
+    "score": 67.7,
     "journal_priority": false,
     "reason": "自旋存储；altermagnetism；预印本补充"
   },
@@ -3851,9 +3923,9 @@
       "Cai-Zhuang Wang",
       "Vladimir Antropov"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 67.7,
+    "score": 67.6,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -3884,7 +3956,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2609.05085",
     "relevance": 95,
-    "score": 67.5,
+    "score": 67.4,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -3901,10 +3973,10 @@
       "自旋存储"
     ],
     "authors": [],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "arxiv_id": "",
     "relevance": 80,
-    "score": 67.3,
+    "score": 67.2,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -3929,9 +4001,9 @@
       "Yong-Chang Lau",
       "Wenhong Wang"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
-    "score": 67.2,
+    "score": 67.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -3953,7 +4025,7 @@
     "image_source": "https://arxiv.org/html/2404.14315",
     "arxiv_id": "2404.14315",
     "relevance": 80,
-    "score": 66.8,
+    "score": 66.7,
     "journal_priority": false,
     "reason": "自旋存储；期刊论文"
   },
@@ -3977,7 +4049,7 @@
       "Cai-Zhuang Wang",
       "Vladimir Antropov"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
@@ -3999,7 +4071,7 @@
       "Vladimir Antropov",
       "Yang Sun"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
@@ -4149,7 +4221,7 @@
       "Yoshio Miura",
       "Shinji Isogami"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
@@ -4392,7 +4464,7 @@
       "Sonal Shreya",
       "Farshad Moradi"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
@@ -4463,7 +4535,7 @@
       "Chris R. Laumann",
       "Norman Y. Yao"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
@@ -4483,7 +4555,7 @@
     "authors": [
       "Chisa Hotta"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
@@ -4629,7 +4701,7 @@
       "J. Grollier",
       "F. A. Mizrahi"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
@@ -4796,7 +4868,7 @@
       "Ashwin Tulapurkar",
       "Debanjan Bhowmik"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
@@ -4820,7 +4892,7 @@
       "Bohao Zou",
       "Kezhou Yang"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
@@ -4907,7 +4979,7 @@
       "Xiaoguang Li",
       "Yuan Lu"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
@@ -4938,7 +5010,7 @@
     "score": 66.5,
     "journal_priority": false,
     "reason": "自旋存储；AI for spintronics；预印本补充",
-    "image_checked": "2026-11-18"
+    "image_checked": "2026-11-25"
   },
   {
     "id": "2606.03451",
@@ -4982,11 +5054,44 @@
       "Xin-Wei Yi",
       "Jing-Yang You"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 95,
     "score": 66.5,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
+  },
+  {
+    "id": "2611.30740",
+    "title": "All-in-one Spintronic Sensory Neurons for Magnetic Edge Intelligence",
+    "summary": "Magnetic fields enable non-contact sensing through nonmagnetic materials, offering opportunities for magnetic edge intelligence in autonomous recognition, navigation, and control. However, directly converting magnetic stimuli into neural spikes for local neuromorphic processing remains challenging. Here, we demonstrate an all-in-one spintronic sensory neuron (SSN) based on spin-transfer-torque magnetic tunnel junctions (STT-MTJs) fabricated using a 40-nm magnetoresistive random-access memory (MRAM) process. By exploiting magnetic-field-modulated stochastic switching, the SSN enables probability-based sensing with an electrically tunable sensitive field window, allowing adaptive operation across different magnetic-field ranges without structural modification. This tunability alleviates the fixed sensitivity-range constraint of conventional tunneling magnetoresistance sensing, providing an accessible sensing range of +/-40 mT with an average probability sensitivity of 2.91%/mT. Importantly, the same stochastic switching process directly transduces magnetic stimuli into binary spike trains, integrating magnetic sensing, nonlinear rate encoding, and spike generation within a single nanoscale device. The resulting sigmoidal spike-rate response enables magnetic-field encoding, experimentally validated using the Neural Engineering Framework. Using experimentally characterized device responses, a simulated 10 x 10 SSN array achieves 90.7% accuracy in contactless magnetic-trajectory recognition with optimized encoding, approaching the software baseline. These results establish a scalable, MRAM-compatible approach to unifying programmable magnetic sensing and neural encoding for sensor-native edge intelligence.",
+    "date": "2026-11-23",
+    "updated": "2026-11-23T14:19:28Z",
+    "url": "https://arxiv.org/abs/2611.30740v1",
+    "tags": [
+      "自旋存储"
+    ],
+    "source": "arXiv · 预印本",
+    "authors": [
+      "Jiajia Jian",
+      "Bin Rong",
+      "Jiaxin Liu",
+      "Fangyi Zhao",
+      "Kai Li",
+      "Tao Huang",
+      "Xue Zhou",
+      "Xin Yue",
+      "Zeyu Ma",
+      "Xuefeng Zheng",
+      "Weidong Zhang",
+      "Jian Fu Zhang",
+      "Yumeng Yang",
+      "Zheng Chai"
+    ],
+    "relevance": 80,
+    "score": 65.8,
+    "journal_priority": false,
+    "reason": "自旋存储；预印本补充",
+    "image_checked": "2026-11-25"
   },
   {
     "id": "2611.28593",
@@ -5007,13 +5112,13 @@
       "Xiaosen Yang",
       "Ho-Kin Tang"
     ],
-    "relevance": 80,
-    "score": 65.7,
-    "journal_priority": false,
-    "reason": "altermagnetism；预印本补充",
     "image": "https://arxiv.org/html/2611.28593v1/figure/fig1.png",
     "image_label": "arXiv 论文插图",
-    "image_source": "https://arxiv.org/html/2611.28593"
+    "image_source": "https://arxiv.org/html/2611.28593",
+    "relevance": 80,
+    "score": 65.6,
+    "journal_priority": false,
+    "reason": "altermagnetism；预印本补充"
   },
   {
     "id": "2611.27763",
@@ -5033,13 +5138,13 @@
       "Yongpan Li",
       "Cheng-Cheng Liu"
     ],
-    "relevance": 80,
-    "score": 65.6,
-    "journal_priority": false,
-    "reason": "altermagnetism；预印本补充",
     "image": "https://arxiv.org/html/2611.27763v1/figure_1.png",
     "image_label": "arXiv 论文插图",
-    "image_source": "https://arxiv.org/html/2611.27763"
+    "image_source": "https://arxiv.org/html/2611.27763",
+    "relevance": 80,
+    "score": 65.4,
+    "journal_priority": false,
+    "reason": "altermagnetism；预印本补充"
   },
   {
     "id": "2611.27747",
@@ -5056,13 +5161,13 @@
       "Daniel A. Bustamante Lopez",
       "Dominik M. Juraschek"
     ],
-    "relevance": 80,
-    "score": 65.6,
-    "journal_priority": false,
-    "reason": "altermagnetism；预印本补充",
     "image": "https://arxiv.org/html/2611.27747v1/pam_splitter_intro.png",
     "image_label": "arXiv 论文插图",
-    "image_source": "https://arxiv.org/html/2611.27747"
+    "image_source": "https://arxiv.org/html/2611.27747",
+    "relevance": 80,
+    "score": 65.4,
+    "journal_priority": false,
+    "reason": "altermagnetism；预印本补充"
   },
   {
     "id": "2611.25546",
@@ -5091,7 +5196,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.25546",
     "relevance": 80,
-    "score": 65.4,
+    "score": 65.3,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -5111,7 +5216,7 @@
     ],
     "image_checked": "2026-11-19",
     "relevance": 80,
-    "score": 65.3,
+    "score": 65.2,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -5135,7 +5240,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.24045",
     "relevance": 80,
-    "score": 65.3,
+    "score": 65.2,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -5158,9 +5263,9 @@
       "Aleš Hrabec",
       "Laura J. Heyderman"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 65.2,
+    "score": 65.1,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -5190,7 +5295,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.22460",
     "relevance": 80,
-    "score": 65.2,
+    "score": 65.1,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -5213,9 +5318,29 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.23390",
     "relevance": 80,
-    "score": 65.2,
+    "score": 65.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
+  },
+  {
+    "id": "10.1088/1674-1056/ae9a6d",
+    "doi": "10.1088/1674-1056/ae9a6d",
+    "title": "Asynchronous Spin-Transfer Torque-Based Control of Soliton Structures and Dynamics in Magnetic Bilayers",
+    "summary": "Abstract \n                   We investigate the manipulation of the spatial structure and dynamical characteristics of magnetic solitons by spin-polarized currents in an exchange-coupled magnetic bilayer system composed of ferromagnetic/nonmagnetic/ferromagnetic layers. The analysis reveals that when unequal spin-polarized currents are injected into the two ferromagnetic layers, the dispersion characteristics of the system are substantially modified. Specifically, the soliton velocity is determined by the average of the two spin currents, while soliton structural features are controlled by their difference. Through numerical calculations, we identify both single-peak and multi-peak soliton profiles and systematically establish the dependence of the soliton structure on the spin currents. Based on this dependence, under time-varying spin currents, the soliton velocity can be manipulated by tuning the average current, while the soliton morphology can be independently tailored by adjusting the deviation of the currents from their average. Simultaneously, by modulating both parameters, synchronous and synergistic control over both the structural and dynamical characteristics of the soliton can be achieved. This control mechanism provides a theoretical foundation for the functional design of soliton-based memory devices and offers an important reference for future information processing technologies based on magnetic solitons.",
+    "date": "2026-08-17",
+    "url": "https://doi.org/10.1088/1674-1056/ae9a6d",
+    "journal": "Chinese Physics B",
+    "source": "Chinese Physics B",
+    "tags": [
+      "自旋存储"
+    ],
+    "authors": [],
+    "image_checked": "2026-11-25",
+    "arxiv_id": "",
+    "relevance": 80,
+    "score": 65.0,
+    "journal_priority": false,
+    "reason": "自旋存储；期刊论文"
   },
   {
     "id": "2611.20735",
@@ -5239,29 +5364,9 @@
     ],
     "image_checked": "2026-11-24",
     "relevance": 80,
-    "score": 65.1,
-    "journal_priority": false,
-    "reason": "自旋存储；预印本补充"
-  },
-  {
-    "id": "10.1088/1674-1056/ae9a6d",
-    "doi": "10.1088/1674-1056/ae9a6d",
-    "title": "Asynchronous Spin-Transfer Torque-Based Control of Soliton Structures and Dynamics in Magnetic Bilayers",
-    "summary": "Abstract \n                   We investigate the manipulation of the spatial structure and dynamical characteristics of magnetic solitons by spin-polarized currents in an exchange-coupled magnetic bilayer system composed of ferromagnetic/nonmagnetic/ferromagnetic layers. The analysis reveals that when unequal spin-polarized currents are injected into the two ferromagnetic layers, the dispersion characteristics of the system are substantially modified. Specifically, the soliton velocity is determined by the average of the two spin currents, while soliton structural features are controlled by their difference. Through numerical calculations, we identify both single-peak and multi-peak soliton profiles and systematically establish the dependence of the soliton structure on the spin currents. Based on this dependence, under time-varying spin currents, the soliton velocity can be manipulated by tuning the average current, while the soliton morphology can be independently tailored by adjusting the deviation of the currents from their average. Simultaneously, by modulating both parameters, synchronous and synergistic control over both the structural and dynamical characteristics of the soliton can be achieved. This control mechanism provides a theoretical foundation for the functional design of soliton-based memory devices and offers an important reference for future information processing technologies based on magnetic solitons.",
-    "date": "2026-08-17",
-    "url": "https://doi.org/10.1088/1674-1056/ae9a6d",
-    "journal": "Chinese Physics B",
-    "source": "Chinese Physics B",
-    "tags": [
-      "自旋存储"
-    ],
-    "authors": [],
-    "image_checked": "2026-11-18",
-    "arxiv_id": "",
-    "relevance": 80,
     "score": 65.0,
     "journal_priority": false,
-    "reason": "自旋存储；期刊论文"
+    "reason": "自旋存储；预印本补充"
   },
   {
     "id": "2611.20123",
@@ -5287,7 +5392,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.20123",
     "relevance": 80,
-    "score": 65.0,
+    "score": 64.9,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -5316,7 +5421,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.20035",
     "relevance": 80,
-    "score": 65.0,
+    "score": 64.9,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -5343,7 +5448,7 @@
     ],
     "image_checked": "2026-11-20",
     "relevance": 80,
-    "score": 64.7,
+    "score": 64.6,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -5370,7 +5475,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.15305",
     "relevance": 80,
-    "score": 64.6,
+    "score": 64.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -5394,7 +5499,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.14982",
     "relevance": 80,
-    "score": 64.6,
+    "score": 64.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -5419,7 +5524,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.14155",
     "relevance": 80,
-    "score": 64.4,
+    "score": 64.3,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -5449,9 +5554,9 @@
       "F. Sebastian Bergeret",
       "Teruo Ono"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 64.4,
+    "score": 64.3,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -5474,7 +5579,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.18731",
     "relevance": 80,
-    "score": 64.4,
+    "score": 64.3,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -5500,7 +5605,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.11077",
     "relevance": 80,
-    "score": 64.2,
+    "score": 64.1,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -5523,7 +5628,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.08986",
     "relevance": 80,
-    "score": 64.0,
+    "score": 63.9,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -5554,7 +5659,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.08405",
     "relevance": 80,
-    "score": 63.9,
+    "score": 63.8,
     "journal_priority": false,
     "reason": "自旋存储；AI for spintronics；预印本补充"
   },
@@ -5579,7 +5684,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.08738",
     "relevance": 80,
-    "score": 63.9,
+    "score": 63.8,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -5604,7 +5709,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.08715",
     "relevance": 80,
-    "score": 63.9,
+    "score": 63.8,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -5627,9 +5732,9 @@
       "Xiaojun Wu",
       "Jinlong Yang"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 63.7,
+    "score": 63.6,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -5662,7 +5767,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.04333",
     "relevance": 80,
-    "score": 63.7,
+    "score": 63.6,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -5688,7 +5793,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.02567",
     "relevance": 80,
-    "score": 63.6,
+    "score": 63.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -5711,7 +5816,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.04050",
     "relevance": 80,
-    "score": 63.6,
+    "score": 63.4,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -5735,7 +5840,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.00655",
     "relevance": 80,
-    "score": 63.3,
+    "score": 63.2,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -5763,7 +5868,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2611.00299",
     "relevance": 80,
-    "score": 63.2,
+    "score": 63.1,
     "journal_priority": false,
     "reason": "AI for spintronics；预印本补充"
   },
@@ -5792,9 +5897,9 @@
       "Richeng Yu",
       "Xiufeng Han"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 63.1,
+    "score": 63.0,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -5822,7 +5927,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.39749",
     "relevance": 80,
-    "score": 63.1,
+    "score": 63.0,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -5843,9 +5948,9 @@
       "Soham Saha",
       "Kalyan Mandal"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 63.1,
+    "score": 63.0,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -5872,7 +5977,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.39604",
     "relevance": 80,
-    "score": 63.1,
+    "score": 63.0,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -5905,7 +6010,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.40850",
     "relevance": 80,
-    "score": 63.1,
+    "score": 63.0,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -5925,9 +6030,9 @@
       "Bhaskaran Muralidharan",
       "Satadeep Bhattacharjee"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 63.1,
+    "score": 63.0,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -5953,9 +6058,9 @@
       "Wenqi Sun",
       "Jia Zhang"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 63.0,
+    "score": 62.9,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -5974,9 +6079,9 @@
       "V. M. Tkachuk",
       "M. I. Samar"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 62.8,
+    "score": 62.7,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -6000,7 +6105,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.34794",
     "relevance": 80,
-    "score": 62.8,
+    "score": 62.7,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -6038,7 +6143,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.34624",
     "relevance": 80,
-    "score": 62.7,
+    "score": 62.6,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6062,7 +6167,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.34295",
     "relevance": 80,
-    "score": 62.7,
+    "score": 62.6,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6087,7 +6192,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.30733",
     "relevance": 80,
-    "score": 62.3,
+    "score": 62.2,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -6110,7 +6215,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.29341",
     "relevance": 80,
-    "score": 62.2,
+    "score": 62.1,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -6135,7 +6240,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.28024",
     "relevance": 80,
-    "score": 62.1,
+    "score": 62.0,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -6159,7 +6264,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.26293",
     "relevance": 80,
-    "score": 62.0,
+    "score": 61.9,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -6182,7 +6287,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.26163",
     "relevance": 80,
-    "score": 62.0,
+    "score": 61.9,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -6208,7 +6313,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.25186",
     "relevance": 80,
-    "score": 61.9,
+    "score": 61.8,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -6236,7 +6341,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.23132",
     "relevance": 80,
-    "score": 61.7,
+    "score": 61.6,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6261,7 +6366,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.21854",
     "relevance": 80,
-    "score": 61.6,
+    "score": 61.4,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -6288,7 +6393,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.21580",
     "relevance": 80,
-    "score": 61.6,
+    "score": 61.4,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -6319,7 +6424,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.20383",
     "relevance": 80,
-    "score": 61.4,
+    "score": 61.3,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -6346,7 +6451,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.18800",
     "relevance": 80,
-    "score": 61.3,
+    "score": 61.2,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -6376,7 +6481,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.17535",
     "relevance": 80,
-    "score": 61.3,
+    "score": 61.2,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -6400,7 +6505,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.16676",
     "relevance": 80,
-    "score": 61.2,
+    "score": 61.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -6427,7 +6532,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.15945",
     "relevance": 80,
-    "score": 61.1,
+    "score": 61.0,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -6454,7 +6559,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.14668",
     "relevance": 80,
-    "score": 61.0,
+    "score": 60.9,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充"
   },
@@ -6474,9 +6579,9 @@
       "R. N. Bhowmik",
       "P. D. Babu"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 60.9,
+    "score": 60.8,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6499,9 +6604,9 @@
       "Wenxu Zhang",
       "Jianhua Zhao"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 60.8,
+    "score": 60.7,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6525,9 +6630,9 @@
       "Dahai Wei",
       "Jianhua Zhao"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 60.8,
+    "score": 60.7,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6551,7 +6656,7 @@
       "Wen-Li Yang"
     ],
     "relevance": 80,
-    "score": 60.8,
+    "score": 60.7,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充",
     "image": "https://arxiv.org/html/2610.11807v2/figure1.png",
@@ -6595,10 +6700,10 @@
       "Lukáš Nádvorník"
     ],
     "relevance": 80,
-    "score": 60.8,
+    "score": 60.7,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充",
-    "image_checked": "2026-11-18"
+    "image_checked": "2026-11-25"
   },
   {
     "id": "2610.09917",
@@ -6626,7 +6731,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.09917",
     "relevance": 80,
-    "score": 60.7,
+    "score": 60.6,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6648,7 +6753,7 @@
       "Oleg V. Yazyev"
     ],
     "relevance": 80,
-    "score": 60.7,
+    "score": 60.6,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充",
     "image": "https://arxiv.org/html/2610.10412v1/kv2se2o_modes_wide.png",
@@ -6673,9 +6778,9 @@
       "Samuel Mañas-Valero",
       "Eugenio Coronado"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 60.6,
+    "score": 60.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6700,7 +6805,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2610.04248",
     "relevance": 80,
-    "score": 60.2,
+    "score": 60.1,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6732,7 +6837,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2609.32121",
     "relevance": 80,
-    "score": 59.4,
+    "score": 59.3,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6762,7 +6867,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2609.31950",
     "relevance": 80,
-    "score": 59.3,
+    "score": 59.2,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6790,9 +6895,9 @@
       "Ziang Meng",
       "Zhiqi Liu"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 59.2,
+    "score": 59.1,
     "journal_priority": false,
     "reason": "自旋存储；altermagnetism；预印本补充"
   },
@@ -6814,9 +6919,9 @@
       "Zhongjun Li",
       "Hongyan Lv"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 59.1,
+    "score": 59.0,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6839,7 +6944,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2609.25955",
     "relevance": 80,
-    "score": 59.0,
+    "score": 58.9,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6864,7 +6969,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2609.23129",
     "relevance": 80,
-    "score": 58.7,
+    "score": 58.6,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6887,7 +6992,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2609.21669",
     "relevance": 80,
-    "score": 58.6,
+    "score": 58.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6914,7 +7019,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2609.15619",
     "relevance": 80,
-    "score": 58.1,
+    "score": 58.0,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6952,7 +7057,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2609.11015",
     "relevance": 80,
-    "score": 57.7,
+    "score": 57.6,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6973,9 +7078,9 @@
       "Wenliang Zhu",
       "Lijun Zhu"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 57.0,
+    "score": 56.9,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -6998,9 +7103,9 @@
       "Guang-Yu Guo",
       "Chih-Huang Lai"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 56.7,
+    "score": 56.6,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -7022,9 +7127,9 @@
       "J. B. S. Mendes",
       "A. Azevedo"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 56.6,
+    "score": 56.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -7046,7 +7151,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2608.30381",
     "relevance": 80,
-    "score": 56.6,
+    "score": 56.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -7078,9 +7183,9 @@
       "Naoki Ogawa",
       "Toshiya Ideue"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
-    "score": 56.6,
+    "score": 56.4,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充"
   },
@@ -7103,7 +7208,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2608.28546",
     "relevance": 80,
-    "score": 56.2,
+    "score": 56.1,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -7131,7 +7236,7 @@
     "image_label": "arXiv 论文插图",
     "image_source": "https://arxiv.org/html/2608.26534",
     "relevance": 80,
-    "score": 56.1,
+    "score": 56.0,
     "journal_priority": false,
     "reason": "Kagome 反铁磁；预印本补充"
   },
@@ -7181,7 +7286,7 @@
       "Efrat Lifshitz",
       "Doron Naveh"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
@@ -7269,7 +7374,7 @@
       "Ohiro Fujie",
       "Pham Nam Hai"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
@@ -7346,7 +7451,7 @@
     "score": 56.0,
     "journal_priority": false,
     "reason": "自旋存储；预印本补充",
-    "image_checked": "2026-11-18"
+    "image_checked": "2026-11-25"
   },
   {
     "id": "2608.15253",
@@ -7494,7 +7599,7 @@
       "Ichiro Tsuda",
       "Kohei Nakajima"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
@@ -7515,7 +7620,7 @@
       "S. M. Frolov",
       "O. V. Kravchenko"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
@@ -7808,7 +7913,7 @@
       "Soham Chandra",
       "Soumyajit Sarkar"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
@@ -7839,7 +7944,7 @@
       "Gia-Wei Chern",
       "Seung-Hun Lee"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
@@ -7981,7 +8086,7 @@
       "Darrin Hanna",
       "Vasyl Tyberkevych"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
@@ -8036,7 +8141,7 @@
       "Giovanni Finocchio",
       "Davi Rodrigues"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
@@ -8140,7 +8245,7 @@
       "Jingli Liu",
       "Kezhou Yang"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
@@ -8166,7 +8271,7 @@
       "Kesavan Jawahar",
       "S. N. Piramanayagam"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
@@ -8242,7 +8347,7 @@
       "Francesca Garescì",
       "Giovanni Finocchio"
     ],
-    "image_checked": "2026-11-18",
+    "image_checked": "2026-11-25",
     "relevance": 80,
     "score": 56.0,
     "journal_priority": false,
@@ -8319,7 +8424,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 29.4,
+    "score": 29.3,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8335,7 +8440,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 29.4,
+    "score": 29.3,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8351,7 +8456,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 29.2,
+    "score": 29.1,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8367,7 +8472,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 28.8,
+    "score": 28.7,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8383,7 +8488,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 28.8,
+    "score": 28.7,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8399,7 +8504,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 28.7,
+    "score": 28.6,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8415,7 +8520,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 28.6,
+    "score": 28.4,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8431,7 +8536,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 28.6,
+    "score": 28.4,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8447,7 +8552,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 28.0,
+    "score": 27.9,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8463,7 +8568,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 27.9,
+    "score": 27.8,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8479,7 +8584,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 27.9,
+    "score": 27.8,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8495,7 +8600,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 27.9,
+    "score": 27.8,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8511,7 +8616,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 27.8,
+    "score": 27.7,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8527,7 +8632,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 27.8,
+    "score": 27.7,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8543,7 +8648,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 27.7,
+    "score": 27.6,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8559,7 +8664,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 27.2,
+    "score": 27.1,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8575,7 +8680,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 27.1,
+    "score": 27.0,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8591,7 +8696,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 27.1,
+    "score": 27.0,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8607,7 +8712,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 27.0,
+    "score": 26.9,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8623,7 +8728,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 27.0,
+    "score": 26.9,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8639,7 +8744,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 27.0,
+    "score": 26.9,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8655,7 +8760,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 27.0,
+    "score": 26.9,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8671,7 +8776,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 27.0,
+    "score": 26.9,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8687,7 +8792,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 26.8,
+    "score": 26.7,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8703,7 +8808,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 26.8,
+    "score": 26.7,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8719,7 +8824,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 26.4,
+    "score": 26.3,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8735,7 +8840,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 26.3,
+    "score": 26.2,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8751,7 +8856,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 26.3,
+    "score": 26.2,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8767,7 +8872,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 26.3,
+    "score": 26.2,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8783,7 +8888,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 26.3,
+    "score": 26.2,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8799,7 +8904,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 26.2,
+    "score": 26.1,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8815,7 +8920,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 26.2,
+    "score": 26.1,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8831,7 +8936,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 26.2,
+    "score": 26.1,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8847,7 +8952,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 26.2,
+    "score": 26.1,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8863,7 +8968,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 26.0,
+    "score": 25.9,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8879,7 +8984,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 25.7,
+    "score": 25.6,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8895,7 +9000,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 25.6,
+    "score": 25.4,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8911,7 +9016,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 25.6,
+    "score": 25.4,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8927,7 +9032,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 25.6,
+    "score": 25.4,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8943,7 +9048,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 25.6,
+    "score": 25.4,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8959,7 +9064,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 25.6,
+    "score": 25.4,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8975,7 +9080,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 25.4,
+    "score": 25.3,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -8991,7 +9096,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 25.4,
+    "score": 25.3,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9007,7 +9112,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 25.4,
+    "score": 25.3,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9023,7 +9128,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 25.4,
+    "score": 25.3,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9039,7 +9144,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 25.3,
+    "score": 25.2,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9055,7 +9160,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 24.8,
+    "score": 24.7,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9071,7 +9176,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 24.8,
+    "score": 24.7,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9087,7 +9192,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 24.7,
+    "score": 24.6,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9103,7 +9208,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 24.7,
+    "score": 24.6,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9119,7 +9224,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 24.6,
+    "score": 24.4,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9135,7 +9240,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 24.1,
+    "score": 24.0,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9151,7 +9256,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 23.9,
+    "score": 23.8,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9167,7 +9272,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 23.3,
+    "score": 23.2,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9183,7 +9288,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 23.2,
+    "score": 23.1,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9199,7 +9304,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 23.2,
+    "score": 23.1,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9215,7 +9320,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 23.2,
+    "score": 23.1,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9231,7 +9336,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 23.1,
+    "score": 23.0,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9247,7 +9352,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 22.3,
+    "score": 22.2,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9263,7 +9368,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 22.3,
+    "score": 22.2,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9279,7 +9384,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 22.3,
+    "score": 22.2,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9295,7 +9400,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 21.8,
+    "score": 21.7,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9311,7 +9416,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 21.7,
+    "score": 21.6,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9327,7 +9432,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 21.7,
+    "score": 21.6,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9343,7 +9448,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 21.6,
+    "score": 21.4,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9359,7 +9464,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 21.6,
+    "score": 21.4,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9375,7 +9480,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 21.6,
+    "score": 21.4,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9391,7 +9496,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 21.6,
+    "score": 21.4,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9407,7 +9512,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 21.6,
+    "score": 21.4,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9423,7 +9528,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 21.4,
+    "score": 21.3,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9439,7 +9544,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 20.9,
+    "score": 20.8,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9455,7 +9560,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 20.9,
+    "score": 20.8,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9471,7 +9576,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 20.8,
+    "score": 20.7,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9487,7 +9592,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 20.8,
+    "score": 20.7,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9503,7 +9608,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 20.1,
+    "score": 20.0,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9519,7 +9624,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 20.1,
+    "score": 20.0,
     "journal_priority": true,
     "reason": "；重点关注期刊"
   },
@@ -9812,6 +9917,134 @@
     "reason": "；重点关注期刊"
   },
   {
+    "id": "10.1088/2058-9565/aebebd",
+    "doi": "10.1088/2058-9565/aebebd",
+    "title": "Sideband-mediated nuclear-spin-wave memory for an Andreev spin qubit: required coherence and Floquet feasibility",
+    "summary": "Abstract \n                   \n                    We propose and quantitatively analyze a Floquet-driven red-sideband architecture that couples an Andreev spin qubit (ASQ) in a semiconductor Josephson junction to a collective nuclear spin-wave memory, and we establish the coherence and calibration requirements an experiment would need to meet. Frequency modulation of the ASQ transition bridges its GHz frequency to the MHz nuclear Larmor frequency, giving an effective sideband coupling\n                     \n                       \n                        \n                       \n                       \n                         \n                           \n                             g \n                             \n                               \n                                 eff \n                               \n                             \n                           \n                           = \n                           \n                             g \n                             \n                               \n                                 mg \n                               \n                             \n                           \n                           \n                             J \n                             1 \n                           \n                           ( \n                           β \n                           ) \n                         \n                       \n                     \n                    with modulation index\n                     \n                       \n                        \n                       \n                       \n                         \n                           β \n                           = \n                           \n                             Ω \n                             \n                               d \n                             \n                           \n                           \n                             / \n                           \n                           \n                             ω \n                             \n                               d \n                             \n                           \n                         \n                       \n                     \n                    . For a single-isotope\n                     \n                       \n                        \n                       \n                       \n                         \n                           \n                             \n                             \n                               75 \n                             \n                           \n                         \n                       \n                     \n                    As (\n                     \n                       \n                        \n                       \n                       \n                         \n                           I \n                           = \n                           3 \n                           \n                             / \n                           \n                           2 \n                         \n                       \n                     \n                    ) bright mode over\n                     \n                       \n                        \n                       \n                       \n                         \n                           \n                             N \n                             \n                               \n                                 eff \n                               \n                             \n                           \n                           = \n                           \n                             10 \n                             \n                               5 \n                             \n                           \n                         \n                       \n                     \n                    –\n                     \n                       \n                        \n                       \n                       \n                         \n                           \n                             10 \n                             \n                               6 \n                             \n                           \n                         \n                       \n                     \n                    nuclei, two explicit parameter sets give\n                     \n                       \n                        \n                       \n                       \n                         \n                           \n                             g \n                             \n                               \n                                 eff \n                               \n                             \n                           \n                           \n                             / \n                           \n                           2 \n                           π \n                         \n                       \n                     \n                    in the 9–367 kHz range and SWAP times of 0.7–28\n                     \n                       \n                        \n                       \n                       \n                         \n                           μ \n                         \n                       \n                     \n                    s. The central result is a required-coherence map: a high-fidelity write–read cycle (two-SWAP survival\n                     \n                       \n                        \n                       \n                       \n                         \n                           \n                             F \n                             \n                               \n                                 WR \n                               \n                             \n                           \n                           ≳ \n                           0.9 \n                         \n                       \n                     \n                    , memory number\n                     \n                       \n                        \n                       \n                       \n                         \n                           \n                             M \n                           \n                           ≡ \n                           2 \n                           π \n                           ( \n                           \n                             g \n                             \n                               \n                                 eff \n                               \n                             \n                           \n                           \n                             / \n                           \n                           2 \n                           π \n                           ) \n                           \n                             T \n                             \n                               2 \n                               , \n                               \n                                 ASQ \n                               \n                             \n                           \n                           ≳ \n                           30 \n                         \n                       \n                     \n                    ) needs\n                     \n                       \n                        \n                       \n                       \n                         \n                           \n                             T \n                             \n                               2 \n                               , \n                               \n                                 ASQ \n                               \n                             \n                           \n                           ∼ \n                           13 \n                         \n                       \n                     \n                    –\n                     \n                       \n                        \n                       \n                       \n                         \n                           520 \n                           \n                           μ \n                         \n                       \n                     \n                    s, whereas currently demonstrated ASQ coherences (\n                     \n                       \n                        \n                       \n                       \n                         \n                           ∼ \n                           10 \n                         \n                       \n                     \n                    –\n                     \n                       \n                        \n                       \n                       \n                         \n                           100 \n                         \n                       \n                     \n                    ns) lie two to five orders of magnitude below this target. The ASQ coherence time is thus identified as the limiting resource, and sweet-spot operation, phase-bias engineering, and Floquet-dressed protection as the routes to close the gap. A next-order Floquet expansion fixes the calibration budget—dominated by an\n                     \n                       \n                        \n                       \n                       \n                         \n                           n \n                           = \n                           0 \n                         \n                       \n                     \n                    Jaynes–Cummings dispersive shift that separates into a static and a weak drive-induced part—and a two-mode stroboscopic Lindblad simulation confirms the required-coherence crossover and bounds the effect of the counter-rotating channel (sub-percent at the baseline, rising to a\n                     \n                       \n                        \n                       \n                       \n                         \n                           2.3 \n                         \n                       \n                     \n                    -percentage-point penalty only for worst-case opposite-circular coupling). All coupling values are feasibility estimates set by a few device-specific parameters whose determination from a Bogoliubov–de Gennes calculation is the natural next step.",
+    "date": "2026-11-24",
+    "url": "https://doi.org/10.1088/2058-9565/aebebd",
+    "journal": "Quantum Science and Technology",
+    "source": "Quantum Science and Technology",
+    "tags": [],
+    "authors": [],
+    "relevance": 0,
+    "score": 18.9,
+    "journal_priority": false,
+    "reason": "；期刊论文"
+  },
+  {
+    "id": "10.1103/y1tt-xwmm",
+    "doi": "10.1103/y1tt-xwmm",
+    "title": "Curvature-controlled topological magnon phases in a folded kagome lattice",
+    "summary": "",
+    "date": "2026-11-24",
+    "url": "https://doi.org/10.1103/y1tt-xwmm",
+    "journal": "Physical Review B",
+    "source": "Physical Review B",
+    "tags": [],
+    "authors": [],
+    "relevance": 0,
+    "score": 18.9,
+    "journal_priority": false,
+    "reason": "；期刊论文"
+  },
+  {
+    "id": "10.1103/k95l-qd8g",
+    "doi": "10.1103/k95l-qd8g",
+    "title": "Spin-polarized core of Abrikosov vortex in a superconductor-ferromagnet bilayer with an interface spin-orbit interaction",
+    "summary": "",
+    "date": "2026-11-24",
+    "url": "https://doi.org/10.1103/k95l-qd8g",
+    "journal": "Physical Review B",
+    "source": "Physical Review B",
+    "tags": [],
+    "authors": [],
+    "relevance": 0,
+    "score": 18.9,
+    "journal_priority": false,
+    "reason": "；期刊论文"
+  },
+  {
+    "id": "10.1360/csb-2026-1185",
+    "doi": "10.1360/csb-2026-1185",
+    "title": "Model Studies of Altermagnetism: From Minimal Tight-Binding Models to Topological Responses",
+    "summary": "",
+    "date": "2026-11-24",
+    "url": "https://doi.org/10.1360/csb-2026-1185",
+    "journal": "Chinese Science Bulletin",
+    "source": "Chinese Science Bulletin",
+    "tags": [],
+    "authors": [],
+    "relevance": 0,
+    "score": 18.9,
+    "journal_priority": false,
+    "reason": "；期刊论文"
+  },
+  {
+    "id": "10.1103/9ssc-n5rl",
+    "doi": "10.1103/9ssc-n5rl",
+    "title": "Magnon equilibrium spin current in collinear antiferromagnets",
+    "summary": "",
+    "date": "2026-11-24",
+    "url": "https://doi.org/10.1103/9ssc-n5rl",
+    "journal": "Physical Review B",
+    "source": "Physical Review B",
+    "tags": [],
+    "authors": [],
+    "relevance": 0,
+    "score": 18.9,
+    "journal_priority": false,
+    "reason": "；期刊论文"
+  },
+  {
+    "id": "10.1103/yw5c-tnsl",
+    "doi": "10.1103/yw5c-tnsl",
+    "title": "Non-Bloch band theory of boundary-controlled magnon edge modes in an antiferromagnetic chain",
+    "summary": "",
+    "date": "2026-11-24",
+    "url": "https://doi.org/10.1103/yw5c-tnsl",
+    "journal": "Physical Review B",
+    "source": "Physical Review B",
+    "tags": [],
+    "authors": [],
+    "relevance": 0,
+    "score": 18.9,
+    "journal_priority": false,
+    "reason": "；期刊论文"
+  },
+  {
+    "id": "10.1063/5.0358494",
+    "doi": "10.1063/5.0358494",
+    "title": "Coherent-response and thermal-fluctuation information in cavity-magnon magnetometry",
+    "summary": "Magnetic sensing with cavity–magnon systems is commonly optimized through coherent response functions, while field-dependent fluctuations are treated primarily as measurement noise. Here, we show that this description omits a distinct and experimentally accessible source of magnetic-field information: the field dependence of the measured quadrature variance. For repeated phase-sensitive measurements of a calibrated microwave quadrature, we derive the complete Gaussian likelihood and demonstrate that its Fisher information separates exactly into a coherent-displacement contribution, determined by the field derivative of the quadrature mean, and a thermal-fluctuation contribution, determined by the field derivative of its variance. The two contributions arise from the same measurement record but obey different optimization principles. For the amplitude quadrature, the dimensionless coherent morphology is globally maximized at cooperativity C = 2, corresponding to coupling strength g=2κaκm, and at linewidth-normalized detunings δa = δm = ±1. With a near-resonance expansion, the reduced variance-information is globally maximized at cavity-magnon absolute-detuning matching, Δa = Δm, and approaches a finite large-cooperativity limit. The competing nature of the two sources of contribution is shown in detail under all parameter regions of driving frequency and temperature. Most notably, thermal variance contribution remains finite when coherent driving information is buried in noise (e.g., at low-temperature and low-excitation cases) or even vanishes. It reveals that thermal fluctuations can carry operational magnetic-field information even when the coherent-displacement contribution is unobservable or absent. These results establish a measurement-specific metrological framework and provide distinct operating rules for exploiting coherent response, thermal fluctuations, or both in cavity–magnon magnetometry.",
+    "date": "2026-11-24",
+    "url": "https://doi.org/10.1063/5.0358494",
+    "journal": "APL Quantum",
+    "source": "APL Quantum",
+    "tags": [],
+    "authors": [],
+    "relevance": 0,
+    "score": 18.9,
+    "journal_priority": false,
+    "reason": "；期刊论文"
+  },
+  {
+    "id": "10.1103/r98s-g3q3",
+    "doi": "10.1103/r98s-g3q3",
+    "title": "Magnon-assisted high-fidelity quantum memory for superconducting qubits using trapped-electron spins",
+    "summary": "",
+    "date": "2026-11-24",
+    "url": "https://doi.org/10.1103/r98s-g3q3",
+    "journal": "Physical Review A",
+    "source": "Physical Review A",
+    "tags": [],
+    "authors": [],
+    "relevance": 0,
+    "score": 18.9,
+    "journal_priority": false,
+    "reason": "；期刊论文"
+  },
+  {
     "id": "10.1103/lgf9-prp5",
     "doi": "10.1103/lgf9-prp5",
     "title": "Momentum-dependent precessional and nutational spin pumping in a honeycomb antiferromagnet",
@@ -9823,7 +10056,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.9,
+    "score": 18.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -9839,7 +10072,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.9,
+    "score": 18.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -9855,7 +10088,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.9,
+    "score": 18.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -9871,7 +10104,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.7,
+    "score": 18.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -9887,7 +10120,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.6,
+    "score": 18.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -9903,7 +10136,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.6,
+    "score": 18.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -9919,7 +10152,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.6,
+    "score": 18.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -9935,7 +10168,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.4,
+    "score": 18.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -9951,7 +10184,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.4,
+    "score": 18.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -9967,7 +10200,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.4,
+    "score": 18.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -9983,7 +10216,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.4,
+    "score": 18.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -9999,7 +10232,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.3,
+    "score": 18.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10015,7 +10248,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.3,
+    "score": 18.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10031,7 +10264,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.2,
+    "score": 18.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10047,7 +10280,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.2,
+    "score": 18.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10063,7 +10296,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.2,
+    "score": 18.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10079,7 +10312,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.1,
+    "score": 18.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10095,7 +10328,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.1,
+    "score": 18.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10111,7 +10344,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.1,
+    "score": 18.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10127,7 +10360,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.1,
+    "score": 18.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10143,7 +10376,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.1,
+    "score": 18.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10159,7 +10392,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.1,
+    "score": 18.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10175,7 +10408,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 18.0,
+    "score": 17.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10191,7 +10424,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.9,
+    "score": 17.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10207,7 +10440,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.8,
+    "score": 17.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10223,7 +10456,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.8,
+    "score": 17.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10239,7 +10472,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.7,
+    "score": 17.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10255,7 +10488,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.7,
+    "score": 17.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10271,7 +10504,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.7,
+    "score": 17.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10287,7 +10520,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.7,
+    "score": 17.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10303,7 +10536,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.7,
+    "score": 17.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10319,7 +10552,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.6,
+    "score": 17.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10335,7 +10568,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.6,
+    "score": 17.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10351,7 +10584,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.6,
+    "score": 17.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10367,7 +10600,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.4,
+    "score": 17.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10383,7 +10616,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.4,
+    "score": 17.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10399,7 +10632,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.4,
+    "score": 17.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10415,7 +10648,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.4,
+    "score": 17.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10431,7 +10664,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.4,
+    "score": 17.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10447,7 +10680,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.4,
+    "score": 17.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10463,7 +10696,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.4,
+    "score": 17.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10479,7 +10712,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.4,
+    "score": 17.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10495,7 +10728,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.3,
+    "score": 17.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10511,23 +10744,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.0,
-    "journal_priority": false,
-    "reason": "；期刊论文"
-  },
-  {
-    "id": "10.1088/2058-9565/aebebd",
-    "doi": "10.1088/2058-9565/aebebd",
-    "title": "Sideband-mediated nuclear-spin-wave memory for an Andreev spin qubit: required coherence and Floquet feasibility",
-    "summary": "Abstract \n                   \n                    A Floquet-driven red-sideband architecture is proposed and quantitatively analyzed that couples an Andreev spin qubit (ASQ) in a semiconductor Josephson junction to a collective nuclear spin-wave bright mode of the host, establishing a parameterized feasibility map and actionable design criteria for an ASQ–nuclear-spin quantum memory. The frequency-modulated exchange bridges the GHz ASQ transition and the MHz nuclear&#xD;Larmor frequency with effective coupling g\n                     eff \n                    = g\n                     mg \n                    J\n                     1 \n                    (β), where β = Ω\n                     d \n                    /ω\n                     d \n                    is the modulation index. An analytical model of a single-isotope\n                     75 \n                    As (I = 3/2) bright-mode envelope with N\n                     eff \n                    = 10\n                     5 \n                    –10\n                     6 \n                    nuclei gives g\n                     eff \n                    /2π in the 9–367 kHz range for two explicit parameter sets, with SWAP times of 0.7–28 μs. A next-order Floquet expansion identifies, within the single-circular-component limit g− ≪ g+, the n = 0 Jaynes–Cummings dispersive dressing as the dominant off-resonant contribution, decomposing into a static (β = 0) component δ\n                     static \n                    ≃ 2g\n                     2 \n                     mg \n                    /ω\n                     d \n                    and a drive-induced increment δ\n                     AC \n                    ≃ −g\n                     2 \n                     mg \n                    β\n                     2 \n                    /ω\n                     d \n                    that are distinguishable by modulation-on/off spectroscopy combined with an independent bare-reference calibration. A diagnostic M≡ 2π(g\n                     eff \n                    /2π)T\n                     2,ASQ \n                    = 1 requires T\n                     2,ASQ \n                    ∼ 0.4–17 μs, while a high-fidelity write–read cycle (FWR ≳ 0.9, M≳ 30) requires T\n                     2,ASQ \n                    ∼ 13–520 μs. A two-mode stroboscopic Lindblad simulation independently reproduces the M≳ 30 crossover at fixed g\n                     eff \n                    /(2π) = 100 kHz and shows the direct counter-rotating g− contribution is sub-percent at the baseline resolved-sideband point (ε\n                     − \n                    = g\n                     −,eff \n                    /(2ω\n                     n \n                    ) = 0.025), while worst-case g\n                     − \n                    /g\n                     + \n                    = 1 at the optimistic coupling produces a 2.3-percentage-point penalty. Currently demonstrated T\n                     2,ASQ \n                    ∼ 10–100 ns lie two to five orders of magnitude below the M≳ 30 regime; the analysis identifies sweet-spot operation, phase-bias engineering, and Floquet-dressed subspace protection as concrete engineering directions to close the gap.",
-    "date": "2026-11-06",
-    "url": "https://doi.org/10.1088/2058-9565/aebebd",
-    "journal": "Quantum Science and Technology",
-    "source": "Quantum Science and Technology",
-    "tags": [],
-    "authors": [],
-    "relevance": 0,
-    "score": 17.0,
+    "score": 16.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10543,7 +10760,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.0,
+    "score": 16.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10559,7 +10776,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 17.0,
+    "score": 16.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10575,7 +10792,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.9,
+    "score": 16.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10591,7 +10808,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.8,
+    "score": 16.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10607,7 +10824,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.8,
+    "score": 16.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10623,7 +10840,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.8,
+    "score": 16.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10639,7 +10856,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.8,
+    "score": 16.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10655,7 +10872,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.8,
+    "score": 16.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10671,7 +10888,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.8,
+    "score": 16.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10687,7 +10904,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.8,
+    "score": 16.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10703,7 +10920,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.8,
+    "score": 16.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10719,7 +10936,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.7,
+    "score": 16.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10735,7 +10952,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.7,
+    "score": 16.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10751,7 +10968,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.7,
+    "score": 16.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10767,7 +10984,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.6,
+    "score": 16.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10783,7 +11000,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.6,
+    "score": 16.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10799,7 +11016,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.6,
+    "score": 16.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10815,7 +11032,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.6,
+    "score": 16.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10831,7 +11048,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.6,
+    "score": 16.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10847,7 +11064,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.6,
+    "score": 16.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10863,7 +11080,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.6,
+    "score": 16.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10879,7 +11096,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.6,
+    "score": 16.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10895,7 +11112,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10911,7 +11128,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10927,7 +11144,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10943,7 +11160,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10959,7 +11176,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10975,7 +11192,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -10991,7 +11208,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11007,7 +11224,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11023,7 +11240,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11039,7 +11256,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11055,7 +11272,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11071,7 +11288,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11087,7 +11304,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11103,7 +11320,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11119,7 +11336,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11135,7 +11352,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11151,7 +11368,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11167,7 +11384,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11183,7 +11400,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11199,7 +11416,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11215,7 +11432,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11231,7 +11448,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11247,7 +11464,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11263,7 +11480,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11279,7 +11496,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11295,7 +11512,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11311,7 +11528,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11327,7 +11544,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11343,7 +11560,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11359,7 +11576,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11375,7 +11592,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11391,7 +11608,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11407,7 +11624,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11423,7 +11640,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11439,7 +11656,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11455,7 +11672,39 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.4,
+    "score": 16.3,
+    "journal_priority": false,
+    "reason": "；期刊论文"
+  },
+  {
+    "id": "10.1016/j.jmmm.2026.174775",
+    "doi": "10.1016/j.jmmm.2026.174775",
+    "title": "Zero-torque stagnation-point analysis of field-like torque effects in perpendicular spin-orbit-torque magnetic random-access memory",
+    "summary": "",
+    "date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.jmmm.2026.174775",
+    "journal": "Journal of Magnetism and Magnetic Materials",
+    "source": "Journal of Magnetism and Magnetic Materials",
+    "tags": [],
+    "authors": [],
+    "relevance": 0,
+    "score": 16.3,
+    "journal_priority": false,
+    "reason": "；期刊论文"
+  },
+  {
+    "id": "10.1016/j.comptc.2026.116155",
+    "doi": "10.1016/j.comptc.2026.116155",
+    "title": "Statistical physics and artificial neural network modeling of methylene blue adsorption on waste-derived magnetic biochars",
+    "summary": "",
+    "date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.comptc.2026.116155",
+    "journal": "Computational and Theoretical Chemistry",
+    "source": "Computational and Theoretical Chemistry",
+    "tags": [],
+    "authors": [],
+    "relevance": 0,
+    "score": 16.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11471,7 +11720,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.3,
+    "score": 16.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11487,7 +11736,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.3,
+    "score": 16.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11503,7 +11752,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.3,
+    "score": 16.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11519,7 +11768,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.3,
+    "score": 16.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11535,7 +11784,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.3,
+    "score": 16.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11551,7 +11800,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.3,
+    "score": 16.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11567,7 +11816,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.2,
+    "score": 16.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11583,7 +11832,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.1,
+    "score": 16.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11599,7 +11848,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.1,
+    "score": 16.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11615,7 +11864,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 16.1,
+    "score": 16.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11631,7 +11880,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.9,
+    "score": 15.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11647,7 +11896,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.9,
+    "score": 15.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11663,7 +11912,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.8,
+    "score": 15.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11679,7 +11928,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11695,7 +11944,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11711,7 +11960,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11727,7 +11976,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.4,
+    "score": 15.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11743,7 +11992,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.3,
+    "score": 15.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11759,7 +12008,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.3,
+    "score": 15.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11775,7 +12024,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.2,
+    "score": 15.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11791,7 +12040,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.2,
+    "score": 15.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11807,7 +12056,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.1,
+    "score": 15.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11823,7 +12072,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.1,
+    "score": 15.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11839,7 +12088,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.1,
+    "score": 15.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11855,7 +12104,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.0,
+    "score": 14.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11871,7 +12120,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.0,
+    "score": 14.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11887,7 +12136,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.0,
+    "score": 14.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11903,7 +12152,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.0,
+    "score": 14.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11919,7 +12168,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 15.0,
+    "score": 14.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11935,7 +12184,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.9,
+    "score": 14.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11951,7 +12200,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.9,
+    "score": 14.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11967,7 +12216,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.9,
+    "score": 14.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11983,7 +12232,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.9,
+    "score": 14.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -11999,7 +12248,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.9,
+    "score": 14.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12015,7 +12264,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.7,
+    "score": 14.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12031,7 +12280,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.7,
+    "score": 14.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12047,7 +12296,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.6,
+    "score": 14.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12063,7 +12312,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.4,
+    "score": 14.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12079,7 +12328,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.4,
+    "score": 14.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12095,7 +12344,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.4,
+    "score": 14.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12111,7 +12360,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.4,
+    "score": 14.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12127,7 +12376,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.4,
+    "score": 14.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12143,7 +12392,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.3,
+    "score": 14.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12159,7 +12408,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.2,
+    "score": 14.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12175,7 +12424,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.1,
+    "score": 14.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12191,7 +12440,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.0,
+    "score": 13.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12207,7 +12456,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 14.0,
+    "score": 13.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12223,7 +12472,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.9,
+    "score": 13.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12239,7 +12488,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.8,
+    "score": 13.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12255,7 +12504,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.7,
+    "score": 13.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12271,7 +12520,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.7,
+    "score": 13.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12287,7 +12536,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.7,
+    "score": 13.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12303,7 +12552,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.4,
+    "score": 13.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12319,7 +12568,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.4,
+    "score": 13.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12335,7 +12584,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.4,
+    "score": 13.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12351,7 +12600,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.4,
+    "score": 13.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12367,7 +12616,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.1,
+    "score": 13.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12383,7 +12632,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.1,
+    "score": 13.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12399,7 +12648,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12415,7 +12664,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12431,7 +12680,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12447,7 +12696,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12463,7 +12712,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12479,7 +12728,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12495,7 +12744,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12511,7 +12760,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12527,7 +12776,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12543,7 +12792,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12559,7 +12808,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12575,7 +12824,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12591,7 +12840,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12607,7 +12856,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12623,7 +12872,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12639,7 +12888,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12655,7 +12904,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12671,7 +12920,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12687,7 +12936,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12703,7 +12952,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12719,7 +12968,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12735,7 +12984,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12751,7 +13000,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12767,7 +13016,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12783,7 +13032,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12799,7 +13048,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12815,7 +13064,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12831,7 +13080,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12847,7 +13096,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12863,7 +13112,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12879,7 +13128,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12895,7 +13144,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 13.0,
+    "score": 12.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12911,7 +13160,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.9,
+    "score": 12.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12927,7 +13176,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.9,
+    "score": 12.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12943,7 +13192,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.9,
+    "score": 12.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12959,7 +13208,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.9,
+    "score": 12.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12975,7 +13224,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.9,
+    "score": 12.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -12991,7 +13240,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.9,
+    "score": 12.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13007,7 +13256,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.8,
+    "score": 12.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13023,7 +13272,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.8,
+    "score": 12.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13039,7 +13288,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.8,
+    "score": 12.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13055,7 +13304,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.8,
+    "score": 12.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13071,7 +13320,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.8,
+    "score": 12.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13087,7 +13336,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.7,
+    "score": 12.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13103,7 +13352,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.7,
+    "score": 12.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13119,7 +13368,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.7,
+    "score": 12.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13135,7 +13384,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.4,
+    "score": 12.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13151,7 +13400,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.3,
+    "score": 12.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13167,7 +13416,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.3,
+    "score": 12.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13183,7 +13432,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.2,
+    "score": 12.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13199,7 +13448,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13215,7 +13464,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13231,7 +13480,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13247,7 +13496,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.1,
+    "score": 12.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13263,7 +13512,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.0,
+    "score": 11.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13279,7 +13528,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.0,
+    "score": 11.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13295,7 +13544,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 12.0,
+    "score": 11.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13311,7 +13560,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.9,
+    "score": 11.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13327,7 +13576,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.9,
+    "score": 11.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13343,7 +13592,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.9,
+    "score": 11.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13359,7 +13608,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.8,
+    "score": 11.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13375,7 +13624,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.7,
+    "score": 11.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13391,7 +13640,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.4,
+    "score": 11.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13407,7 +13656,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.4,
+    "score": 11.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13423,7 +13672,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.3,
+    "score": 11.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13439,7 +13688,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.3,
+    "score": 11.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13455,7 +13704,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.3,
+    "score": 11.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13471,7 +13720,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.2,
+    "score": 11.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13487,7 +13736,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.2,
+    "score": 11.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13503,7 +13752,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 11.2,
+    "score": 11.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13519,7 +13768,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.9,
+    "score": 10.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13535,7 +13784,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.8,
+    "score": 10.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13551,7 +13800,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.8,
+    "score": 10.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13567,7 +13816,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.7,
+    "score": 10.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13583,7 +13832,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.6,
+    "score": 10.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13599,7 +13848,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.6,
+    "score": 10.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13615,7 +13864,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.6,
+    "score": 10.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13631,7 +13880,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.4,
+    "score": 10.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13647,7 +13896,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.4,
+    "score": 10.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13663,7 +13912,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.3,
+    "score": 10.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13679,7 +13928,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.3,
+    "score": 10.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13695,7 +13944,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.1,
+    "score": 10.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13711,7 +13960,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 10.0,
+    "score": 9.9,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13727,7 +13976,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.9,
+    "score": 9.8,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13743,7 +13992,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.8,
+    "score": 9.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13759,7 +14008,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.8,
+    "score": 9.7,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13775,7 +14024,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13791,7 +14040,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13807,7 +14056,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13823,7 +14072,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13839,7 +14088,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13855,7 +14104,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13871,7 +14120,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13887,7 +14136,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13903,7 +14152,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13919,7 +14168,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13935,7 +14184,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13951,7 +14200,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13967,7 +14216,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13983,7 +14232,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -13999,7 +14248,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14015,7 +14264,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14031,7 +14280,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14047,7 +14296,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14063,7 +14312,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14079,7 +14328,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14095,7 +14344,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14111,7 +14360,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14127,7 +14376,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14143,7 +14392,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14159,7 +14408,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14175,7 +14424,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14191,7 +14440,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14207,7 +14456,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14223,7 +14472,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14239,7 +14488,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.7,
+    "score": 9.6,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14255,7 +14504,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.6,
+    "score": 9.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14271,7 +14520,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.6,
+    "score": 9.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14287,7 +14536,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.6,
+    "score": 9.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14303,7 +14552,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.6,
+    "score": 9.4,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14322,7 +14571,7 @@
       "Gakuto Ogiwara"
     ],
     "relevance": 0,
-    "score": 9.6,
+    "score": 9.4,
     "journal_priority": false,
     "reason": "；预印本补充"
   },
@@ -14338,7 +14587,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.4,
+    "score": 9.3,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14357,7 +14606,7 @@
       "Branislav K. Nikolic"
     ],
     "relevance": 0,
-    "score": 9.4,
+    "score": 9.3,
     "journal_priority": false,
     "reason": "；预印本补充"
   },
@@ -14373,7 +14622,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.3,
+    "score": 9.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14389,7 +14638,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.3,
+    "score": 9.2,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14405,7 +14654,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.2,
+    "score": 9.1,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14421,7 +14670,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.1,
+    "score": 9.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14437,7 +14686,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.1,
+    "score": 9.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14453,7 +14702,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.1,
+    "score": 9.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14469,7 +14718,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.1,
+    "score": 9.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14485,7 +14734,7 @@
     "tags": [],
     "authors": [],
     "relevance": 0,
-    "score": 9.1,
+    "score": 9.0,
     "journal_priority": false,
     "reason": "；期刊论文"
   },
@@ -14922,7 +15171,7 @@
       "Aldo H. Romero"
     ],
     "relevance": 0,
-    "score": 8.8,
+    "score": 8.7,
     "journal_priority": false,
     "reason": "；预印本补充"
   },
@@ -14942,7 +15191,7 @@
       "Jean-Pierre Bucher"
     ],
     "relevance": 0,
-    "score": 7.9,
+    "score": 7.8,
     "journal_priority": false,
     "reason": "；预印本补充"
   },
@@ -14959,7 +15208,7 @@
       "Ya-Hui Zhang"
     ],
     "relevance": 0,
-    "score": 7.1,
+    "score": 7.0,
     "journal_priority": false,
     "reason": "；预印本补充"
   },
@@ -14977,7 +15226,7 @@
       "Tarun Kanti Ghosh"
     ],
     "relevance": 0,
-    "score": 5.3,
+    "score": 5.2,
     "journal_priority": false,
     "reason": "；预印本补充"
   },
@@ -15012,7 +15261,7 @@
       "Ming Liu"
     ],
     "relevance": 0,
-    "score": 4.9,
+    "score": 4.8,
     "journal_priority": false,
     "reason": "；预印本补充"
   },
@@ -15031,7 +15280,7 @@
       "Yingying Wu"
     ],
     "relevance": 0,
-    "score": 3.7,
+    "score": 3.6,
     "journal_priority": false,
     "reason": "；预印本补充"
   },
@@ -15058,7 +15307,7 @@
       "Yijie Shen"
     ],
     "relevance": 0,
-    "score": 1.2,
+    "score": 1.1,
     "journal_priority": false,
     "reason": "；预印本补充"
   },
@@ -15082,7 +15331,7 @@
       "A. N. Vasiliev"
     ],
     "relevance": 0,
-    "score": 0.3,
+    "score": 0.2,
     "journal_priority": false,
     "reason": "；预印本补充"
   },
