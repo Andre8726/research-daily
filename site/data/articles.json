@@ -284,6 +284,44 @@
     "image_checked": "2026-11-25"
   },
   {
+    "id": "10.1103/sq14-bc56",
+    "doi": "10.1103/sq14-bc56",
+    "title": "Reversible nonrelativistic magnon spin transport in ferroelastic altermagnets",
+    "summary": "",
+    "date": "2026-11-25",
+    "url": "https://doi.org/10.1103/sq14-bc56",
+    "journal": "Physical Review B",
+    "source": "Physical Review B",
+    "tags": [
+      "altermagnetism"
+    ],
+    "authors": [],
+    "image_checked": "2026-11-25",
+    "arxiv_id": "",
+    "relevance": 95,
+    "score": 85.5,
+    "journal_priority": false,
+    "reason": "altermagnetism；期刊论文"
+  },
+  {
+    "id": "10.35848/1347-4065/aec705",
+    "doi": "10.35848/1347-4065/aec705",
+    "title": "Spin-orbit torque-induced magnetization switching in off-angle sputtered β-W/CoFeB/MgO layers with perpendicular magnetization",
+    "summary": "Abstract \n                   \n                    Tungsten in the β-phase (β-W) is a nonmagnetic heavy metal with a large spin Hall angle (SHA); however, conventional normal sputtering (NM) methods transform it into the α-phase when deposited as thick films. We fabricated W/CoFeB/MgO stacks using the off-angle sputtering (OF) method that maintains the β-phase even at a thick film, and compared their switching current density (\n                     J \n                     C \n                    ) evaluated using the spin-orbit torque (SOT) with NM samples.  Anomalous Hall effect measurements revealed that the coercivity of NM samples depended on W thickness (\n                     t \n                     W \n                    ), peaking at\n                     t \n                     W \n                    = 5 nm, whereas OF samples showed a weaker thickness dependence. The estimation of\n                     J \n                     C \n                    using SOT revealed that OF samples exhibited lower JC than NM samples, likely due to the predominance of the high-SHA β-W phase within the OF-fabricated W layer. These results suggest that fabricating thick β-W layers by the OF method can enhance the design flexibility of SOT devices.",
+    "date": "2026-11-25",
+    "url": "https://doi.org/10.35848/1347-4065/aec705",
+    "journal": "Japanese Journal of Applied Physics",
+    "source": "Japanese Journal of Applied Physics",
+    "tags": [
+      "自旋存储"
+    ],
+    "authors": [],
+    "relevance": 95,
+    "score": 85.5,
+    "journal_priority": false,
+    "reason": "自旋存储；期刊论文"
+  },
+  {
     "id": "10.1080/14686996.2026.2744549",
     "doi": "10.1080/14686996.2026.2744549",
     "title": "Device-level stochastic switching enables tunable short-term memory in magnetic tunnel junction neurons",
@@ -356,26 +394,6 @@
     "url": "https://doi.org/10.1063/5.0351719",
     "journal": "Applied Physics Letters",
     "source": "Applied Physics Letters",
-    "tags": [
-      "altermagnetism"
-    ],
-    "authors": [],
-    "image_checked": "2026-11-25",
-    "arxiv_id": "",
-    "relevance": 95,
-    "score": 83.7,
-    "journal_priority": false,
-    "reason": "altermagnetism；期刊论文"
-  },
-  {
-    "id": "10.1103/sq14-bc56",
-    "doi": "10.1103/sq14-bc56",
-    "title": "Reversible nonrelativistic magnon spin transport in ferroelastic altermagnets",
-    "summary": "",
-    "date": "2026-11-09",
-    "url": "https://doi.org/10.1103/sq14-bc56",
-    "journal": "Physical Review B",
-    "source": "Physical Review B",
     "tags": [
       "altermagnetism"
     ],
@@ -1103,13 +1121,13 @@
       "Jonathan Agrinya",
       "Walter R. L. Lambrecht"
     ],
+    "image": "https://arxiv.org/html/2611.30865v1/Figs/crystal_structure.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.30865",
     "relevance": 95,
     "score": 76.3,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充",
-    "image": "https://arxiv.org/html/2611.30865v1/Figs/crystal_structure.png",
-    "image_label": "arXiv 论文插图",
-    "image_source": "https://arxiv.org/html/2611.30865"
+    "reason": "altermagnetism；预印本补充"
   },
   {
     "id": "2611.30649",
@@ -1126,13 +1144,13 @@
       "Divyanshi Tyagi",
       "Saswata Bhattacharya"
     ],
+    "image": "https://arxiv.org/html/2611.30649v1/main_pics/Picture1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.30649",
     "relevance": 95,
     "score": 76.3,
     "journal_priority": false,
-    "reason": "altermagnetism；预印本补充",
-    "image": "https://arxiv.org/html/2611.30649v1/main_pics/Picture1.png",
-    "image_label": "arXiv 论文插图",
-    "image_source": "https://arxiv.org/html/2611.30649"
+    "reason": "altermagnetism；预印本补充"
   },
   {
     "id": "2611.29976",
@@ -1151,13 +1169,38 @@
       "Zhi-Ming Yu",
       "Yugui Yao"
     ],
+    "image": "https://arxiv.org/html/2611.29976v1/Fig1.png",
+    "image_label": "arXiv 论文插图",
+    "image_source": "https://arxiv.org/html/2611.29976",
+    "relevance": 95,
+    "score": 76.3,
+    "journal_priority": false,
+    "reason": "altermagnetism；预印本补充"
+  },
+  {
+    "id": "2611.31548",
+    "title": "Spin Hamiltonian, magnetic anisotropy and excitation spectrum in altermagnetic $α$-MnTe from first principles",
+    "summary": "The hexagonal altermagnet $α$-MnTe combines a near-room-temperature collinear order with a strongly spin-split electronic structure, yet the microscopic origin of its easy-plane anisotropy, its zone-center magnon gap and its anomalously large magnetostriction have remained unexplained. We derive the complete low-energy magnetic Hamiltonian of $α$-MnTe from first principles, combining density functional theory and dynamical mean-field theory with a force-theorem evaluation of the full anisotropic intersite exchange, single-ion terms and classical dipolar couplings. The isotropic exchange, including the altermagnetic splitting of the tenth-neighbor coupling, agrees with inelastic neutron scattering data. Contrary to the common single-ion picture, we find that the easy-plane anisotropy and the magnon gap at $Γ$ are governed by classical dipole-dipole interactions, which enhance the zone-center magnon splitting threefold leading to quantitative agreement with experiment, while the Dzyaloshinskii-Moriya term is irrelevant despite its size. The same Hamiltonian reproduces the chiral magnon splitting along antinodal directions, mirroring the electronic spin splitting, and quantitatively accounts for the giant magnetovolume coupling of $α$-MnTe through the volume dependence of superexchange.",
+    "date": "2026-11-23",
+    "updated": "2026-11-23T20:59:03Z",
+    "url": "https://arxiv.org/abs/2611.31548v1",
+    "tags": [
+      "altermagnetism"
+    ],
+    "source": "arXiv · 预印本",
+    "authors": [
+      "Matteo Costa",
+      "Dario Fiore Mosca",
+      "Cesare Franchini",
+      "Leonid V. Pourovskii"
+    ],
     "relevance": 95,
     "score": 76.3,
     "journal_priority": false,
     "reason": "altermagnetism；预印本补充",
-    "image": "https://arxiv.org/html/2611.29976v1/Fig1.png",
+    "image": "https://arxiv.org/html/2611.31548v1/MnTe_Figure_new.png",
     "image_label": "arXiv 论文插图",
-    "image_source": "https://arxiv.org/html/2611.29976"
+    "image_source": "https://arxiv.org/html/2611.31548"
   },
   {
     "id": "10.1016/j.mattod.2026.103407",
@@ -5087,11 +5130,11 @@
       "Yumeng Yang",
       "Zheng Chai"
     ],
+    "image_checked": "2026-11-25",
     "relevance": 80,
     "score": 65.8,
     "journal_priority": false,
-    "reason": "自旋存储；预印本补充",
-    "image_checked": "2026-11-25"
+    "reason": "自旋存储；预印本补充"
   },
   {
     "id": "2611.28593",
@@ -7657,10 +7700,10 @@
   {
     "id": "2606.02512",
     "title": "Frustrated neurons: Energy landscapes and relaxation dynamics in repulsive phase oscillators",
-    "summary": "Geometrical frustration, a central paradigm in condensed matter physics, provides a unifying language for systems in which locally preferred interactions cannot be made globally compatible. Here, we use this language to formulate a minimal theory of frustrated neural timing, mapping repulsively coupled rhythmic units onto antiferromagnetic XY models. Within this framework, the condensed-matter concepts of local constraints, degenerate ground-state manifolds, metastability, and quench dynamics become a concrete diagnostic framework for structured neural phase dynamics. We analyze a hierarchy of geometries: a triangle as the minimal frustrated motif with two chiral 120° timing states, a tetrahedron whose reduced ground-state manifold consists of intersecting continuous branches associated with antipodal pairings, and a kagome lattice on which local constraints define a constrained three-coloring manifold. The kagome lattice reveals the central dynamical result: zero-temperature relaxation suppresses global synchrony but typically selects low-energy metastable torque-balanced states rather than exact ground states. Finally, we show how the phase theory can be carried back towards biophysical neural models by treating it as an effective-interaction target, where geometrical timing frustration is realized through preferred phase lags that become incompatible around closed motifs. This perspective suggests that weak global coherence in neural systems does not necessarily signal disordered activity, but can reflect structured local timing order shaped by a frustrated dynamical landscape.",
+    "summary": "Geometrical frustration, a central paradigm in condensed matter physics, provides a unifying language for systems in which locally preferred interactions cannot be made globally compatible. Here, we use this language to formulate a minimal theory of frustrated neural timing, mapping repulsively coupled rhythmic units onto antiferromagnetic $XY$ models. In this formulation, the condensed-matter concepts of local constraints, degenerate ground-state manifolds, metastability, and quench dynamics are used to guide our analysis of structured neural phase dynamics. This paper analyzes a hierarchy of geometries, beginning with a triangle as the minimal frustrated motif with two chiral 120° timing states, then a tetrahedron whose reduced ground-state manifold consists of intersecting continuous branches associated with antipodal pairings, and finally a kagome lattice on which local constraints define a constrained three-coloring manifold. The kagome lattice reveals that zero-temperature relaxation suppresses global synchrony but typically selects low-energy metastable torque-balanced states rather than exact ground states. We then show how the phase theory can be carried back towards biophysical neural models by treating the minimal framework as an effective-interaction target, where geometrical timing frustration arises from preferred phase lags that become incompatible around closed motifs. Our results suggest that weak global coherence in neural systems doesn't necessarily signal disordered activity, but can instead reflect structured local timing order within a frustrated dynamical landscape.",
     "date": "2026-06-01",
-    "updated": "2026-06-01T17:25:24Z",
-    "url": "https://arxiv.org/abs/2606.02512v1",
+    "updated": "2026-11-23T20:24:10Z",
+    "url": "https://arxiv.org/abs/2606.02512v2",
     "tags": [
       "Kagome 反铁磁"
     ],
@@ -8411,6 +8454,22 @@
     "score": 56.0,
     "journal_priority": false,
     "reason": "AI for spintronics；预印本补充"
+  },
+  {
+    "id": "10.1038/s41586-026-11311-y",
+    "doi": "10.1038/s41586-026-11311-y",
+    "title": "Transcription from megabase-scale heterochromatin generates neural barcodes",
+    "summary": "Abstract \n                   \n                    Heterochromatin typically represses genes\n                     1,2 \n                    , yet some genes paradoxically require it for activation\n                     3–7 \n                    . How can the same chromatin environment both silence and promote transcription? Here we address this question by interrogating the clustered protocadherin (Pcdh) locus, where subsets of genes are stochastically expressed while most remain silent\n                     8 \n                    . In neurons, stochastic and combinatorial expression of Pcdh genes generates unique cell-surface barcodes required for self–non-self discrimination and neural circuit assembly\n                     8 \n                    . By combining RNA labelling of Pcdh genes and neurodevelopmental cell types with single-molecule chromatin tracing and stochastic optical reconstruction microscopy, we find that a compact heterochromatin domain containing Pcdh genes forms as these genes become activated during development. Pcdh transcription occurs within the compact domain and reads through downstream genes, and distal enhancers must access the domain to engage target promoters. Genetic perturbations in mice suggest that opposing genome folding forces cooperate to establish Pcdh locus architecture and promote stochastic Pcdh expression. Specifically, while DNA loop extrusion allows enhancers to breach heterochromatin and find target promoters, heterochromatin-driven compartmentalization supports an expanded enhancer–promoter search space. These findings shed light on a process foundational to the development of vertebrate nervous systems and suggest a mechanism for how transcription can occur within seemingly silent chromatin environments.",
+    "date": "2026-11-25",
+    "url": "https://doi.org/10.1038/s41586-026-11311-y",
+    "journal": "Nature",
+    "source": "Nature",
+    "tags": [],
+    "authors": [],
+    "relevance": 0,
+    "score": 30.0,
+    "journal_priority": true,
+    "reason": "；重点关注期刊"
   },
   {
     "id": "10.1126/science.aef8963",
@@ -9915,6 +9974,38 @@
     "score": 20.0,
     "journal_priority": true,
     "reason": "；重点关注期刊"
+  },
+  {
+    "id": "10.1103/lns3-9xn1",
+    "doi": "10.1103/lns3-9xn1",
+    "title": "Probability-tunable true random number generation using a magnetic tunnel junction with two spin polarizers: A macrospin simulation study",
+    "summary": "",
+    "date": "2026-11-25",
+    "url": "https://doi.org/10.1103/lns3-9xn1",
+    "journal": "Physical Review Research",
+    "source": "Physical Review Research",
+    "tags": [],
+    "authors": [],
+    "relevance": 0,
+    "score": 19.0,
+    "journal_priority": false,
+    "reason": "；期刊论文"
+  },
+  {
+    "id": "10.1103/rdqr-z4sn",
+    "doi": "10.1103/rdqr-z4sn",
+    "title": "Emergent nonreciprocal magnon-phonon hybridization in a reciprocal magnetic film",
+    "summary": "",
+    "date": "2026-11-25",
+    "url": "https://doi.org/10.1103/rdqr-z4sn",
+    "journal": "Physical Review Applied",
+    "source": "Physical Review Applied",
+    "tags": [],
+    "authors": [],
+    "relevance": 0,
+    "score": 19.0,
+    "journal_priority": false,
+    "reason": "；期刊论文"
   },
   {
     "id": "10.1088/2058-9565/aebebd",
